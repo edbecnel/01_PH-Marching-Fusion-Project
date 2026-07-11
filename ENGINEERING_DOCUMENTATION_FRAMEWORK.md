@@ -21,6 +21,12 @@ The project is not a conventional software-development repository. EDF is theref
 9. Generation and bootstrap tools must not overwrite existing files silently.
 10. Changes should be validated and accompanied by a report when practical.
 
+## Domain Profile
+
+This repository is a **music-education domain profile** implementation of EDF. It preserves EDF Core navigation and governance while adding deliverable areas appropriate to marching-percussion education.
+
+Authoritative project-specific rules are in [Project Governance](docs/Governance/Project_Governance.md).
+
 ## Project-Specific Extensions
 
 This project adds:
@@ -32,9 +38,58 @@ This project adds:
 
 These extensions support the special-purpose music-education nature of the project while retaining EDF navigation, governance, traceability, and information-architecture practices.
 
+## EDF Domains Not Used
+
+The following EDF Core domains are structural placeholders only:
+
+- `docs/API/`
+- `docs/Database/`
+- `docs/Deployment/`
+
+They are not active documentation domains for this project. See each domain's README for details.
+
+## Accepted Analyzer Exceptions
+
+When validating against the EDF Framework Advisor, the following findings are accepted for this project:
+
+| Finding | Reason |
+|---|---|
+| Markdown in `scores/` | Intentional musical deliverable area |
+| Markdown in `audio/` | Intentional practice and presentation audio area |
+| Markdown in `references/` | Intentional curated source-material area |
+| Markdown in `reports/` | Intentional generated-report area |
+
+These paths are linked from `PROJECT_INDEX.md` and documented in [Documentation Architecture](docs/Architecture/Documentation_Architecture.md).
+
+## AI-Assisted Workflow
+
+AI-assisted work on this repository follows the IDE-native workflow defined in [AI Repository Workflow](docs/AI/Repository_Workflow.md).
+
+Key practices:
+
+- read and modify files in the local Git working tree
+- deliver complete files at normal repository paths
+- review changes with `git status` and `git diff` before committing
+- update navigation when documentation changes
+
+The legacy `.update/` ZIP handover workflow was used only for the initial EDF migration and is no longer the standard operating model.
+
+## Validation
+
+Run the EDF Framework Advisor read-only from a local clone of the [Engineering Documentation Framework](https://github.com/edbecnel/Engineering-Documentation-Framework) repository:
+
+```bash
+/path/to/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh \
+  "/path/to/01_PH-Marching-Fusion-Project"
+```
+
+This project does not maintain its own copy of EDF validation scripts.
+
 ## Canonical Entry Points
 
 - [Project README](README.md)
 - [Project Index](PROJECT_INDEX.md)
 - [Project Charter](PROJECT_CHARTER.md)
 - [Documentation Architecture](docs/Architecture/Documentation_Architecture.md)
+- [AI Engineering Handbook](docs/AI/README.md)
+- [Project Governance](docs/Governance/Project_Governance.md)

@@ -24,6 +24,7 @@ Key documents:
 - [Core Blueprint](docs/Specifications/Core_Blueprint.md)
 - [Documentation Architecture](docs/Architecture/Documentation_Architecture.md)
 - [Concept Library](docs/Reference/Concept_Library.md)
+- [AI Repository Workflow](docs/AI/Repository_Workflow.md)
 - [Architecture Decision Index](ARCHITECTURE_DECISIONS.md)
 
 ## Current Status
