@@ -1,0 +1,2 @@
+CANONICAL STRUCTURE VALIDATION PASSED
+No legacy numbered paths remain.

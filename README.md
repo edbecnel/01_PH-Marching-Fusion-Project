@@ -1,186 +1,75 @@
 # The Philippine Marching Percussion Fusion Project
 
-> **Preserving the soul of Philippine street drumming while elevating it through modern marching percussion techniques.**
+> Preserving the soul of Philippine street drumming while elevating it through modern marching percussion technique, notation, education, and performance design.
 
----
-
-# Project Vision
+## Project Overview
 
 The Philippine Marching Percussion Fusion Project is an educational, musical, and cultural initiative dedicated to developing a uniquely Filipino style of modern marching percussion.
 
-Rather than copying existing American drumline traditions, this project blends three complementary influences into a new performance system:
+The project combines:
 
-- 🇵🇭 Traditional Philippine Drum & Lyre and festival drumming
-- 🥁 Drum Corps International (DCI) battery technique and arranging
-- 🎺 Historically Black Colleges & Universities (HBCU) showmanship and visual performance
+- traditional Philippine Drum & Lyre and festival drumming;
+- Drum Corps International (DCI) battery technique and arranging;
+- Historically Black Colleges and Universities (HBCU) showmanship and visual performance.
 
-The objective is to create a distinctly Philippine marching percussion identity that preserves local musical traditions while introducing world-class educational methods, notation, arranging techniques, and performance practices.
+The objective is not to imitate an American marching style. It is to preserve Philippine rhythmic identity while introducing advanced notation, pedagogy, arranging methods, technical development, and visual presentation.
 
----
+## Start Here
 
-# Guiding Philosophy
+The authoritative documentation entry point is the [Project Index](PROJECT_INDEX.md).
 
-Every musical and educational decision should support four core principles:
+Key documents:
 
-1. Preserve the soul of Philippine street drumming.
-2. Introduce modern technique without sacrificing accessibility.
-3. Build performances that are visually exciting and musically sophisticated.
-4. Create a sustainable educational system that future generations can expand.
+- [Project Charter](PROJECT_CHARTER.md)
+- [Core Blueprint](docs/Specifications/Core_Blueprint.md)
+- [Documentation Architecture](docs/Architecture/Documentation_Architecture.md)
+- [Concept Library](docs/Reference/Concept_Library.md)
+- [Architecture Decision Index](ARCHITECTURE_DECISIONS.md)
 
-This project is intended to be a complete methodology—not simply a collection of musical scores.
+## Current Status
 
----
+The project is in its foundation stage.
 
-# Technology Stack
+Current priorities are:
 
-The project is built around:
+1. establish the EDF-compatible documentation structure;
+2. define project principles, terminology, and notation standards;
+3. configure the MuseScore Studio 4 and Muse Drumline workflow;
+4. create a three-part technical warm-up package;
+5. compose a 16-bar proof-of-concept hybrid cadence;
+6. test the material with local performers.
 
-- **MuseScore Studio 4**
-- **Muse Hub**
-- **Muse Drumline (MDL2)** sound libraries
-- **Apple Silicon Mac Mini**
+## Technology and Production Environment
 
-Muse Drumline playback serves as a validation tool, allowing arrangements to be tested for clarity, balance, and technical accuracy before being introduced to performers.
+- MuseScore Studio 4
+- Muse Hub
+- Muse Drumline (MDL2)
+- Apple Silicon Mac mini
+- GitHub as the canonical source of truth
+- Obsidian as an optional local documentation browser
 
----
-
-# Repository Structure
+## Repository Structure
 
 ```text
-01_PH-Marching-Fusion-Project/
-│
+.
 ├── README.md
-│
-├── 01_Blueprint_&_Docs/
-│   ├── 01_Core_Blueprint.md
-│   ├── 02_Documentation_Architecture.md
-│   ├── 03_Design_Principles.md
-│   ├── 04_Concept_Library.md
-│   ├── 05_Arranging_Guide.md
-│   ├── 06_Educational_Handbook.md
-│   ├── 07_Project_Journal.md
-│   ├── 08_Research/
-│   └── 09_Educational_Handouts/
-│
-├── 02_MuseScore_Scores/
-│   ├── 01_Technique_&_Warmups/
-│   ├── 02_Cadences/
-│   └── 03_Show_Arrangements/
-│
-├── 03_Audio_Exports/
-│   ├── 01_Full_Mix_MP3s/
-│   └── 02_Battery_Splits/
-│
-└── 04_Reference_Materials/
-    ├── 01_Traditional_PH_Grooves/
-    └── 02_DCI_HBCU_Inspiration/
+├── PROJECT_INDEX.md
+├── PROJECT_CHARTER.md
+├── ARCHITECTURE_DECISIONS.md
+├── CHANGELOG.md
+├── ENGINEERING_DOCUMENTATION_FRAMEWORK.md
+├── docs/
+├── scores/
+├── audio/
+├── references/
+├── scripts/
+├── reports/
+├── tasks/
+└── archive/
 ```
 
----
+See [Documentation Architecture](docs/Architecture/Documentation_Architecture.md) for document placement rules.
 
-# Documentation Guide
+## Guiding Principle
 
-The documentation is organized by responsibility rather than chronology.
-
-| Document | Purpose |
-|-----------|---------|
-| **01_Core_Blueprint.md** | Vision, philosophy, technology stack, and implementation roadmap |
-| **02_Documentation_Architecture.md** | Explains the documentation system and where new information belongs |
-| **03_Design_Principles.md** | The project's non-negotiable design rules |
-| **04_Concept_Library.md** | Definitions and explanations of musical, educational, visual, and arranging concepts |
-| **05_Arranging_Guide.md** | Practical techniques for writing music |
-| **06_Educational_Handbook.md** | Teaching philosophy, curriculum, and rehearsal methods |
-| **07_Project_Journal.md** | Engineering notebook containing experiments, discoveries, and future ideas |
-| **08_Research/** | Supporting papers, references, videos, and external resources |
-| **09_Educational_Handouts/** | Student-facing instructional material |
-
----
-
-# Development Workflow
-
-The project follows an iterative engineering workflow.
-
-```
-Research
-    ↓
-Project Journal
-    ↓
-Concept Library
-    ↓
-Arranging Guide
-    ↓
-Educational Handbook
-    ↓
-MuseScore Composition
-    ↓
-Audio Validation
-    ↓
-Field Testing
-    ↓
-Refinement
-```
-
-Ideas begin as research or observations.
-
-Once validated, they become permanent concepts.
-
-Those concepts influence arranging techniques and educational methods, which ultimately become written music and teaching materials.
-
----
-
-# Musical Philosophy
-
-The arranging approach combines three musical layers.
-
-## Layer A — The Soul
-
-Traditional Philippine street rhythms.
-
-- Bass drum pulse
-- Native syncopation
-- Festival energy
-
-## Layer B — The Precision
-
-Modern Drum Corps International techniques.
-
-- Rudiments
-- Grid writing
-- Tenor movement
-- Dynamic phrasing
-
-## Layer C — The Contrast
-
-Historically Black Colleges & Universities performance concepts.
-
-- Hip-hop grooves
-- Halftime feels
-- Visual swagger
-- Crowd engagement
-
-Together these layers create a modern marching percussion style that remains unmistakably Filipino.
-
----
-
-# Long-Term Objectives
-
-The long-term vision includes:
-
-- A complete Philippine marching percussion curriculum
-- Progressive technical warm-up systems
-- Original cadences
-- Full show arrangements
-- Educational handbooks
-- MuseScore templates
-- Professional-quality practice recordings
-- Instructional videos
-- Clinics and workshops
-- A sustainable methodology that can be adopted by schools and Drum & Lyre organizations throughout the Philippines
-
----
-
-# Guiding Principle
-
-The success of this project will not be measured by how closely it resembles American drumlines.
-
-Success will be measured by whether audiences immediately recognize it as something proudly and authentically Filipino while admiring its elevated musical sophistication, technical excellence, and educational value.
+Success will be measured by whether audiences recognize the result as proudly and authentically Filipino while also hearing greater precision, sophistication, clarity, and educational depth.

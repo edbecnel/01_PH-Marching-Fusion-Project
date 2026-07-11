@@ -1,3 +1,43 @@
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+.update/*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Editors and temporary files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Generated update packages and local migration staging
+*.zip
+.update/backups/
+.update/work/
+.update/*.log
+
+# Audio and MuseScore temporary exports
+*.tmp
+*.bak
+
+# ----------------------------------------------------------------------
+# Obsidian
+# ----------------------------------------------------------------------
+
+# Personal workspace
 .obsidian/workspace.json
-.obsidian/graph.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/core-plugins.json
+
+# Keep community plugin configuration
+!.obsidian/community-plugins.json
+
+# Keep project plugins
+!.obsidian/plugins/
+!.obsidian/plugins/**
