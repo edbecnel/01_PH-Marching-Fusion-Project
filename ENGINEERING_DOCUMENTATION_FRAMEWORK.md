@@ -35,6 +35,7 @@ This project adds:
 - `scores/`
 - `audio/`
 - `references/`
+- `assets/`
 
 These extensions support the special-purpose music-education nature of the project while retaining EDF navigation, governance, traceability, and information-architecture practices.
 
@@ -58,6 +59,7 @@ When validating against the EDF Framework Advisor, the following findings are ac
 | Markdown in `audio/` | Intentional practice and presentation audio area |
 | Markdown in `references/` | Intentional curated source-material area |
 | Markdown in `reports/` | Intentional generated-report area |
+| Markdown in `assets/` | Intentional branding and shared-asset area |
 
 These paths are linked from `PROJECT_INDEX.md` and documented in [Documentation Architecture](docs/Architecture/Documentation_Architecture.md).
 

@@ -7,6 +7,7 @@
 ## Foundation
 
 - [Project Charter](PROJECT_CHARTER.md)
+- [Assets](assets/README.md)
 - [Philippine Marching Percussion Identity Framework](docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md)
 - [Core Blueprint](docs/Specifications/Core_Blueprint.md)
 - [EDF Adoption Guide](ENGINEERING_DOCUMENTATION_FRAMEWORK.md)

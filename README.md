@@ -1,5 +1,7 @@
 # The Philippine Marching Percussion Fusion Project
 
+![Philippine Marching Percussion Fusion Project](assets/ph-marching-fusion-logo.png)
+
 > Preserving the soul of Philippine street drumming while elevating it through modern marching percussion technique, notation, education, and performance design.
 
 ## Project Overview
@@ -60,6 +62,7 @@ Current priorities are:
 ├── ARCHITECTURE_DECISIONS.md
 ├── CHANGELOG.md
 ├── ENGINEERING_DOCUMENTATION_FRAMEWORK.md
+├── assets/
 ├── docs/
 ├── scores/
 ├── audio/

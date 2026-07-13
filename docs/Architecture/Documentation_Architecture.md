@@ -19,6 +19,7 @@ The repository uses the Engineering Documentation Framework as its baseline and 
 ├── scores/                  # MuseScore and printable score deliverables
 ├── audio/                   # Practice and presentation audio
 ├── references/              # Curated source material and links
+├── assets/                  # Project branding and shared visual assets
 ├── scripts/                 # Project utilities and validation
 ├── reports/                 # Generated reports
 ├── tasks/                   # Active work tracking
@@ -117,6 +118,10 @@ Full mixes, sectional practice tracks, and approved exports.
 
 Curated recordings, links, media notes, and inspiration sources. Large copyrighted media should not be committed unless redistribution is permitted.
 
+### `assets/`
+
+Canonical project branding and shared visual assets (for example the primary logo). See [Assets README](../../assets/README.md).
+
 ## Information Lifecycle
 
 ```text
@@ -145,6 +150,7 @@ Revision or archival
 - External-source analysis belongs in Research.
 - Finished music belongs in `scores/`.
 - Finished practice audio belongs in `audio/`.
+- Canonical branding and shared visual assets belong in `assets/`.
 - Superseded material belongs in `archive/`.
 
 ## Navigation Rules

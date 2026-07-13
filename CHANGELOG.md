@@ -8,6 +8,7 @@ All notable documentation-architecture and project-structure changes are recorde
 
 ### Added
 
+- `assets/` project extension with [Assets README](assets/README.md) and primary logo `ph-marching-fusion-logo.png`
 - [Instructor Introduction](docs/User_Guides/Instructor_Introduction.md) — educator entry point for pilot collaboration
 - [MONHS 2026 Pilot Brief](docs/User_Guides/MONHS_2026_Pilot_Brief.md) — MONHS Drum & Lyre Corps 2026 show pilot
 - [Philippine Marching Percussion Identity Framework](docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md) — musical constitution and Identity Preservation Checklist
@@ -28,6 +29,8 @@ All notable documentation-architecture and project-structure changes are recorde
 
 ### Changed
 
+- [README](README.md) — displays primary logo from `assets/`
+- [Documentation Architecture](docs/Architecture/Documentation_Architecture.md), [EDF Adoption Guide](ENGINEERING_DOCUMENTATION_FRAMEWORK.md), [Project Governance](docs/Governance/Project_Governance.md), and [PROJECT_INDEX](PROJECT_INDEX.md) — document `assets/` extension and analyzer exception
 - Corrected MONHS expansion to **Misamis Oriental National High School** (not Malaybalay) across stakeholder, instructor, and pilot documents
 - Clarified pilot context: MONHS is in Misamis Oriental; collaborating instructors bring Bukidnon/Kaamulan expertise
 - [User Guides README](docs/User_Guides/README.md), [PROJECT_INDEX](PROJECT_INDEX.md), and [Documentation Architecture](docs/Architecture/Documentation_Architecture.md) — linked educator entry points

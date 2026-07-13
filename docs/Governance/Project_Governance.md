@@ -24,6 +24,7 @@ The project preserves EDF navigation, traceability, and governance practices whi
 - musical scores and notation
 - practice and presentation audio
 - curated reference material
+- project branding and shared visual assets
 - music-education research
 - arranging and pedagogy documentation
 
@@ -38,6 +39,7 @@ See [Documentation Architecture](../Architecture/Documentation_Architecture.md) 
 | `docs/Specifications/` | Authoritative musical, educational, and design intent |
 | `scores/` and `audio/` | Finished musical deliverables |
 | `references/` | Curated inspiration and source material |
+| `assets/` | Canonical branding and shared visual assets |
 
 ## Document Ownership
 
@@ -64,7 +66,7 @@ Do not place project documentation in these domains unless the project's nature 
 
 ## Accepted Deliverable Areas
 
-The Framework Advisor may report Markdown under `scores/`, `audio/`, `references/`, and `reports/` as outside canonical `docs/` locations. This is expected and accepted.
+The Framework Advisor may report Markdown under `scores/`, `audio/`, `references/`, `reports/`, and `assets/` as outside canonical `docs/` locations. This is expected and accepted.
 
 These paths are deliberate project extensions documented in [Documentation Architecture](../Architecture/Documentation_Architecture.md). They must remain linked from `PROJECT_INDEX.md` and include hierarchical navigation breadcrumbs.
 
@@ -89,7 +91,7 @@ This project does not host EDF Framework Advisor scripts. Validation is performe
   "/path/to/01_PH-Marching-Fusion-Project"
 ```
 
-Analyzer recommendations about `scores/`, `audio/`, `references/`, and `reports/` may be accepted as documented exceptions above. Recommendations about missing `docs/AI/` or governance completeness should be resolved.
+Analyzer recommendations about `scores/`, `audio/`, `references/`, `reports/`, and `assets/` may be accepted as documented exceptions above. Recommendations about missing `docs/AI/` or governance completeness should be resolved.
 
 ## Framework Reference Documents
 
