@@ -2,11 +2,26 @@
 
 # Blueprint Plan: The Philippine Marching Percussion Fusion
 
+> **Status:** Maintained
+> **Owner:** Philippine Marching Percussion Fusion Project
+> **Applies To:** Implementation, platform, pedagogy, and roadmap
+> **Last Reviewed:** 2026-07-13
+> **Review Frequency:** Quarterly
+> **Authoritative:** Yes
+
+## Relationship to the Identity Framework
+
+This document is the **operational blueprint**—platform, pedagogy, arranging method, and implementation roadmap.
+
+The [Philippine Marching Percussion Identity Framework](Philippine_Marching_Percussion_Identity_Framework.md) is the project's **musical constitution**. It defines identity, cultural foundations, and the Identity Preservation Checklist. Consult it before applying the methods described here.
+
 ## 1. Project Overview
 
 The Philippine Marching Percussion Fusion Project modernizes traditional Philippine Drum & Lyre and festival street drumming by combining the best elements of three musical traditions into a uniquely Filipino performance style.
 
 Rather than copying American drumlines, the objective is to preserve the powerful energy and cultural character of local street drumming while incorporating the technical sophistication of modern marching percussion.
+
+The guiding philosophy is **modernization without imitation**. See the [Identity Framework](Philippine_Marching_Percussion_Identity_Framework.md).
 
 The project blends:
 
@@ -132,6 +147,8 @@ Evaluate reading development, technical improvement, cultural authenticity, audi
 
 ## 7. Guiding Design Principles
 
+These operational principles align with the [Design Principles](Design_Principles.md) and [Identity Framework](Philippine_Marching_Percussion_Identity_Framework.md):
+
 1. Preserve the soul of Philippine street drumming.
 2. Technique must support musicality.
 3. Complexity must remain teachable.
@@ -139,3 +156,10 @@ Evaluate reading development, technical improvement, cultural authenticity, audi
 5. Local instrumentation should be treated creatively rather than as a deficiency.
 6. Cultural identity takes priority over imitation.
 7. The system should be reusable and expandable by future educators.
+
+## Related Documents
+
+- [Philippine Marching Percussion Identity Framework](Philippine_Marching_Percussion_Identity_Framework.md)
+- [Design Principles](Design_Principles.md)
+- [Arranging Guide](../User_Guides/Arranging_Guide.md)
+- [Educational Handbook](../User_Guides/Educational_Handbook.md)

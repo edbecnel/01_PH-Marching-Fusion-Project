@@ -1,0 +1,114 @@
+Engineering Documentation Framework Adoption Conformance Validation
+===================================================================
+
+Project root: /Users/edbecnel/Development/GitHub/01_PH-Marching-Fusion-Project
+Started: 2026-07-13 19:25:09 +0800
+
+Framework Advisor conformance analysis
+--------------------------------------
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+Engineering Documentation Framework Advisor
+Ruleset: 2026-07-10-stage1
+===========================================
+
+Project root: /Users/edbecnel/Development/GitHub/01_PH-Marching-Fusion-Project
+Project name: 01_PH-Marching-Fusion-Project
+Repository mode: EDF adopting project
+Overall compliance: 99%
+Structure score: 96%
+AI score: 100%
+Navigation score: 100%
+Governance score: 100%
+
+This report is read-only.
+No files or folders were created, modified, moved, renamed, or deleted.
+
+Missing required directories
+----------------------------
+- docs/Developer_Handbook
+
+Missing recommended root files
+------------------------------
+None.
+
+Missing AI handbook files
+-------------------------
+None.
+
+Missing Governance files
+------------------------
+None.
+
+Broken links
+------------
+None.
+
+Orphan documents
+----------------
+None.
+
+Navigation issues
+-----------------
+None.
+
+Governance metadata and lifecycle issues
+----------------------------------------
+None.
+
+Overdue reviews
+---------------
+None.
+
+Markdown outside canonical locations
+------------------------------------
+- references/traditional-ph-grooves/README.md
+- references/README.md
+- references/dci-hbcu-inspiration/README.md
+- scores/technique-and-warmups/README.md
+- scores/README.md
+- scores/cadences/README.md
+- scores/show-arrangements/README.md
+- audio/battery-splits/README.md
+- audio/README.md
+- audio/full-mixes/README.md
+- reports/README.md
+
+Warnings
+--------
+None.
+
+Recommendations
+---------------
+- Audit Markdown outside canonical locations.
+
+
+Validation completed: 2026-07-13 19:25:16 +0800
+
+============================================================
+Conformance validation completed successfully.
+
+Report:
+reports/conformance/framework-advisor-20260713-192509.txt
+
+Compliance scores:
+- Overall: 99%
+- Structure: 96%
+- AI: 100%
+- Navigation: 100%
+- Governance: 100%
+
+Next recommended actions:
+- Audit Markdown outside canonical locations.
+============================================================

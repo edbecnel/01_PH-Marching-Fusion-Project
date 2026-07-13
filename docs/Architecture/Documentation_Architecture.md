@@ -39,6 +39,10 @@ Authoritative navigation hub for all project documentation and deliverables.
 
 Defines purpose, scope, stakeholders, constraints, and success criteria.
 
+### `docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md`
+
+The project's musical constitution. Defines identity, cultural foundations, and the Identity Preservation Checklist.
+
 ### `ENGINEERING_DOCUMENTATION_FRAMEWORK.md`
 
 Records how EDF applies to this special-purpose project.
@@ -61,6 +65,13 @@ Project structure, documentation architecture, cross-cutting design, and ADRs.
 
 Authoritative statements of project intent, required behavior, design constraints, notation rules, and musical requirements.
 
+Primary documents:
+
+- [Philippine Marching Percussion Identity Framework](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md) — musical constitution
+- [Core Blueprint](../Specifications/Core_Blueprint.md) — operational blueprint
+- [Design Principles](../Specifications/Design_Principles.md)
+- [Notation Standards](../Specifications/Notation_Standards.md)
+
 ### `docs/Reference/`
 
 Definitions, terminology, concept explanations, and stable reference material.
@@ -68,6 +79,13 @@ Definitions, terminology, concept explanations, and stable reference material.
 ### `docs/User_Guides/`
 
 Practical instructions for arrangers, educators, performers, and other end users.
+
+Primary documents:
+
+- [Instructor Introduction](../User_Guides/Instructor_Introduction.md) — first read for music educators and pilot collaborators
+- [MONHS 2026 Pilot Brief](../User_Guides/MONHS_2026_Pilot_Brief.md) — Misamis Oriental National High School (MONHS) pilot
+- [Educational Handbook](../User_Guides/Educational_Handbook.md) — teaching methodology
+- [Arranging Guide](../User_Guides/Arranging_Guide.md) — arranging guidance
 
 ### `docs/Development/`
 

@@ -7,3 +7,4 @@ This domain contains stable definitions, shared terminology, and reusable concep
 ## Contents
 
 - [Concept Library](Concept_Library.md)
+- [Philippine Percussion Sound Model](Philippine_Percussion_Sound_Model.md) — planned sonic reference

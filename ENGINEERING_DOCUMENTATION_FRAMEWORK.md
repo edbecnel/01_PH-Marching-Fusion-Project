@@ -90,6 +90,8 @@ This project does not maintain its own copy of EDF validation scripts.
 - [Project README](README.md)
 - [Project Index](PROJECT_INDEX.md)
 - [Project Charter](PROJECT_CHARTER.md)
+- [Philippine Marching Percussion Identity Framework](docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md)
+- [Instructor Introduction](docs/User_Guides/Instructor_Introduction.md) — for educators and pilot collaborators
 - [Documentation Architecture](docs/Architecture/Documentation_Architecture.md)
 - [AI Engineering Handbook](docs/AI/README.md)
 - [Project Governance](docs/Governance/Project_Governance.md)

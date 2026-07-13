@@ -7,6 +7,7 @@
 ## Foundation
 
 - [Project Charter](PROJECT_CHARTER.md)
+- [Philippine Marching Percussion Identity Framework](docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md)
 - [Core Blueprint](docs/Specifications/Core_Blueprint.md)
 - [EDF Adoption Guide](ENGINEERING_DOCUMENTATION_FRAMEWORK.md)
 - [Change Log](CHANGELOG.md)
@@ -33,27 +34,32 @@
 ## Specifications
 
 - [Specifications Overview](docs/Specifications/README.md)
+- [Philippine Marching Percussion Identity Framework](docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md)
 - [Core Blueprint](docs/Specifications/Core_Blueprint.md)
-- Design Principles — planned
-- Notation Standards — planned
+- [Design Principles](docs/Specifications/Design_Principles.md)
+- [Notation Standards](docs/Specifications/Notation_Standards.md)
 
 ## Reference
 
 - [Reference Overview](docs/Reference/README.md)
 - [Concept Library](docs/Reference/Concept_Library.md)
+- [Philippine Percussion Sound Model](docs/Reference/Philippine_Percussion_Sound_Model.md) — planned
 
 ## User Guides and Education
 
 - [User Guides Overview](docs/User_Guides/README.md)
-- Arranging Guide — planned
-- Educational Handbook — planned
+- [Instructor Introduction](docs/User_Guides/Instructor_Introduction.md) — start here for educators
+- [MONHS 2026 Pilot Brief](docs/User_Guides/MONHS_2026_Pilot_Brief.md) — Misamis Oriental National High School (MONHS)
+- [Arranging Guide](docs/User_Guides/Arranging_Guide.md)
+- [Educational Handbook](docs/User_Guides/Educational_Handbook.md)
 - Student Handouts — planned
 
 ## Development and Project Records
 
 - [Development Overview](docs/Development/README.md)
-- Project Journal — planned
+- [Project Journal](docs/Development/Project_Journal.md)
 - [Active Tasks](tasks/README.md)
+- [Research Backlog](tasks/research-backlog.md)
 - [Reports](reports/README.md)
 
 ## EDF Structural Placeholders
@@ -67,6 +73,8 @@ These domains are retained for EDF structural compliance and are not active for 
 ## Research and Source Material
 
 - [Research Overview](docs/Research/README.md)
+- [Indigenous Philippine Percussion](docs/Research/Indigenous_Philippine_Percussion.md)
+- [Kaamulan Festival](docs/Research/Kaamulan_Festival.md)
 - [References Overview](references/README.md)
 - [Traditional Philippine Groove References](references/traditional-ph-grooves/README.md)
 - [DCI and HBCU Inspiration](references/dci-hbcu-inspiration/README.md)

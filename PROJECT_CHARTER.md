@@ -8,7 +8,9 @@ The Philippine Marching Percussion Fusion Project
 
 ## Purpose
 
-Create a reusable musical, educational, and performance methodology that blends traditional Philippine street-drumming identity with DCI technical precision and HBCU-inspired showmanship.
+Establish a new, distinctly Filipino modern marching percussion tradition that preserves Philippine cultural identity while embracing modern musicianship—**modernization without imitation**.
+
+See the [Philippine Marching Percussion Identity Framework](docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md) for the authoritative identity statement.
 
 ## Problem Being Addressed
 
@@ -51,7 +53,8 @@ The project introduces notation and structured pedagogy without replacing the ea
 
 - Project owner and arranger
 - Local Philippine Drum & Lyre performers
-- Music educators and section leaders
+- Music educators and section leaders — see [Instructor Introduction](docs/User_Guides/Instructor_Introduction.md)
+- MONHS (Misamis Oriental National High School) Drum & Lyre Corps instructors (2026 pilot) — see [MONHS 2026 Pilot Brief](docs/User_Guides/MONHS_2026_Pilot_Brief.md)
 - Schools and community festival organizations
 - Future arrangers and contributors
 

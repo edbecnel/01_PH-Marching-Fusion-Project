@@ -21,6 +21,7 @@ The authoritative documentation entry point is the [Project Index](PROJECT_INDEX
 Key documents:
 
 - [Project Charter](PROJECT_CHARTER.md)
+- [Instructor Introduction](docs/User_Guides/Instructor_Introduction.md) — for music educators and pilot collaborators
 - [Core Blueprint](docs/Specifications/Core_Blueprint.md)
 - [Documentation Architecture](docs/Architecture/Documentation_Architecture.md)
 - [Concept Library](docs/Reference/Concept_Library.md)

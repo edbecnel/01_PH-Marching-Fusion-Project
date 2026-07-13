@@ -6,6 +6,7 @@ This domain contains authoritative statements of project intent, constraints, re
 
 ## Contents
 
-- [Core Blueprint](Core_Blueprint.md)
-- Design Principles — planned
-- Notation Standards — planned
+- [Philippine Marching Percussion Identity Framework](Philippine_Marching_Percussion_Identity_Framework.md) — musical constitution and identity
+- [Core Blueprint](Core_Blueprint.md) — operational implementation and roadmap
+- [Design Principles](Design_Principles.md) — how identity influences practice
+- [Notation Standards](Notation_Standards.md) — notation conventions (in development)
