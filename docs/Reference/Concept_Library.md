@@ -32,7 +32,7 @@ The project preserves native offbeat and displaced-accent patterns as the underl
 
 - Groove construction
 - Bass-drum voicing
-- Accent grids
+- Accent grids (see [Grid Exercises](Grid_Exercises.md))
 - Tension and release
 - Metric contrast
 
@@ -279,13 +279,13 @@ When evaluating ideas, ask: "How would this sound if it had originated in the Ph
 ## Future Concepts
 
 - Rudiments and hybrid rudiments
-- Grid writing
+- Grid writing (see [Grid Exercises](Grid_Exercises.md) and [8-8-16 Exercise](Eight_Eight_Sixteen.md))
 - Metric modulation
 - Groove construction
 - Bass-drum voicing
 - Cymbal vocabulary
 - Stick heights
-- Accent-tap systems
+- Accent-tap systems (see [Accent-Taps](Accent_Taps.md))
 - Voice leading
 - Dynamic architecture
 - Philippine folk-dance influence
@@ -295,3 +295,4 @@ When evaluating ideas, ask: "How would this sound if it had originated in the Ph
 - Educational scaffolding
 - Crowd engagement
 - Indigenous Percussion Performance Practices (expanded)
+- Legato stroke (see [Legato Stroke](Legato_Stroke.md))

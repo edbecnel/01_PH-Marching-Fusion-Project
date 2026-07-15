@@ -52,12 +52,12 @@ Technical exercises will combine marching-percussion fundamentals with Philippin
 
 Initial subjects include:
 
-- legatos;
+- [legatos](../Reference/Legato_Stroke.md);
 - double strokes;
-- accent-taps;
-- 8-8-16;
+- [accent-taps](../Reference/Accent_Taps.md);
+- [8-8-16](../Reference/Eight_Eight_Sixteen.md);
 - flams;
-- grid exercises.
+- [grid exercises](../Reference/Grid_Exercises.md).
 
 DCI stick-height control and sound-quality expectations will be taught through accent groupings influenced by Philippine festival rhythms.
 

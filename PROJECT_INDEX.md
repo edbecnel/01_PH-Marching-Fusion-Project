@@ -44,6 +44,10 @@
 
 - [Reference Overview](docs/Reference/README.md)
 - [Concept Library](docs/Reference/Concept_Library.md)
+- [Legato Stroke](docs/Reference/Legato_Stroke.md)
+- [Accent-Taps](docs/Reference/Accent_Taps.md)
+- [8-8-16 Exercise](docs/Reference/Eight_Eight_Sixteen.md)
+- [Grid Exercises](docs/Reference/Grid_Exercises.md)
 - [Philippine Percussion Sound Model](docs/Reference/Philippine_Percussion_Sound_Model.md) — planned
 
 ## User Guides and Education

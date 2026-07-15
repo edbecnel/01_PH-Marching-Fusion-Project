@@ -16,7 +16,7 @@ This document explains how the [Philippine Marching Percussion Identity Framewor
 ## Primary Filter
 
 All design work should answer:
-
+	
 > "Does this preserve Philippine identity while improving musicianship?"
 
 ## Educational Philosophy

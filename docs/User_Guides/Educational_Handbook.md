@@ -35,13 +35,17 @@ See [Core Blueprint — Pedagogy](../Specifications/Core_Blueprint.md#3-pedagogy
 
 ## Hybrid Warm-Up System
 
-Technical exercises combine marching-percussion fundamentals with Philippine rhythmic vocabulary. Initial subjects include legatos, double strokes, accent-taps, 8-8-16, flams, and grid exercises.
+Technical exercises combine marching-percussion fundamentals with Philippine rhythmic vocabulary. Initial subjects include [legatos](../Reference/Legato_Stroke.md), double strokes, [accent-taps](../Reference/Accent_Taps.md), [8-8-16](../Reference/Eight_Eight_Sixteen.md), flams, and [grid exercises](../Reference/Grid_Exercises.md).
 
 DCI stick-height control is taught through accent groupings influenced by Philippine festival rhythms.
 
 ## Related Documents
 
 - [Instructor Introduction](Instructor_Introduction.md)
+- [Legato Stroke](../Reference/Legato_Stroke.md)
+- [Accent-Taps](../Reference/Accent_Taps.md)
+- [8-8-16 Exercise](../Reference/Eight_Eight_Sixteen.md)
+- [Grid Exercises](../Reference/Grid_Exercises.md)
 - [Philippine Marching Percussion Identity Framework](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md)
 - [Design Principles](../Specifications/Design_Principles.md)
 - [Arranging Guide](Arranging_Guide.md)

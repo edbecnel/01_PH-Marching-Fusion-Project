@@ -8,6 +8,10 @@ All notable documentation-architecture and project-structure changes are recorde
 
 ### Added
 
+- [Legato Stroke](docs/Reference/Legato_Stroke.md) — percussion legato stroke reference for warm-up pedagogy
+- [Accent-Taps](docs/Reference/Accent_Taps.md) — accent-tap technique, grids, and height-control troubleshooting
+- [8-8-16 Exercise](docs/Reference/Eight_Eight_Sixteen.md) — foundational warm-up structure and variations
+- [Grid Exercises](docs/Reference/Grid_Exercises.md) — fusion grid pedagogy (DLC/DCI/HBCU hybrid)
 - `assets/` project extension with [Assets README](assets/README.md) and primary logo `ph-marching-fusion-logo.png`
 - [Instructor Introduction](docs/User_Guides/Instructor_Introduction.md) — educator entry point for pilot collaboration
 - [MONHS 2026 Pilot Brief](docs/User_Guides/MONHS_2026_Pilot_Brief.md) — MONHS Drum & Lyre Corps 2026 show pilot
@@ -29,6 +33,7 @@ All notable documentation-architecture and project-structure changes are recorde
 
 ### Changed
 
+- [Educational Handbook](docs/User_Guides/Educational_Handbook.md), [Core Blueprint](docs/Specifications/Core_Blueprint.md), and [Technique and Warm-ups](scores/technique-and-warmups/README.md) — linked to technique reference documents (Legato Stroke, Accent-Taps, 8-8-16, Grid Exercises)
 - [README](README.md) — displays primary logo from `assets/`
 - [Documentation Architecture](docs/Architecture/Documentation_Architecture.md), [EDF Adoption Guide](ENGINEERING_DOCUMENTATION_FRAMEWORK.md), [Project Governance](docs/Governance/Project_Governance.md), and [PROJECT_INDEX](PROJECT_INDEX.md) — document `assets/` extension and analyzer exception
 - Corrected MONHS expansion to **Misamis Oriental National High School** (not Malaybalay) across stakeholder, instructor, and pilot documents
