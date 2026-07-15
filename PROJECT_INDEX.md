@@ -48,7 +48,8 @@
 - [Accent-Taps](docs/Reference/Accent_Taps.md)
 - [8-8-16 Exercise](docs/Reference/Eight_Eight_Sixteen.md)
 - [Grid Exercises](docs/Reference/Grid_Exercises.md)
-- [Philippine Percussion Sound Model](docs/Reference/Philippine_Percussion_Sound_Model.md) — planned
+- [Philippine Percussion Sound Model](docs/Reference/Philippine_Percussion_Sound_Model.md)
+- [Syncopated Push-and-Pull](docs/Reference/Syncopated_Push_and_Pull.md)
 
 ## User Guides and Education
 

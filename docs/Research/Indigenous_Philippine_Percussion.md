@@ -275,7 +275,7 @@ Indigenous interlocking ensembles, festival drum lines, and community procession
 
 **Why it matters to this project**
 
-Collective groove is the sonic target of the future [Philippine Percussion Sound Model](../Reference/Philippine_Percussion_Sound_Model.md). Technique refs ([Accent-Taps](../Reference/Accent_Taps.md), [Grid Exercises](../Reference/Grid_Exercises.md)) exist to serve groove—not replace it.
+Collective groove is the sonic target of the [Philippine Percussion Sound Model](../Reference/Philippine_Percussion_Sound_Model.md). Technique refs ([Accent-Taps](../Reference/Accent_Taps.md), [Grid Exercises](../Reference/Grid_Exercises.md)) exist to serve groove—not replace it.
 
 **Translation question**
 

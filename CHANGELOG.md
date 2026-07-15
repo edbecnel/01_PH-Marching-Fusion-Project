@@ -8,6 +8,7 @@ All notable documentation-architecture and project-structure changes are recorde
 
 ### Added
 
+- [Syncopated Push-and-Pull](docs/Reference/Syncopated_Push_and_Pull.md) — groove definition with drum notation examples
 - [Legato Stroke](docs/Reference/Legato_Stroke.md) — percussion legato stroke reference for warm-up pedagogy
 - [Accent-Taps](docs/Reference/Accent_Taps.md) — accent-tap technique, grids, and height-control troubleshooting
 - [8-8-16 Exercise](docs/Reference/Eight_Eight_Sixteen.md) — foundational warm-up structure and variations
@@ -33,6 +34,7 @@ All notable documentation-architecture and project-structure changes are recorde
 
 ### Changed
 
+- [Philippine Percussion Sound Model](docs/Reference/Philippine_Percussion_Sound_Model.md) — expanded from stub to draft sonic reference with evaluation checklist
 - [Indigenous Philippine Percussion](docs/Research/Indigenous_Philippine_Percussion.md) — expanded concept and performance-practice research profiles; formal research program and ethics section
 - [Research README](docs/Research/README.md), [research backlog](tasks/research-backlog.md), [Concept Library](docs/Reference/Concept_Library.md), and [Project Journal](docs/Development/Project_Journal.md) — cross-linked indigenous research structure
 - [Educational Handbook](docs/User_Guides/Educational_Handbook.md), [Core Blueprint](docs/Specifications/Core_Blueprint.md), and [Technique and Warm-ups](scores/technique-and-warmups/README.md) — linked to technique reference documents (Legato Stroke, Accent-Taps, 8-8-16, Grid Exercises)

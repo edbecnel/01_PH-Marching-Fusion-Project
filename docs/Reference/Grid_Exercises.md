@@ -31,7 +31,7 @@ This approach supports **modernization without imitation** as defined in the [Id
 
 ## Exercise 1: The "Sinulog-DCI Hybrid" 16th-Note Grid
 
-This exercise isolates the syncopated push-and-pull found in native Visayan festival drumming. It forces the line to maintain precise DCI height controls while navigating an aggressive, syncopated forward-shifting grid.
+This exercise isolates the [syncopated push-and-pull](Syncopated_Push_and_Pull.md) found in native Visayan festival drumming. It forces the line to maintain precise DCI height controls while navigating an aggressive, syncopated forward-shifting grid.
 
 ### Structure
 
@@ -147,6 +147,7 @@ Grid exercises apply the three-layer arranging method from the [Core Blueprint](
 
 ## Related Documents
 
+- [Syncopated Push-and-Pull](Syncopated_Push_and_Pull.md)
 - [Legato Stroke](Legato_Stroke.md)
 - [Accent-Taps](Accent_Taps.md)
 - [8-8-16 Exercise](Eight_Eight_Sixteen.md)

@@ -22,7 +22,7 @@ Syncopation places accents or stresses on weak beats, subdivisions, or spaces be
 
 ### Project Application
 
-Syncopation is a major source of forward motion in Philippine festival drumming. Native bass-drum and ensemble patterns may avoid or displace expected downbeats, producing a street-oriented, danceable momentum.
+Syncopation is a major source of forward motion in Philippine festival drumming. Native bass-drum and ensemble patterns may avoid or displace expected downbeats, producing a street-oriented, danceable momentum through [syncopated push-and-pull](Syncopated_Push_and_Pull.md).
 
 ### Fusion Role
 
@@ -34,6 +34,7 @@ The project preserves native offbeat and displaced-accent patterns as the underl
 - Bass-drum voicing
 - Accent grids (see [Grid Exercises](Grid_Exercises.md))
 - Tension and release
+- [Syncopated Push-and-Pull](Syncopated_Push_and_Pull.md)
 - Metric contrast
 
 ## 2. Split Orchestration for Marching Tenors

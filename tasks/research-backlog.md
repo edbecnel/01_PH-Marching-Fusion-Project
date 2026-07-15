@@ -14,7 +14,7 @@ Active research topics supporting the Philippine Marching Percussion Fusion Proj
 | Indigenous performance techniques | [Indigenous Philippine Percussion](../docs/Research/Indigenous_Philippine_Percussion.md) | In progress (performance-practice profiles) |
 | Dance-percussion relationships | [Kaamulan Festival](../docs/Research/Kaamulan_Festival.md) | Planned |
 | Comparative analysis: Philippine, DCI, and HBCU | Research / Concept Library | Planned |
-| Philippine Percussion Sound Model | [Philippine Percussion Sound Model](../docs/Reference/Philippine_Percussion_Sound_Model.md) | Planned |
+| Philippine Percussion Sound Model | [Philippine Percussion Sound Model](../docs/Reference/Philippine_Percussion_Sound_Model.md) | In progress (draft; pilot validation) |
 
 ## Concept Library Topics (Develop Over Time)
 

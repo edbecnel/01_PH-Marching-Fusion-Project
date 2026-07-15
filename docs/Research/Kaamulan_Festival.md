@@ -32,7 +32,7 @@ Insights from Kaamulan research should inform:
 - layered rhythmic writing in battery parts
 - movement integrated with musical phrasing
 - audience engagement concepts
-- the future [Philippine Percussion Sound Model](../Reference/Philippine_Percussion_Sound_Model.md)
+- the [Philippine Percussion Sound Model](../Reference/Philippine_Percussion_Sound_Model.md)
 
 ## Findings
 

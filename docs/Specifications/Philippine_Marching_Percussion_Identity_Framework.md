@@ -236,7 +236,7 @@ Innovation is encouraged when it strengthens the project's identity.
 - [Design Principles](Design_Principles.md) — how identity influences practice
 - [Core Blueprint](Core_Blueprint.md) — operational implementation and roadmap
 - [Concept Library](../Reference/Concept_Library.md) — reusable concept definitions
-- [Philippine Percussion Sound Model](../Reference/Philippine_Percussion_Sound_Model.md) — future sonic reference (planned)
+- [Philippine Percussion Sound Model](../Reference/Philippine_Percussion_Sound_Model.md)
 - [Arranging Guide](../User_Guides/Arranging_Guide.md)
 - [Educational Handbook](../User_Guides/Educational_Handbook.md)
 
