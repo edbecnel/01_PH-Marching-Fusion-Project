@@ -24,10 +24,10 @@ Pilot validation is ongoing. Refinements from [Indigenous Philippine Percussion]
 
 ## How to Use This Model
 
-1. Apply the [Identity Preservation Checklist](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#appendix-identity-preservation-checklist) first.
+1. Apply the [Identity Preservation Checklist](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#appendix-identity-preservation-checklist) · [[../Specifications/Philippine_Marching_Percussion_Identity_Framework#Appendix: Identity Preservation Checklist|Identity Preservation Checklist]] first.
 2. Listen for the characteristics below—groove and bass momentum matter more than rudimental display.
-3. Use the [three-layer sonic map](#three-layer-sonic-map) when diagnosing arrangements.
-4. Run the [evaluation checklist](#evaluation-checklist) before adopting new repertoire.
+3. Use the [three-layer sonic map](#three-layer-sonic-map) · [[#Three-Layer Sonic Map|three-layer sonic map]] when diagnosing arrangements.
+4. Run the [evaluation checklist](#evaluation-checklist) · [[#Evaluation Checklist|evaluation checklist]] before adopting new repertoire.
 
 **Identity** answers *why*. **Sound model** answers *what it should sound like*. **Technique references** answer *how players execute it*.
 
@@ -87,9 +87,9 @@ Phrases follow **processional and festival logic**: build, release, answer, retu
 4. **Return** — explosive recovery to festival tempo and accent philosophy
 5. **Cadential release** — unison impact, crowd-facing punctuation, or ceremonial pause
 
-### Call-and-response at phrase level
+### Phrase-level call-and-response
 
-Sections or sub-groups may trade figures before reuniting on unison impact—mirroring community and festival dialogue. See [Indigenous Philippine Percussion — Call-and-Response](../Research/Indigenous_Philippine_Percussion.md#call-and-response).
+Sections or sub-groups may trade figures before reuniting on unison impact—mirroring community and festival dialogue. See [Indigenous Philippine Percussion — Call-and-Response](../Research/Indigenous_Philippine_Percussion.md#Call-and-Response) · [[../Research/Indigenous_Philippine_Percussion#Call-and-Response|Indigenous Philippine Percussion — Call-and-Response]].
 
 ### Anti-patterns
 
@@ -103,13 +103,13 @@ Sections or sub-groups may trade figures before reuniting on unison impact—mir
 
 ### Target character
 
-**Collective groove** is the non-negotiable center. See [Indigenous Philippine Percussion — Collective Groove](../Research/Indigenous_Philippine_Percussion.md#collective-groove).
+**Collective groove** is the non-negotiable center. See [Indigenous Philippine Percussion — Collective Groove](../Research/Indigenous_Philippine_Percussion.md#collective-groove) · [[../Research/Indigenous_Philippine_Percussion#Collective Groove|Indigenous Philippine Percussion — Collective Groove]].
 
 Groove should feel:
 
 - **danceable** — forward motion you can step to
-- **syncopated** — accents displace or energize weak subdivisions; [push-and-pull](Syncopated_Push_and_Pull.md) creates dance momentum ([Syncopation in the Philippine Context](Concept_Library.md#1-syncopation-in-the-philippine-context))
-- **interlocking** — parts combine into one composite rhythm ([Interlocking Rhythms](Concept_Library.md#5-interlocking-rhythms))
+- **syncopated** — accents displace or energize weak subdivisions; [push-and-pull](Syncopated_Push_and_Pull.md) creates dance momentum ([Syncopation in the Philippine Context](Concept_Library.md#1-syncopation-in-the-philippine-context) · [[Concept_Library#1. Syncopation in the Philippine Context|Syncopation in the Philippine Context]])
+- **interlocking** — parts combine into one composite rhythm ([Interlocking Rhythms](Concept_Library.md#5-interlocking-rhythms) · [[Concept_Library#5. Interlocking Rhythms|Interlocking Rhythms]])
 - **enduring** — tempo and pocket hold under outdoor and processional conditions
 
 ### Regional flavor
@@ -163,8 +163,8 @@ Bass drums are the **heartbeat and festival engine**—not only downbeat markers
 ### Functional roles
 
 - **Pulse anchor** — establishes tempo and dance momentum
-- **Syncopation driver** — native offbeat and displaced patterns ([Philippine Festival Rhythms](Concept_Library.md#4-philippine-festival-rhythms))
-- **Low-end dialogue** — split patterns interlock across drums ([Grid Exercises — Linear Fiesta](Grid_Exercises.md#exercise-3-bass-drum-linear-fiesta-split-grid))
+- **Syncopation driver** — native offbeat and displaced patterns ([Philippine Festival Rhythms](Concept_Library.md#4-philippine-festival-rhythms) · [[Concept_Library#4. Philippine Festival Rhythms|Philippine Festival Rhythms]])
+- **Low-end dialogue** — split patterns interlock across drums ([Grid Exercises — Linear Fiesta](Grid_Exercises.md#exercise-3-bass-drum-linear-fiesta-split-grid) · [[Grid_Exercises#Exercise 3: Bass Drum "Linear Fiesta" Split Grid|Grid Exercises — Linear Fiesta]])
 - **Cadential weight** — unison impacts and bottom-end punctuation at phrase endings
 
 ### Writing guidance
@@ -221,7 +221,7 @@ Cadences are **public-facing musical statements**—short, memorable, and cultur
 4. **Return** — festival tempo recovery
 5. **Closing impact** — unison punctuation suitable for school parade or standstill performance
 
-Aligns with [Core Blueprint — Phase 2](../Specifications/Core_Blueprint.md#phase-2--proof-of-concept) 16-bar hybrid cadence goals.
+Aligns with [Core Blueprint — Phase 2](../Specifications/Core_Blueprint.md#phase-2--proof-of-concept) · [[../Specifications/Core_Blueprint#Phase 2 — Proof of Concept|Core Blueprint — Phase 2]] 16-bar hybrid cadence goals.
 
 ### Length and teachability
 
@@ -242,10 +242,10 @@ Visual energy **reinforces** sound—it does not replace musical identity.
 
 ### Sonic-visual alignment
 
-- Stick heights visible to audience must match [accent philosophy](#accent-philosophy)
+- Stick heights visible to audience must match [accent philosophy](#accent-philosophy) · [[#Accent Philosophy|accent philosophy]]
 - Movement accents align with musical accents—not offset showmanship
 - Crowd-facing moments coincide with cadential or call-and-response impacts
-- *Yabang* and festival choreography draw from Philippine movement vocabulary ([Core Blueprint — Visual Identity](../Specifications/Core_Blueprint.md#5-visual-identity-philippine-yabang))
+- *Yabang* and festival choreography draw from Philippine movement vocabulary ([Core Blueprint — Visual Identity](../Specifications/Core_Blueprint.md#5-visual-identity-philippine-yabang) · [[../Specifications/Core_Blueprint#5. Visual Identity: Philippine *Yabang*|Core Blueprint — Visual Identity]])
 
 ### Anti-patterns
 
@@ -257,7 +257,7 @@ Visual energy **reinforces** sound—it does not replace musical identity.
 
 ## Three-Layer Sonic Map
 
-Maps the [Core Blueprint three-layer method](../Specifications/Core_Blueprint.md#4-three-layer-arranging-method) to listening expectations.
+Maps the [Core Blueprint three-layer method](../Specifications/Core_Blueprint.md#4-three-layer-arranging-method) · [[../Specifications/Core_Blueprint#4. Three-Layer Arranging Method|Core Blueprint three-layer method]] to listening expectations.
 
 ```text
 Layer A — The Soul (always audible)
@@ -288,7 +288,7 @@ Use before adopting warm-ups, cadences, or show segments:
 - [ ] Ensemble sounds like one collective instrument at impact moments
 - [ ] Passage would not be mistaken for generic foreign drumline material
 - [ ] Teachable for the intended student group and instrumentation
-- [ ] Passes the [Identity Preservation Checklist](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#appendix-identity-preservation-checklist)
+- [ ] Passes the [Identity Preservation Checklist](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#appendix-identity-preservation-checklist) · [[../Specifications/Philippine_Marching_Percussion_Identity_Framework#Appendix: Identity Preservation Checklist|Identity Preservation Checklist]]
 
 ---
 

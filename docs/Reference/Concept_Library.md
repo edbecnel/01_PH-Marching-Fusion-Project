@@ -142,7 +142,7 @@ A musical dialogue in which one voice or group presents a phrase and another ans
 
 Call-and-response informs rehearsal methodology, crowd engagement, and sectional communication. It connects indigenous roots to modern battery interaction.
 
-See [Indigenous Philippine Percussion — Call-and-Response](../Research/Indigenous_Philippine_Percussion.md#call-and-response) for research notes.
+See [Indigenous Philippine Percussion — Call-and-Response](../Research/Indigenous_Philippine_Percussion.md#Call-and-Response) for research notes.
 
 ### Related Concepts
 
