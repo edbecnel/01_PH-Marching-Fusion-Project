@@ -123,6 +123,8 @@ A compositional and performance practice in which multiple performers or voices 
 
 Interlocking appears in indigenous Philippine percussion and festival traditions. Modern battery writing may distribute interlocking figures across snares, tenors, and bass lines while preserving the collective-groove effect.
 
+See [Indigenous Philippine Percussion — Interlocking Rhythms](../Research/Indigenous_Philippine_Percussion.md#interlocking-rhythms) for research notes.
+
 ### Related Concepts
 
 - Philippine Indigenous Percussion
@@ -138,6 +140,8 @@ A musical dialogue in which one voice or group presents a phrase and another ans
 ### Project Application
 
 Call-and-response informs rehearsal methodology, crowd engagement, and sectional communication. It connects indigenous roots to modern battery interaction.
+
+See [Indigenous Philippine Percussion — Call-and-Response](../Research/Indigenous_Philippine_Percussion.md#call-and-response) for research notes.
 
 ### Related Concepts
 

@@ -36,7 +36,7 @@ Insights from Kaamulan research should inform:
 
 ## Findings
 
-Research findings will be recorded here as field work and source analysis progress.
+Research findings will be recorded here as field work and source analysis progress. See expanded profiles in [Indigenous Philippine Percussion](Indigenous_Philippine_Percussion.md).
 
 Pilot instructors—including MONHS (Misamis Oriental National High School) collaborators from Bukidnon—are invited to contribute cultural guidance. See the [MONHS 2026 Pilot Brief](../User_Guides/MONHS_2026_Pilot_Brief.md) and [Instructor Introduction](../User_Guides/Instructor_Introduction.md).
 

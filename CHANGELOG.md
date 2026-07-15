@@ -33,6 +33,8 @@ All notable documentation-architecture and project-structure changes are recorde
 
 ### Changed
 
+- [Indigenous Philippine Percussion](docs/Research/Indigenous_Philippine_Percussion.md) — expanded concept and performance-practice research profiles; formal research program and ethics section
+- [Research README](docs/Research/README.md), [research backlog](tasks/research-backlog.md), [Concept Library](docs/Reference/Concept_Library.md), and [Project Journal](docs/Development/Project_Journal.md) — cross-linked indigenous research structure
 - [Educational Handbook](docs/User_Guides/Educational_Handbook.md), [Core Blueprint](docs/Specifications/Core_Blueprint.md), and [Technique and Warm-ups](scores/technique-and-warmups/README.md) — linked to technique reference documents (Legato Stroke, Accent-Taps, 8-8-16, Grid Exercises)
 - [README](README.md) — displays primary logo from `assets/`
 - [Documentation Architecture](docs/Architecture/Documentation_Architecture.md), [EDF Adoption Guide](ENGINEERING_DOCUMENTATION_FRAMEWORK.md), [Project Governance](docs/Governance/Project_Governance.md), and [PROJECT_INDEX](PROJECT_INDEX.md) — document `assets/` extension and analyzer exception

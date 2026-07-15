@@ -45,6 +45,10 @@ Score or audio deliverable
 
 Journal entries will be added below as dated sections or linked files as the project progresses.
 
+### 2026-07-15 — Indigenous percussion research structure
+
+Expanded [Indigenous Philippine Percussion](../Research/Indigenous_Philippine_Percussion.md) with concept profiles, performance-practice profiles, research program table, and findings log. All entries remain Outline status pending MONHS pilot validation.
+
 ### 2026-07-13 — Instructor documents for MONHS pilot
 
 Added [Instructor Introduction](../User_Guides/Instructor_Introduction.md) and [MONHS 2026 Pilot Brief](../User_Guides/MONHS_2026_Pilot_Brief.md) for music educator onboarding.
