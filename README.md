@@ -2,7 +2,7 @@
 
 ![Philippine Marching Percussion Fusion Project](assets/ph-marching-fusion-logo.png)
 
-> Preserving the soul of Philippine street drumming while elevating it through modern marching percussion technique, notation, education, and performance design.
+> Preserving the soul of Philippine percussion—from indigenous and festival traditions through street and Drum & Lyre heritage—while elevating it through modern marching percussion technique, notation, education, and performance design.
 
 ## Project Overview
 
@@ -10,9 +10,12 @@ The Philippine Marching Percussion Fusion Project is an educational, musical, an
 
 The project combines:
 
-- traditional Philippine Drum & Lyre and festival drumming;
+- indigenous Philippine percussion traditions (deepest cultural roots; ideas adapted respectfully, not imitated literally);
+- traditional Philippine Drum & Lyre and festival/community drumming;
 - Drum Corps International (DCI) battery technique and arranging;
 - Historically Black Colleges and Universities (HBCU) showmanship and visual performance.
+
+The project modernizes Philippine percussion—it does not copy foreign or indigenous forms as identity substitutes.
 
 The objective is not to imitate an American marching style. It is to preserve Philippine rhythmic identity while introducing advanced notation, pedagogy, arranging methods, technical development, and visual presentation.
 
@@ -23,6 +26,8 @@ The authoritative documentation entry point is the [Project Index](PROJECT_INDEX
 Key documents:
 
 - [Project Charter](PROJECT_CHARTER.md)
+- [Philippine Marching Percussion Identity Framework](docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md) — musical constitution and cultural lineage
+- [Indigenous Philippine Percussion](docs/Research/Indigenous_Philippine_Percussion.md) — research on indigenous roots and performance concepts
 - [Instructor Introduction](docs/User_Guides/Instructor_Introduction.md) — for music educators and pilot collaborators
 - [Core Blueprint](docs/Specifications/Core_Blueprint.md)
 - [Documentation Architecture](docs/Architecture/Documentation_Architecture.md)
