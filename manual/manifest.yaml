@@ -1,0 +1,113 @@
+# Full docs/ export — volumes 01–08. Override version via CLI --version.
+version: unreleased
+output_dir: dist/manual
+
+volumes:
+  - id: specifications
+    order: 1
+    pdf: 01-Specifications.pdf
+    title: Specifications
+    description: Identity framework, blueprint, design principles, notation standards
+    files:
+      - docs/Specifications/README.md
+      - docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md
+      - docs/Specifications/Core_Blueprint.md
+      - docs/Specifications/Design_Principles.md
+      - docs/Specifications/Notation_Standards.md
+
+  - id: reference
+    order: 2
+    pdf: 02-Reference.pdf
+    title: Reference
+    description: Concept library, technique, grids, sound model
+    files:
+      - docs/Reference/README.md
+      - docs/Reference/Concept_Library.md
+      - docs/Reference/Philippine_Percussion_Sound_Model.md
+      - docs/Reference/Syncopated_Push_and_Pull.md
+      - docs/Reference/Legato_Stroke.md
+      - docs/Reference/Accent_Taps.md
+      - docs/Reference/Eight_Eight_Sixteen.md
+      - docs/Reference/Grid_Exercises.md
+
+  - id: user_guides
+    order: 3
+    pdf: 03-User-Guides.pdf
+    title: User Guides
+    description: Instructor, pilot, arranging, and educational guidance
+    files:
+      - docs/User_Guides/README.md
+      - docs/User_Guides/Instructor_Introduction.md
+      - docs/User_Guides/MONHS_2026_Pilot_Brief.md
+      - docs/User_Guides/Arranging_Guide.md
+      - docs/User_Guides/Educational_Handbook.md
+
+  - id: research
+    order: 4
+    pdf: 04-Research.pdf
+    title: Research
+    description: Indigenous percussion, Kaamulan, marching heritage
+    files:
+      - docs/Research/README.md
+      - docs/Research/Indigenous_Philippine_Percussion.md
+      - docs/Research/Kaamulan_Festival.md
+      - docs/Research/Philippine_Marching_Heritage.md
+
+  - id: architecture
+    order: 5
+    pdf: 05-Architecture.pdf
+    title: Architecture
+    description: Documentation architecture and ADRs
+    files:
+      - docs/Architecture/README.md
+      - docs/Architecture/Documentation_Architecture.md
+      - docs/Architecture/ADRs/README.md
+
+  - id: governance
+    order: 6
+    pdf: 06-Governance.pdf
+    title: Governance
+    description: EDF governance, metadata, change management
+    files:
+      - docs/Governance/README.md
+      - docs/Governance/Governance_Overview.md
+      - docs/Governance/Project_Governance.md
+      - docs/Governance/EDF_Governance.md
+      - docs/Governance/Document_Metadata_Standard.md
+      - docs/Governance/Document_Lifecycle.md
+      - docs/Governance/Change_Management.md
+      - docs/Governance/Ownership_and_Review.md
+      - docs/Governance/Governance_Checklist.md
+      - docs/Governance/Analyzer_Compliance.md
+      - docs/Governance/Framework_Self_Hosting.md
+
+  - id: ai_development
+    order: 7
+    pdf: 07-AI-Development.pdf
+    title: AI and Development
+    description: AI-assisted workflow and project development notes
+    files:
+      - docs/AI/README.md
+      - docs/AI/AI_Philosophy.md
+      - docs/AI/Repository_Workflow.md
+      - docs/AI/AI_Roles.md
+      - docs/AI/AI_Decision_Matrix.md
+      - docs/AI/Context_Checklist.md
+      - docs/AI/Prompting_Guide.md
+      - docs/AI/Verification.md
+      - docs/AI/Security.md
+      - docs/AI/Governance.md
+      - docs/AI/Cost_Optimization.md
+      - docs/Development/README.md
+      - docs/Development/Project_Journal.md
+
+  - id: templates_placeholders
+    order: 8
+    pdf: 08-Templates-and-Placeholders.pdf
+    title: Templates and EDF Placeholders
+    description: Templates and inactive EDF domain placeholders
+    files:
+      - docs/Templates/README.md
+      - docs/API/README.md
+      - docs/Database/README.md
+      - docs/Deployment/README.md

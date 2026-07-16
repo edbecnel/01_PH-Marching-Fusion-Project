@@ -29,6 +29,7 @@ Key documents:
 - [Philippine Marching Percussion Identity Framework](docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md) — musical constitution and cultural lineage
 - [Indigenous Philippine Percussion](docs/Research/Indigenous_Philippine_Percussion.md) — research on indigenous roots and performance concepts
 - [Instructor Introduction](docs/User_Guides/Instructor_Introduction.md) — for music educators and pilot collaborators
+- [Trainers Manual PDF](dist/manual/2026.07/00-Trainers-Manual.pdf) — offline field handbook (all [PDF volumes](dist/manual/README.md))
 - [Core Blueprint](docs/Specifications/Core_Blueprint.md)
 - [Documentation Architecture](docs/Architecture/Documentation_Architecture.md)
 - [Concept Library](docs/Reference/Concept_Library.md)

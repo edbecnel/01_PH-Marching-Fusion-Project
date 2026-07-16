@@ -1,0 +1,17 @@
+{
+  "version": "2026.07",
+  "built_at": "2026-07-16T08:04:53.552298+00:00",
+  "git_commit": "e96aea2945f1fa6b1d4d639818d5f1d8e28b8cf1",
+  "pdfs": [
+    "01-Specifications.pdf",
+    "02-Reference.pdf",
+    "03-User-Guides.pdf",
+    "04-Research.pdf",
+    "05-Architecture.pdf",
+    "06-Governance.pdf",
+    "07-AI-Development.pdf",
+    "08-Templates-and-Placeholders.pdf",
+    "00-Trainers-Manual.pdf"
+  ],
+  "link_map_keys": 53
+}

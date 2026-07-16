@@ -1,0 +1,27 @@
+# Curated Trainers Manual — volume 00. Built after domain volumes 01–08.
+version: unreleased
+output_dir: dist/manual
+
+volumes:
+  - id: trainers
+    order: 0
+    pdf: 00-Trainers-Manual.pdf
+    title: Trainers Manual
+    description: Field teaching handbook for instructors and pilot collaborators
+    files:
+      - docs/User_Guides/Instructor_Introduction.md
+      - docs/User_Guides/MONHS_2026_Pilot_Brief.md
+      - docs/User_Guides/Educational_Handbook.md
+      - docs/Specifications/Design_Principles.md
+      - docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md
+      - docs/Reference/Legato_Stroke.md
+      - docs/Reference/Accent_Taps.md
+      - docs/Reference/Eight_Eight_Sixteen.md
+      - docs/Reference/Grid_Exercises.md
+      - path: docs/Reference/Concept_Library.md
+        extract:
+          sections:
+            - "6. Call and Response"
+            - "9. Community Performance Traditions"
+      - docs/Research/Indigenous_Philippine_Percussion.md
+      - docs/Research/Kaamulan_Festival.md

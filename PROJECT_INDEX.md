@@ -60,6 +60,12 @@
 - [Educational Handbook](docs/User_Guides/Educational_Handbook.md)
 - Student Handouts — planned
 
+## PDF Manuals (offline download)
+
+- [PDF Manual Releases](dist/manual/README.md) — Trainers Manual and full documentation volumes
+- [Trainers Manual PDF](dist/manual/2026.07/00-Trainers-Manual.pdf) — field handbook for instructors
+- [Build / rebuild PDFs](scripts/build_manual/README.md)
+
 ## Development and Project Records
 
 - [Development Overview](docs/Development/README.md)

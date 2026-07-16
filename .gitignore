@@ -21,9 +21,16 @@ Desktop.ini
 .update/work/
 .update/*.log
 
-# Audio and MuseScore temporary exports
-*.tmp
-*.bak
+# Python virtual environment (manual build)
+.venv/
+__pycache__/
+*.pyc
+
+# Manual build cache (intermediate preprocessed Markdown)
+.build/
+
+# Optional release zip archives (PDFs live in dist/manual/ and are tracked)
+# *.zip already ignored above
 
 # ----------------------------------------------------------------------
 # Obsidian

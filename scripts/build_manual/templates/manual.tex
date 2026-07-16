@@ -1,0 +1,40 @@
+% Pandoc LaTeX template for Philippine Marching Percussion Fusion manuals
+\documentclass[$if(fontsize)$$fontsize$,$endif$]{article}
+\usepackage{geometry}
+\usepackage{hyperref}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{fancyvrb}
+\usepackage{graphicx}
+$if(geometry)$
+$for(geometry)$
+\geometry{$geometry$}
+$endfor$
+$else$
+\geometry{margin=1in}
+$endif$
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=$if(linkcolor)$$linkcolor$$else$blue$endif$,
+  urlcolor=$if(urlcolor)$$urlcolor$$else$blue$endif$,
+  pdftitle={$title$},
+}
+
+\begin{document}
+$if(title)$
+\begin{center}
+{\LARGE\bfseries $title$}
+$if(subtitle)$
+\\[0.5em]
+{\large $subtitle$}
+$endif$
+\\[1em]
+\end{center}
+$endif$
+$if(toc)$
+\tableofcontents
+\newpage
+$endif$
+$body$
+\end{document}
