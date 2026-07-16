@@ -39,6 +39,22 @@ Technical exercises combine marching-percussion fundamentals with Philippine rhy
 
 DCI stick-height control is taught through accent groupings influenced by Philippine festival rhythms.
 
+## Rehearsal Methodology
+
+This section will explain practical rehearsal methods suited to Philippine school environments. Policy guidance appears in [Design Principles — Rehearsal Methodology](<../Specifications/Design_Principles.md#Rehearsal Methodology>).
+
+Planned content includes:
+
+- call-and-response rehearsal habits and sectional listening
+- movement integrated with musical phrasing
+- audience connection and performance energy in standstill and parade contexts
+- sectional balance for available instrumentation
+- identity evaluation using the [Identity Preservation Checklist](<../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Appendix: Identity Preservation Checklist>)
+
+See also [Call and Response — Practical Implementation](<../Reference/Concept_Library.md#Practical Implementation>) and [Instructor Introduction](Instructor_Introduction.md).
+
+**Status:** Detailed lesson sequences are pending development.
+
 ## Related Documents
 
 - [Instructor Introduction](Instructor_Introduction.md)

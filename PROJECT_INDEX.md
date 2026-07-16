@@ -81,6 +81,7 @@ These domains are retained for EDF structural compliance and are not active for 
 - [Research Overview](docs/Research/README.md)
 - [Indigenous Philippine Percussion](docs/Research/Indigenous_Philippine_Percussion.md)
 - [Kaamulan Festival](docs/Research/Kaamulan_Festival.md)
+- [Philippine Marching Heritage](docs/Research/Philippine_Marching_Heritage.md)
 - [References Overview](references/README.md)
 - [Traditional Philippine Groove References](references/traditional-ph-grooves/README.md)
 - [DCI and HBCU Inspiration](references/dci-hbcu-inspiration/README.md)

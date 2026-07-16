@@ -9,7 +9,8 @@ Research documents use structured profiles (definition, context, translation que
 ## Contents
 
 - [Indigenous Philippine Percussion](Indigenous_Philippine_Percussion.md) — concept and performance-practice research profiles
-- [Kaamulan Festival](Kaamulan_Festival.md)
+- [Kaamulan Festival](Kaamulan_Festival.md) — Bukidnon festival research topics and field profiles
+- [Philippine Marching Heritage](Philippine_Marching_Heritage.md) — military, Drum & Lyre, and modern marching lineage
 
 ## Related Documents
 

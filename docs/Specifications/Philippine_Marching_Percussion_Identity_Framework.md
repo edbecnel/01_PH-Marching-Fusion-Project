@@ -23,12 +23,12 @@ The objective is **not** to imitate Drum Corps International (DCI), Historically
 
 Instead, the project preserves and elevates Philippine musical identity by combining:
 
-- Indigenous Philippine musical traditions
-- Philippine community and festival percussion
-- Modern Philippine Drum & Lyre traditions
-- Modern educational methods
-- Carefully selected DCI techniques
-- Carefully selected HBCU showmanship
+- [Indigenous Philippine musical traditions](../Research/Indigenous_Philippine_Percussion.md)
+- [Philippine community and festival percussion](<../Reference/Concept_Library.md#9. Community Performance Traditions>)
+- [Modern Philippine Drum & Lyre traditions](<../Reference/Concept_Library.md#8. Traditional Drum & Lyre Evolution>)
+- [Modern educational methods](../User_Guides/Educational_Handbook.md)
+- [Carefully selected DCI techniques](<Core_Blueprint.md#Layer B — The Precision>)
+- [Carefully selected HBCU showmanship](<Core_Blueprint.md#Layer C — The Contrast>)
 
 The guiding philosophy is:
 
@@ -54,25 +54,37 @@ This question is the central filter for the entire project.
 
 Philippine cultural roots are the foundation. Higher layers of technique, arrangement, and visual design must never replace lower layers of cultural identity.
 
+See also [Design Principles — Primary Filter](<Design_Principles.md#Primary Filter>).
+
 ### Modernization Without Imitation
 
 The project modernizes Philippine percussion. It does not copy foreign traditions as identity substitutes.
+
+See also [Modernization Without Imitation](<../Reference/Concept_Library.md#14. Modernization Without Imitation>).
 
 ### Educational Excellence
 
 Technique, literacy, and progressive pedagogy serve musicianship and teachability in Philippine school and community contexts.
 
+See also [Design Principles — Educational Philosophy](<Design_Principles.md#Educational Philosophy>).
+
 ### Accessibility
 
 Materials must remain practical for local instrumentation, reading levels, and rehearsal environments.
+
+See also [Instructor Introduction](../User_Guides/Instructor_Introduction.md).
 
 ### Community
 
 Performance energy, audience participation, and ensemble communication reflect Philippine community and festival traditions.
 
+See also [Community Performance Traditions](<../Reference/Concept_Library.md#9. Community Performance Traditions>).
+
 ### Performance Excellence
 
 Technical sophistication and showmanship are welcome when they strengthen identity rather than obscure it.
+
+See also [Design Principles — Performance Philosophy](<Design_Principles.md#Performance Philosophy>).
 
 ## Historical Foundation
 
@@ -90,20 +102,28 @@ Modern Philippine Marching Performance
 Philippine Marching Percussion Fusion
 ```
 
+Lineage references:
+
+- [Indigenous Philippine Traditions](../Research/Indigenous_Philippine_Percussion.md)
+- [Community and Festival Music](<#Community and Festival Traditions>)
+- [Military and Drum & Lyre Heritage](<../Research/Philippine_Marching_Heritage.md#Military and Drum and Lyre Heritage>)
+- [Modern Philippine Marching Performance](<../Research/Philippine_Marching_Heritage.md#Modern Philippine Marching Performance>)
+- [Philippine Marching Percussion Fusion](Core_Blueprint.md)
+
 ## Indigenous Philippine Foundations
 
 Indigenous musical traditions are the deepest cultural roots of the project.
 
 Important concepts include:
 
-- layered rhythmic structures
-- call-and-response
-- community participation
-- music integrated with movement
-- rhythmic endurance
-- ceremonial performance
-- regional diversity
-- collective groove
+- [layered rhythmic structures](<../Research/Indigenous_Philippine_Percussion.md#Layered Rhythmic Structures>)
+- [call-and-response](<../Research/Indigenous_Philippine_Percussion.md#Call-and-Response>)
+- [community participation](<../Research/Indigenous_Philippine_Percussion.md#Community Participation>)
+- [music integrated with movement](<../Research/Indigenous_Philippine_Percussion.md#Music Integrated with Movement>)
+- [rhythmic endurance](<../Research/Indigenous_Philippine_Percussion.md#Rhythmic Endurance>)
+- [ceremonial performance](<../Research/Indigenous_Philippine_Percussion.md#Ceremonial Performance>)
+- [regional diversity](<../Research/Indigenous_Philippine_Percussion.md#Regional Diversity>)
+- [collective groove](<../Research/Indigenous_Philippine_Percussion.md#Collective Groove>)
 
 The project respectfully adapts these ideas rather than attempting literal recreation.
 
@@ -113,11 +133,11 @@ See also [Indigenous Philippine Percussion](../Research/Indigenous_Philippine_Pe
 
 Philippine festivals influence:
 
-- performance energy
-- movement
-- ensemble interaction
-- audience participation
-- celebration through percussion
+- [performance energy](<../Research/Indigenous_Philippine_Percussion.md#Performance Energy>)
+- [movement](<../Reference/Concept_Library.md#11. Movement and Dance>)
+- [ensemble interaction](<../Reference/Concept_Library.md#5. Interlocking Rhythms>)
+- [audience participation](<../Research/Indigenous_Philippine_Percussion.md#Community Participation>)
+- [celebration through percussion](<../Reference/Concept_Library.md#4. Philippine Festival Rhythms>)
 
 See also [Kaamulan Festival](../Research/Kaamulan_Festival.md).
 
@@ -127,12 +147,12 @@ The Kaamulan Festival is one of the project's primary cultural reference points.
 
 Research topics include:
 
-- rhythmic layering
-- movement
-- audience interaction
-- ceremonial pacing
-- community participation
-- visual-musical integration
+- [rhythmic layering](<../Research/Kaamulan_Festival.md#Rhythmic Layering>)
+- [movement](<../Research/Kaamulan_Festival.md#Movement>)
+- [audience interaction](<../Research/Kaamulan_Festival.md#Audience Interaction>)
+- [ceremonial pacing](<../Research/Kaamulan_Festival.md#Ceremonial Pacing>)
+- [community participation](<../Research/Kaamulan_Festival.md#Community Participation>)
+- [visual-musical integration](<../Research/Kaamulan_Festival.md#Visual-Musical Integration>)
 
 Kaamulan is treated as inspiration rather than something to copy directly.
 
@@ -140,19 +160,19 @@ Kaamulan is treated as inspiration rather than something to copy directly.
 
 **Preserve:**
 
-- recognizable Philippine grooves
-- energetic performance
-- educational accessibility
-- audience connection
+- [recognizable Philippine grooves](<../Reference/Concept_Library.md#8. Traditional Drum & Lyre Evolution>)
+- [energetic performance](<../Reference/Concept_Library.md#8. Traditional Drum & Lyre Evolution>)
+- [educational accessibility](<../Reference/Concept_Library.md#8. Traditional Drum & Lyre Evolution>)
+- [audience connection](<../Reference/Concept_Library.md#8. Traditional Drum & Lyre Evolution>)
 
 **Improve:**
 
-- technique
-- pedagogy
-- arranging
-- notation
-- rehearsal methods
-- ensemble balance
+- [technique](../Reference/README.md)
+- [pedagogy](<Core_Blueprint.md#3. Pedagogy: From Rote Learning to Blended Literacy>)
+- [arranging](../User_Guides/Arranging_Guide.md)
+- [notation](Notation_Standards.md)
+- [rehearsal methods](<../User_Guides/Educational_Handbook.md#Rehearsal Methodology>)
+- [ensemble balance](<../Reference/Philippine_Percussion_Sound_Model.md#Ensemble Balance>)
 
 ## International Influences
 
@@ -160,24 +180,24 @@ International traditions are educational resources rather than identities.
 
 | Tradition | Relationship |
 |---|---|
-| Philippine Drum & Lyre | Preserve |
-| Philippine Festival Traditions | Preserve |
-| Indigenous Philippine Music | Preserve |
-| DCI | Adapt |
-| HBCU | Adapt |
-| Military Drum Corps | Selectively adapt |
-| Other traditions | Evaluate individually |
+| [Philippine Drum & Lyre](<../Reference/Concept_Library.md#8. Traditional Drum & Lyre Evolution>) | Preserve |
+| [Philippine Festival Traditions](<../Reference/Concept_Library.md#4. Philippine Festival Rhythms>) | Preserve |
+| [Indigenous Philippine Music](../Research/Indigenous_Philippine_Percussion.md) | Preserve |
+| [DCI](<Core_Blueprint.md#Layer B — The Precision>) | Adapt |
+| [HBCU](<Core_Blueprint.md#Layer C — The Contrast>) | Adapt |
+| [Military Drum Corps](<../Research/Philippine_Marching_Heritage.md#Military Drum Corps Influence>) | Selectively adapt |
+| [Other traditions](../../tasks/research-backlog.md) | Evaluate individually |
 
 ## Translate Musical Ideas—Not Instruments
 
 Rather than imitating indigenous instruments, modern battery writing translates:
 
-- groove
-- phrasing
-- rhythmic interaction
-- ensemble communication
-- expressive dynamics
-- musical energy
+- [groove](<../Reference/Philippine_Percussion_Sound_Model.md#Groove Characteristics>)
+- [phrasing](<../Reference/Philippine_Percussion_Sound_Model.md#Phrase Architecture>)
+- [rhythmic interaction](<../Reference/Concept_Library.md#5. Interlocking Rhythms>)
+- [ensemble communication](<../Research/Indigenous_Philippine_Percussion.md#Ensemble Communication>)
+- [expressive dynamics](<../Reference/Philippine_Percussion_Sound_Model.md#Accent Philosophy>)
+- [musical energy](<../Research/Indigenous_Philippine_Percussion.md#Performance Energy>)
 
 into contemporary marching percussion.
 
@@ -185,14 +205,14 @@ into contemporary marching percussion.
 
 The project studies and adapts concepts from indigenous Philippine hand-drumming traditions, including:
 
-- open tone concepts
-- muted articulations
-- accented gestures
-- interlocking rhythms
-- ensemble communication
-- body movement
-- rhythmic dialogue
-- performance energy
+- [open tone concepts](<../Research/Indigenous_Philippine_Percussion.md#Open Tone Concepts>)
+- [muted articulations](<../Research/Indigenous_Philippine_Percussion.md#Muted Articulations>)
+- [accented gestures](<../Research/Indigenous_Philippine_Percussion.md#Accented Gestures>)
+- [interlocking rhythms](<../Research/Indigenous_Philippine_Percussion.md#Interlocking Rhythms>)
+- [ensemble communication](<../Research/Indigenous_Philippine_Percussion.md#Ensemble Communication>)
+- [body movement](<../Research/Indigenous_Philippine_Percussion.md#Body Movement>)
+- [rhythmic dialogue](<../Research/Indigenous_Philippine_Percussion.md#Rhythmic Dialogue>)
+- [performance energy](<../Research/Indigenous_Philippine_Percussion.md#Performance Energy>)
 
 Many of these concepts also appear in other hand-drum traditions (such as djembe performance practice). The project's cultural foundation remains Philippine.
 
@@ -237,6 +257,9 @@ Innovation is encouraged when it strengthens the project's identity.
 - [Core Blueprint](Core_Blueprint.md) — operational implementation and roadmap
 - [Concept Library](../Reference/Concept_Library.md) — reusable concept definitions
 - [Philippine Percussion Sound Model](../Reference/Philippine_Percussion_Sound_Model.md)
+- [Philippine Marching Heritage](../Research/Philippine_Marching_Heritage.md) — historical lineage research
+- [Indigenous Philippine Percussion](../Research/Indigenous_Philippine_Percussion.md)
+- [Kaamulan Festival](../Research/Kaamulan_Festival.md)
 - [Arranging Guide](../User_Guides/Arranging_Guide.md)
 - [Educational Handbook](../User_Guides/Educational_Handbook.md)
 
