@@ -65,6 +65,7 @@
 - [PDF Manual Releases](dist/manual/README.md) — Trainers Manual and full documentation volumes
 - [Trainers Manual PDF](dist/manual/2026.07/00-Trainers-Manual.pdf) — field handbook for instructors
 - [Build / rebuild PDFs](scripts/build_manual/README.md)
+- [PDF maintainer workflow](manual/MAINTAINER_WORKFLOW.md) — trace PDF errors to source, interpret build warnings
 
 ## Development and Project Records
 

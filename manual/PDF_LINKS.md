@@ -19,6 +19,7 @@ Markdown sources use **repository `.md` links** for GitHub and Obsidian. PDF bui
 | [`students-manifest.yaml`](students-manifest.yaml) | Student Practice Guide curation |
 | [`link_registry.yaml`](link_registry.yaml) | Paths outside `docs/` or not exported to PDF |
 | [`SOURCE_TO_PDF_MAPPING.md`](SOURCE_TO_PDF_MAPPING.md) | Full source → interim → PDF mapping for all volumes |
+| [`MAINTAINER_WORKFLOW.md`](MAINTAINER_WORKFLOW.md) | Fix PDF errors, rebuild, interpret build warnings |
 
 A source file may appear in **more than one volume** (e.g. Legato Stroke in `03-User-Guides.pdf` and `02-Reference.pdf`). Link rewriting uses the **current volume** for in-PDF jumps.
 

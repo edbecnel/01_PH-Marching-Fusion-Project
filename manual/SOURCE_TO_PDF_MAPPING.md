@@ -260,6 +260,7 @@ These paths are intentionally outside the manual manifests (repository-only or d
 
 ## Related documents
 
+- [PDF maintainer workflow](MAINTAINER_WORKFLOW.md) — fix errors, rebuild, build warnings
 - [PDF link resolution](PDF_LINKS.md) — how `.md` links become in-PDF jumps or sibling PDF links
 - [PDF manual build](../scripts/build_manual/README.md) — requirements, commands, release checklist
 - [PDF manual releases](../dist/manual/README.md) — published version folders

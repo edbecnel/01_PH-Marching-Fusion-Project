@@ -23,6 +23,8 @@ Build metadata: [manifest.json](2026.07/manifest.json)
 
 Maintainers regenerate PDFs with [scripts/build_manual](../../scripts/build_manual/README.md), then commit the updated `dist/manual/{version}/` folder.
 
+For tracing PDF errors back to source Markdown and handling build warnings, see [PDF maintainer workflow](../../manual/MAINTAINER_WORKFLOW.md).
+
 ```bash
 ./scripts/build_manual/build.sh 2026.07
 ```

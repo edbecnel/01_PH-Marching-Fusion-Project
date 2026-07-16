@@ -2,6 +2,8 @@
 
 Build multi-volume PDF manuals and the **Trainers Manual** from project Markdown.
 
+**Maintainers:** see [PDF maintainer workflow](../../manual/MAINTAINER_WORKFLOW.md) for trace-back from PDF errors to source `.md` files and how to interpret build warnings.
+
 ## Requirements
 
 - [Pandoc](https://pandoc.org/) 3.x — `brew install pandoc`
