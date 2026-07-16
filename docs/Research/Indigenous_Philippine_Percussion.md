@@ -92,6 +92,10 @@ Call-and-response is central to audience connection, sectional listening, and th
 
 > How do battery sections "answer" each other—and the audience—without mimicking indigenous instrument roles?
 
+**Practical starting guidance**
+
+Stable teaching steps, rehearsal checks, and pilot notes are in [Call and Response — Practical Implementation](<../Reference/Concept_Library.md#Practical Implementation>) (Concept Library). Use that section for first rehearsals; use this research profile for cultural context and MONHS field validation.
+
 **Project links**
 
 - [Call and Response](<../Reference/Concept_Library.md#6. Call and Response>)
@@ -158,7 +162,7 @@ Supports the Identity Framework principle that visual design must reinforce musi
 **Project links**
 
 - [Kaamulan Festival](Kaamulan_Festival.md)
-- [Core Blueprint — Visual Identity](<../Specifications/Core_Blueprint.md#5. Visual Identity: Philippine *Yabang*>)
+- [Core Blueprint — Visual Identity](<../Specifications/Core_Blueprint.md#5. Visual Identity: Philippine Yabang>)
 - [Movement and Dance](<../Reference/Concept_Library.md#11. Movement and Dance>)
 
 **Sources and contributors**
@@ -296,6 +300,8 @@ Collective groove is the sonic target of the [Philippine Percussion Sound Model]
 ---
 
 ## Performance Practices to Study
+
+> **Identity policy summary:** [Indigenous Percussion Performance Practices](<../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Indigenous Percussion Performance Practices>) (Identity Framework). This section expands each practice for research and battery translation.
 
 Each practice below describes observable indigenous hand-drumming behavior, its musical function, and a **battery translation hypothesis**—not a finished notation rule.
 

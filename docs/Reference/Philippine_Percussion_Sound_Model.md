@@ -245,7 +245,7 @@ Visual energy **reinforces** sound—it does not replace musical identity.
 - Stick heights visible to audience must match [accent philosophy](<#Accent Philosophy>)
 - Movement accents align with musical accents—not offset showmanship
 - Crowd-facing moments coincide with cadential or call-and-response impacts
-- *Yabang* and festival choreography draw from Philippine movement vocabulary ([Core Blueprint — Visual Identity](<../Specifications/Core_Blueprint.md#5. Visual Identity: Philippine *Yabang*>))
+- *Yabang* and festival choreography draw from Philippine movement vocabulary ([Core Blueprint — Visual Identity](<../Specifications/Core_Blueprint.md#5. Visual Identity: Philippine Yabang>))
 
 ### Anti-patterns
 

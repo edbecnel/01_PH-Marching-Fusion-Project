@@ -103,7 +103,7 @@ Use HBCU- and contemporary-influenced contrast through:
 - metric shifts;
 - explosive returns to festival tempo.
 
-## 5. Visual Identity: Philippine *Yabang*
+## 5. Visual Identity: Philippine Yabang
 
 The visual program should be confidently Filipino rather than an imitation of another tradition.
 

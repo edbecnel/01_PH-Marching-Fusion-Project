@@ -30,8 +30,8 @@ The project preserves native offbeat and displaced-accent patterns as the underl
 
 ### Related Concepts
 
-- Groove construction
-- Bass-drum voicing
+- [Groove construction](<Philippine_Percussion_Sound_Model.md#Groove Characteristics>)
+- [Bass-drum voicing](<Philippine_Percussion_Sound_Model.md#Bass Movement>)
 - Accent grids (see [Grid Exercises](Grid_Exercises.md))
 - Tension and release
 - [Syncopated Push-and-Pull](Syncopated_Push_and_Pull.md)
@@ -62,11 +62,11 @@ When each performer has only one drum, differently sized drums can be assigned d
 
 ### Related Concepts
 
-- Voice leading
-- Tenor writing
-- Ensemble timing
-- Visual design
-- Instrument adaptation
+- [Voice leading](<../Specifications/Notation_Standards.md#Scope>)
+- [Tenor writing](<../Specifications/Core_Blueprint.md#Layer B — The Precision>)
+- [Ensemble timing](<Eight_Eight_Sixteen.md#Marching Bass Drum Split Variations>)
+- [Visual design](<Philippine_Percussion_Sound_Model.md#Visual-Musical Interaction>)
+- [Instrument adaptation](<#7. Translate Musical Ideas—Not Instruments>)
 
 ## 3. Marching Percussion Notation Strategy
 
@@ -107,12 +107,10 @@ Festival rhythms provide the underlying canvas (Layer A — the soul) for all fu
 
 ### Related Concepts
 
-- Syncopation in the Philippine Context
-- Interlocking Rhythms
-- Community Performance Traditions
-- Kaamulan Festival
-
-See [Kaamulan Festival](../Research/Kaamulan_Festival.md).
+- [Syncopation in the Philippine Context](<#1. Syncopation in the Philippine Context>)
+- [Interlocking Rhythms](<#5. Interlocking Rhythms>)
+- [Community Performance Traditions](<#9. Community Performance Traditions>)
+- [Kaamulan Festival](../Research/Kaamulan_Festival.md)
 
 ## 5. Interlocking Rhythms
 
@@ -128,9 +126,9 @@ See [Indigenous Philippine Percussion — Interlocking Rhythms](<../Research/Ind
 
 ### Related Concepts
 
-- Philippine Indigenous Percussion
-- Call and Response
-- Split Orchestration for Marching Tenors
+- [Indigenous Philippine Percussion](../Research/Indigenous_Philippine_Percussion.md)
+- [Call and Response](<#6. Call and Response>)
+- [Split Orchestration for Marching Tenors](<#2. Split Orchestration for Marching Tenors>)
 
 ## 6. Call and Response
 
@@ -140,15 +138,51 @@ A musical dialogue in which one voice or group presents a phrase and another ans
 
 ### Project Application
 
-Call-and-response informs rehearsal methodology, crowd engagement, and sectional communication. It connects indigenous roots to modern battery interaction.
+Call-and-response informs rehearsal methodology, [crowd engagement](<../Specifications/Design_Principles.md#Performance Philosophy>), and sectional communication. It connects indigenous roots to modern battery interaction.
 
 See [Indigenous Philippine Percussion — Call-and-Response](<../Research/Indigenous_Philippine_Percussion.md#Call-and-Response>) for research notes.
 
+### Practical Implementation
+
+Use these steps when introducing call-and-response in school battery or Drum & Lyre contexts. Start simple; add notation only after the ear-led dialogue is secure.
+
+**1. Establish roles before reading**
+
+- **Caller** — usually bass and cymbals, or one section leader, states a short 1–2 bar **question** on Layer A (festival pulse intact).
+- **Responder** — another section or sub-group answers with a complementary **answer** figure—not a copy of the question.
+- Rotate roles so students hear both leadership and listening.
+
+**2. Start with two-bar question / two-bar answer**
+
+- Keep the question on bass-led [push-and-pull](Syncopated_Push_and_Pull.md); let the answer push forward into a cadence or unison impact.
+- See [Syncopated Push-and-Pull — Example 5](<Syncopated_Push_and_Pull.md#Example 5: Call-and-Response Push — Ensemble>) for a notated starting pattern.
+- Match phrase-level dialogue in the [Sound Model — Phrase Architecture](<Philippine_Percussion_Sound_Model.md#Phrase Architecture>).
+
+**3. Rehearsal checks (audible and visible)**
+
+- Can the answer section enter **without rushing** the downbeat?
+- Does the answer feel like a **response**, not a random fill?
+- After the exchange, can the ensemble reunite on **one collective impact**?
+- In parade or standstill, does the moment read as **audience-facing** (see [Community Performance Traditions](<#9. Community Performance Traditions>))?
+
+**4. Expand gradually**
+
+- Snare asks, tenors answer; then reverse.
+- Half-line vs. half-line trade before full-section unison.
+- Add Layer B density only **after** the call-and-response groove is stable at Layer A.
+
+**5. Respect and limits**
+
+- Adapt **dialogue function** (ask, answer, reunite)—do not imitate indigenous instrument roles or ceremonial calls without community guidance.
+- Document local habits in the [Project Journal](<../Development/Project_Journal.md>); MONHS instructors should note what already works in Drum & Lyre rote teaching (see [Instructor Introduction](<../User_Guides/Instructor_Introduction.md>)).
+
+**Pilot note (MONHS 2026):** Confirm which call-and-response figures instructors already teach by ear before freezing them in written battery parts.
+
 ### Related Concepts
 
-- Community Performance Traditions
-- Interlocking Rhythms
-- Crowd engagement
+- [Community Performance Traditions](<#9. Community Performance Traditions>)
+- [Interlocking Rhythms](<#5. Interlocking Rhythms>)
+- [Crowd engagement](<../Specifications/Design_Principles.md#Performance Philosophy>)
 
 ## 7. Translate Musical Ideas—Not Instruments
 
@@ -162,9 +196,9 @@ Articulation, layering, and ensemble communication from hand-drum traditions inf
 
 ### Related Concepts
 
-- Philippine Indigenous Percussion
-- Indigenous Percussion Performance Practices
-- Native Instruments
+- [Indigenous Philippine Percussion](../Research/Indigenous_Philippine_Percussion.md)
+- [Indigenous Percussion Performance Practices](<../Research/Indigenous_Philippine_Percussion.md#Performance Practices to Study>)
+- [Native Instruments](<#12. Native Instruments>)
 
 See [Identity Framework](<../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Translate Musical Ideas—Not Instruments>).
 
@@ -182,9 +216,9 @@ Improve: technique, pedagogy, arranging, notation, rehearsal methods, and ensemb
 
 ### Related Concepts
 
-- Philippine Festival Rhythms
-- Educational scaffolding
-- Progressive skill development
+- [Philippine Festival Rhythms](<#4. Philippine Festival Rhythms>)
+- [Educational scaffolding](<../User_Guides/Educational_Handbook.md>)
+- [Progressive skill development](<../User_Guides/Instructor_Introduction.md#Progressive development>)
 
 ## 9. Community Performance Traditions
 
@@ -198,9 +232,9 @@ Community traditions influence visual design, performance energy, and the projec
 
 ### Related Concepts
 
-- Philippine Festival Rhythms
-- Movement and Dance
-- Crowd engagement
+- [Philippine Festival Rhythms](<#4. Philippine Festival Rhythms>)
+- [Movement and Dance](<#11. Movement and Dance>)
+- [Crowd engagement](<../Specifications/Design_Principles.md#Performance Philosophy>)
 
 ## 10. Philippine Rhythmic Vocabulary
 
@@ -214,9 +248,9 @@ Rhythmic vocabulary is taught progressively through warm-ups, grids, and cadence
 
 ### Related Concepts
 
-- Syncopation in the Philippine Context
-- Groove construction
-- Bass-drum voicing
+- [Syncopation in the Philippine Context](<#1. Syncopation in the Philippine Context>)
+- [Groove construction](<Philippine_Percussion_Sound_Model.md#Groove Characteristics>)
+- [Bass-drum voicing](<Philippine_Percussion_Sound_Model.md#Bass Movement>)
 
 ## 11. Movement and Dance
 
@@ -230,8 +264,8 @@ Movement reinforces music rather than replacing it. Influences include Tinikling
 
 ### Related Concepts
 
-- Community Performance Traditions
-- Philippine *Yabang* (see [Core Blueprint](../Specifications/Core_Blueprint.md))
+- [Community Performance Traditions](<#9. Community Performance Traditions>)
+- Philippine *Yabang* (see [Core Blueprint — Visual Identity](<../Specifications/Core_Blueprint.md#5. Visual Identity: Philippine Yabang>))
 - Visual design
 
 ## 12. Native Instruments
@@ -246,8 +280,8 @@ Study native instruments for groove, articulation, and ensemble roles. Translate
 
 ### Related Concepts
 
-- Philippine Indigenous Percussion
-- Indigenous Percussion Performance Practices
+- [Indigenous Philippine Percussion](../Research/Indigenous_Philippine_Percussion.md)
+- [Indigenous Percussion Performance Practices](<../Research/Indigenous_Philippine_Percussion.md#Performance Practices to Study>)
 
 ## 13. Regional Musical Traditions
 
@@ -261,9 +295,9 @@ Regional diversity is a strength. Research should inform vocabulary without flat
 
 ### Related Concepts
 
-- Indigenous Philippine Percussion
-- Kaamulan Festival
-- Philippine Rhythmic Vocabulary
+- [Indigenous Philippine Percussion](../Research/Indigenous_Philippine_Percussion.md)
+- [Kaamulan Festival](../Research/Kaamulan_Festival.md)
+- [Philippine Rhythmic Vocabulary](<#10. Philippine Rhythmic Vocabulary>)
 
 ## 14. Modernization Without Imitation
 
@@ -277,27 +311,27 @@ When evaluating ideas, ask: "How would this sound if it had originated in the Ph
 
 ### Related Concepts
 
-- Identity Preservation Checklist (see [Identity Framework](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md))
-- DCI battery philosophy (adapt, not adopt as identity)
-- HBCU showmanship (adapt, not adopt as identity)
+- Identity Preservation Checklist (see [Identity Framework](<../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Appendix: Identity Preservation Checklist>))
+- [DCI battery philosophy](<../Specifications/Core_Blueprint.md#Layer B — The Precision>) (adapt, not adopt as identity)
+- [HBCU showmanship](<../Specifications/Core_Blueprint.md#Layer C — The Contrast>) (adapt, not adopt as identity)
 
 ## Future Concepts
 
 - Rudiments and hybrid rudiments
 - Grid writing (see [Grid Exercises](Grid_Exercises.md) and [8-8-16 Exercise](Eight_Eight_Sixteen.md))
 - Metric modulation
-- Groove construction
-- Bass-drum voicing
+- [Groove construction](<Philippine_Percussion_Sound_Model.md#Groove Characteristics>)
+- [Bass-drum voicing](<Philippine_Percussion_Sound_Model.md#Bass Movement>)
 - Cymbal vocabulary
 - Stick heights
 - Accent-tap systems (see [Accent-Taps](Accent_Taps.md))
 - Voice leading
 - Dynamic architecture
 - Philippine folk-dance influence
-- HBCU showmanship
-- DCI battery philosophy
-- Progressive skill development
-- Educational scaffolding
-- Crowd engagement
-- Indigenous Percussion Performance Practices (expanded)
+- [HBCU showmanship](<../Specifications/Core_Blueprint.md#Layer C — The Contrast>)
+- [DCI battery philosophy](<../Specifications/Core_Blueprint.md#Layer B — The Precision>)
+- [Progressive skill development](<../User_Guides/Instructor_Introduction.md#Progressive development>)
+- [Educational scaffolding](<../User_Guides/Educational_Handbook.md>)
+- [Crowd engagement](<../Specifications/Design_Principles.md#Performance Philosophy>)
+- [Indigenous Percussion Performance Practices](<../Research/Indigenous_Philippine_Percussion.md#Performance Practices to Study>) (expanded)
 - Legato stroke (see [Legato Stroke](Legato_Stroke.md))

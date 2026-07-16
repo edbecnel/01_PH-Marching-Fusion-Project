@@ -106,7 +106,7 @@ Feel:   Bass leads push-and-pull; snare reinforces offbeat push without straight
 
 ---
 
-## Example 5: Call-and-Response Push (Ensemble)
+## Example 5: Call-and-Response Push — Ensemble
 
 Two-bar question and answer using push-and-pull—relates to [Call and Response](<Concept_Library.md#6. Call and Response>).
 
