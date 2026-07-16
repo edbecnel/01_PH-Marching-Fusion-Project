@@ -34,6 +34,7 @@ ALL_VOLUMES = [
     ("06-Governance.pdf", "Governance", "EDF governance, metadata, change management"),
     ("07-AI-Development.pdf", "AI and Development", "AI-assisted workflow and project development notes"),
     ("08-Templates-and-Placeholders.pdf", "Templates and EDF Placeholders", "Templates and inactive EDF domain placeholders"),
+    ("09-Student-Practice-Guide.pdf", "Student Practice Guide", "Student orientation and embedded technique reference"),
 ]
 
 
@@ -67,17 +68,24 @@ def parse_manifest_files(vol: dict[str, Any]) -> list[tuple[str, list[str] | Non
 
 
 def build_link_map_from_manifests(
-    main: dict[str, Any], trainers: dict[str, Any]
-) -> dict[str, dict[str, str]]:
-    link_map: dict[str, dict[str, str]] = {}
-    for manifest in (main, trainers):
+    main: dict[str, Any],
+    trainers: dict[str, Any],
+    students: dict[str, Any] | None = None,
+) -> dict[str, dict[str, dict[str, str]]]:
+    """Map each source .md path to every volume that embeds it."""
+    link_map: dict[str, dict[str, dict[str, str]]] = {}
+    manifests = [main, trainers]
+    if students:
+        manifests.append(students)
+    for manifest in manifests:
         for vol in manifest.get("volumes", []):
+            vol_id = vol["id"]
+            entry = {
+                "pdf": vol["pdf"],
+                "title": vol["title"],
+            }
             for path, _ in parse_manifest_files(vol):
-                link_map[path] = {
-                    "volume_id": vol["id"],
-                    "pdf": vol["pdf"],
-                    "title": vol["title"],
-                }
+                link_map.setdefault(path, {})[vol_id] = entry
     return link_map
 
 
@@ -157,7 +165,8 @@ def build_volume(
     version: str,
     output_dir: Path,
     build_dir: Path,
-    link_map: dict[str, dict[str, str]],
+    link_map: dict[str, dict[str, dict[str, str]]],
+    link_registry: dict[str, Any],
     repo_root: Path,
 ) -> Path:
     vol_id = vol["id"]
@@ -178,7 +187,33 @@ def build_volume(
     )
     processed.append(cover_path)
 
-    for i, (rel_path, sections) in enumerate(parse_manifest_files(vol), start=1):
+    file_list = parse_manifest_files(vol)
+    prev_prefix: str | None = None
+
+    for i, (rel_path, sections) in enumerate(file_list, start=1):
+        prefix = "/".join(rel_path.split("/")[:2])  # e.g. docs/User_Guides
+        if (
+            prev_prefix == "docs/User_Guides"
+            and prefix == "docs/Reference"
+            and vol_id in ("user_guides", "students")
+        ):
+            if vol_id == "students":
+                sep_body = (
+                    "# Technique Reference Material\n\n"
+                    "The following chapters are the same Reference material your "
+                    "instructor assigns in rehearsal. Section titles match the "
+                    "Reference volume and Trainers Manual.\n\n"
+                )
+            else:
+                sep_body = (
+                    "# Appendices: Technique Reference Material\n\n"
+                    "The following chapters are embedded from the Reference domain "
+                    "so this User Guides PDF is self-contained for teaching.\n\n"
+                )
+            sep = vol_build / f"{len(processed):02d}-appendix-technique-header.md"
+            sep.write_text(sep_body, encoding="utf-8")
+            processed.append(sep)
+
         src = repo_root / rel_path
         dest = vol_build / f"{i:02d}-{Path(rel_path).name}"
         preprocess_file(
@@ -187,9 +222,12 @@ def build_volume(
             repo_root,
             vol_id,
             link_map,
+            link_registry,
+            rel_path,
             extract_section_titles=sections,
         )
         processed.append(dest)
+        prev_prefix = prefix
 
     pandoc_args = [
         "pandoc",
@@ -240,12 +278,23 @@ def main() -> None:
     )
     parser.add_argument("--trainers", action="store_true", help="Build trainers manual only")
     parser.add_argument(
+        "--students", action="store_true", help="Build student practice guide only"
+    )
+    parser.add_argument(
         "--validate", action="store_true", help="Validate manifest only"
     )
     args = parser.parse_args()
 
     main_manifest = load_yaml(MANUAL_DIR / "manifest.yaml")
     trainers_manifest = load_yaml(MANUAL_DIR / "trainers-manifest.yaml")
+    students_manifest_path = MANUAL_DIR / "students-manifest.yaml"
+    students_manifest = (
+        load_yaml(students_manifest_path) if students_manifest_path.is_file() else None
+    )
+    link_registry_path = MANUAL_DIR / "link_registry.yaml"
+    link_registry = (
+        load_yaml(link_registry_path) if link_registry_path.is_file() else {}
+    )
 
     if args.validate:
         errors = validate_manifest(REPO_ROOT, main_manifest)
@@ -261,6 +310,13 @@ def main() -> None:
                     print(f"trainers-manifest: missing {path}", file=sys.stderr)
                     sys.exit(1)
         print("trainers-manifest.yaml: OK")
+        if students_manifest:
+            for vol in students_manifest["volumes"]:
+                for path, _ in parse_manifest_files(vol):
+                    if not (REPO_ROOT / path).is_file():
+                        print(f"students-manifest: missing {path}", file=sys.stderr)
+                        sys.exit(1)
+            print("students-manifest.yaml: OK")
         return
 
     if not shutil.which("pandoc"):
@@ -272,7 +328,9 @@ def main() -> None:
     build_dir = REPO_ROOT / ".build" / "manual" / version
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    link_map = build_link_map_from_manifests(main_manifest, trainers_manifest)
+    link_map = build_link_map_from_manifests(
+        main_manifest, trainers_manifest, students_manifest
+    )
 
     built: list[str] = []
 
@@ -280,23 +338,30 @@ def main() -> None:
         main_manifest["volumes"], key=lambda v: v.get("order", 99)
     )
     trainers_volumes = trainers_manifest["volumes"]
+    students_volumes = (
+        students_manifest["volumes"] if students_manifest else []
+    )
 
     if args.trainers:
         to_build = trainers_volumes
+    elif args.students:
+        to_build = students_volumes
     elif args.volume:
         to_build = [
             v
-            for v in domain_volumes + trainers_volumes
+            for v in domain_volumes + trainers_volumes + students_volumes
             if v["id"] == args.volume
         ]
         if not to_build:
             print(f"Unknown volume id: {args.volume}", file=sys.stderr)
             sys.exit(1)
     else:
-        to_build = domain_volumes + trainers_volumes
+        to_build = domain_volumes + trainers_volumes + students_volumes
 
     for vol in to_build:
-        pdf = build_volume(vol, version, output_dir, build_dir, link_map, REPO_ROOT)
+        pdf = build_volume(
+            vol, version, output_dir, build_dir, link_map, link_registry, REPO_ROOT
+        )
         built.append(pdf.name)
 
     record = {

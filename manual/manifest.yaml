@@ -41,6 +41,12 @@ volumes:
       - docs/User_Guides/MONHS_2026_Pilot_Brief.md
       - docs/User_Guides/Arranging_Guide.md
       - docs/User_Guides/Educational_Handbook.md
+      - docs/User_Guides/Student_Practice_Guide.md
+      # Embedded technique reference (also in 02-Reference.pdf)
+      - docs/Reference/Legato_Stroke.md
+      - docs/Reference/Accent_Taps.md
+      - docs/Reference/Eight_Eight_Sixteen.md
+      - docs/Reference/Grid_Exercises.md
 
   - id: research
     order: 4

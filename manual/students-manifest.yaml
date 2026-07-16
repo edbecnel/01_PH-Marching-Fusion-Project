@@ -1,0 +1,17 @@
+# Curated Student Practice Guide — volume 09. Built after domain volumes 01–08.
+# Embeds the same Reference technique chapters as other manuals (single source of truth).
+version: unreleased
+output_dir: dist/manual
+
+volumes:
+  - id: students
+    order: 9
+    pdf: 09-Student-Practice-Guide.pdf
+    title: Student Practice Guide
+    description: Student orientation and embedded technique reference for training ensembles
+    files:
+      - docs/User_Guides/Student_Practice_Guide.md
+      - docs/Reference/Legato_Stroke.md
+      - docs/Reference/Accent_Taps.md
+      - docs/Reference/Eight_Eight_Sixteen.md
+      - docs/Reference/Grid_Exercises.md

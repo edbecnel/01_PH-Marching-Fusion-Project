@@ -10,6 +10,7 @@ Practical guidance for arrangers, educators, performers, and project users.
 - [MONHS 2026 Pilot Brief](MONHS_2026_Pilot_Brief.md) — Misamis Oriental National High School (MONHS) Drum & Lyre Corps 2026 show pilot
 - [Arranging Guide](Arranging_Guide.md) — applying identity and concepts to writing
 - [Educational Handbook](Educational_Handbook.md) — teaching methodology
+- [Student Practice Guide](Student_Practice_Guide.md) — student orientation and practice packet (also `09-Student-Practice-Guide.pdf`)
 - Student Handouts — planned
 
 ## Audience Entry Points
@@ -19,6 +20,7 @@ Practical guidance for arrangers, educators, performers, and project users.
 | Music educators and Drum & Lyre instructors | [Instructor Introduction](Instructor_Introduction.md) |
 | MONHS 2026 pilot instructors (Misamis Oriental National High School) | [MONHS 2026 Pilot Brief](MONHS_2026_Pilot_Brief.md) |
 | Arrangers | [Arranging Guide](Arranging_Guide.md) |
+| Students (Drum & Lyre / marching percussion) | [Student Practice Guide](Student_Practice_Guide.md) |
 
 ## Related Documents
 

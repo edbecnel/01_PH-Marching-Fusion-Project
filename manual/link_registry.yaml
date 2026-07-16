@@ -1,0 +1,46 @@
+# PDF link targets for paths outside docs/ manifests or not exported to any volume.
+#
+# Used at build time only. Markdown sources keep repository .md links for GitHub/Obsidian.
+# type: repository — render as plain text with note (no broken link)
+# type: pdf — force link to a specific volume PDF (optional override)
+
+entries:
+  PROJECT_CHARTER.md:
+    type: repository
+    note: "Project Charter (GitHub repository root; not in PDF manual)"
+
+  README.md:
+    type: repository
+    note: "Project README (GitHub repository root)"
+
+  PROJECT_INDEX.md:
+    type: repository
+    note: "Project Index (GitHub repository root)"
+
+  scores/README.md:
+    type: repository
+    note: "Scores overview (repository scores/)"
+
+  scores/technique-and-warmups/README.md:
+    type: repository
+    note: "Technique and warm-up MuseScore files (repository scores/technique-and-warmups/)"
+
+  scores/cadences/README.md:
+    type: repository
+    note: "Cadence scores (repository scores/cadences/)"
+
+  scores/show-arrangements/README.md:
+    type: repository
+    note: "Show arrangement scores (repository scores/show-arrangements/)"
+
+  audio/README.md:
+    type: repository
+    note: "Audio deliverables (repository audio/)"
+
+  audio/battery-splits/README.md:
+    type: repository
+    note: "Battery split practice audio (repository audio/battery-splits/)"
+
+  audio/full-mixes/README.md:
+    type: repository
+    note: "Full mix audio (repository audio/full-mixes/)"

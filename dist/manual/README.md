@@ -15,6 +15,7 @@ Offline-readable PDF exports of project documentation. **Distribute all PDFs in 
 | [06-Governance.pdf](2026.07/06-Governance.pdf) | EDF governance |
 | [07-AI-Development.pdf](2026.07/07-AI-Development.pdf) | AI workflow and project journal |
 | [08-Templates-and-Placeholders.pdf](2026.07/08-Templates-and-Placeholders.pdf) | Templates and EDF placeholders |
+| [09-Student-Practice-Guide.pdf](2026.07/09-Student-Practice-Guide.pdf) | Student orientation and technique reference |
 
 Build metadata: [manifest.json](2026.07/manifest.json)
 
