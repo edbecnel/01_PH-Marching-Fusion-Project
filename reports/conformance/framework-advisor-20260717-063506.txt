@@ -1,0 +1,1044 @@
+Engineering Documentation Framework Adoption Conformance Validation
+===================================================================
+
+Project root: /Users/edbecnel/Development/GitHub/01_PH-Marching-Fusion-Project
+Started: 2026-07-17 06:35:06 +0800
+
+Framework Advisor conformance analysis
+--------------------------------------
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+/Users/edbecnel/Development/GitHub/Engineering-Documentation-Framework/scripts/analyze_project_structure.sh: line 196: cannot create temp file for here document: Operation not permitted
+Engineering Documentation Framework Advisor
+Ruleset: 2026-07-10-stage1
+===========================================
+
+Project root: /Users/edbecnel/Development/GitHub/01_PH-Marching-Fusion-Project
+Project name: 01_PH-Marching-Fusion-Project
+Repository mode: EDF adopting project
+Overall compliance: 67%
+Structure score: 96%
+AI score: 100%
+Navigation score: 0%
+Governance score: 73%
+
+This report is read-only.
+No files or folders were created, modified, moved, renamed, or deleted.
+
+Missing required directories
+----------------------------
+- docs/Developer_Handbook
+
+Missing recommended root files
+------------------------------
+None.
+
+Missing AI handbook files
+-------------------------
+None.
+
+Missing Governance files
+------------------------
+None.
+
+Broken links
+------------
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Translate Musical Ideas—Not Instruments (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Educational Handbook (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Grid Exercises (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Grid Exercises — Bass Drum Linear Fiesta Split (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Interlocking Rhythms (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Philippine Festival Rhythms (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Call and Response — Practical Implementation (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Call and Response (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Community Performance Traditions (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Instructor Introduction (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Identity Framework — Community and Festival Traditions (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Movement and Dance (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Core Blueprint — Visual Identity (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Movement and Dance (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Legato Stroke (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [8-8-16 (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Educational Handbook — Hybrid Warm-Up System (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Eight_Eight_Sixteen (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Identity Framework — Historical Foundation (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Grid Exercises (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Regional Musical Traditions (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Philippine Percussion Sound Model (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Accent-Taps (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Grid Exercises (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Interlocking Rhythms (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Philippine Percussion Sound Model (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Identity Preservation Checklist (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Indigenous Percussion Performance Practices (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [legato strokes (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [tap strokes (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Grid Exercises (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [linear fiesta grids (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Split Orchestration (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Educational Handbook (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [8-8-16 (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Grid Exercises — HBCU Flash (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Native Instruments (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Project Governance (Governance)](06-Governance.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [MONHS 2026 Pilot Brief (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Identity Framework — Indigenous Philippine Foundations (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/research/03-Kaamulan_Festival.md -> [Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/research/03-Kaamulan_Festival.md -> [Kaamulan Festival (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/research/03-Kaamulan_Festival.md -> [Philippine Percussion Sound Model (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/03-Kaamulan_Festival.md -> [MONHS 2026 Pilot Brief (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/research/03-Kaamulan_Festival.md -> [Instructor Introduction (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/research/03-Kaamulan_Festival.md -> [Interlocking Rhythms (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/03-Kaamulan_Festival.md -> [Philippine Festival Rhythms (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/03-Kaamulan_Festival.md -> [Movement and Dance (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/03-Kaamulan_Festival.md -> [Community Performance Traditions (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/03-Kaamulan_Festival.md -> [Philippine Percussion Sound Model — Cadence Architecture (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/03-Kaamulan_Festival.md -> [Community Performance Traditions (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/03-Kaamulan_Festival.md -> [Philippine Percussion Sound Model — Visual-Musical Interaction (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/03-Kaamulan_Festival.md -> [Core Blueprint — Visual Identity: Philippine Yabang (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/research/03-Kaamulan_Festival.md -> [Identity Framework — Kaamulan Festival (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/research/03-Kaamulan_Festival.md -> [Concept Library — Philippine Festival Rhythms (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/03-Kaamulan_Festival.md -> [Instructor Introduction (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/research/03-Kaamulan_Festival.md -> [MONHS 2026 Pilot Brief (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/research/04-Philippine_Marching_Heritage.md -> [Identity Framework — Historical Foundation (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/research/04-Philippine_Marching_Heritage.md -> [Traditional Drum & Lyre Evolution (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/04-Philippine_Marching_Heritage.md -> [Philippine Percussion Sound Model (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/04-Philippine_Marching_Heritage.md -> [Grid Exercises (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/04-Philippine_Marching_Heritage.md -> [Instructor Introduction (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/research/04-Philippine_Marching_Heritage.md -> [MONHS 2026 Pilot Brief (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/research/04-Philippine_Marching_Heritage.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/research/04-Philippine_Marching_Heritage.md -> [Core Blueprint — Layer B — The Precision (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/research/04-Philippine_Marching_Heritage.md -> [Identity Framework — International Influences (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/research/04-Philippine_Marching_Heritage.md -> [Modernization Without Imitation (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/04-Philippine_Marching_Heritage.md -> [Philippine Marching Percussion Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/research/04-Philippine_Marching_Heritage.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/research/04-Philippine_Marching_Heritage.md -> [Concept Library — Traditional Drum & Lyre Evolution (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/04-Philippine_Marching_Heritage.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/research/04-Philippine_Marching_Heritage.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/01-README.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/01-README.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/research/01-README.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/specifications/03-Core_Blueprint.md -> [legatos (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/03-Core_Blueprint.md -> [accent-taps (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/03-Core_Blueprint.md -> [8-8-16 (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/03-Core_Blueprint.md -> [grid exercises (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/03-Core_Blueprint.md -> [Arranging Guide (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/specifications/03-Core_Blueprint.md -> [Educational Handbook (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/specifications/05-Notation_Standards.md -> [Arranging Guide (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/specifications/05-Notation_Standards.md -> [Concept Library — Marching Percussion Notation Strategy (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/05-Notation_Standards.md -> [Arranging Guide (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/specifications/04-Design_Principles.md -> [Educational Handbook (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/specifications/04-Design_Principles.md -> [Instructor Introduction (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/specifications/04-Design_Principles.md -> [Arranging Guide (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/specifications/04-Design_Principles.md -> [Architecture Decision Records (Architecture)](05-Architecture.pdf)
+- .build/manual/2026.07/specifications/04-Design_Principles.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/specifications/04-Design_Principles.md -> [Project Governance (Governance)](06-Governance.pdf)
+- .build/manual/2026.07/specifications/04-Design_Principles.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Indigenous Philippine musical traditions (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Philippine community and festival percussion (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Modern Philippine Drum & Lyre traditions (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Modern educational methods (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Modernization Without Imitation (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Instructor Introduction (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Community Performance Traditions (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Indigenous Philippine Traditions (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Military and Drum & Lyre Heritage (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Modern Philippine Marching Performance (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [layered rhythmic structures (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [call-and-response (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [community participation (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [music integrated with movement (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [rhythmic endurance (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [ceremonial performance (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [regional diversity (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [collective groove (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Indigenous Philippine Percussion (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [performance energy (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [movement (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [ensemble interaction (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [audience participation (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [celebration through percussion (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Kaamulan Festival (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [rhythmic layering (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [movement (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [audience interaction (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [ceremonial pacing (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [community participation (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [visual-musical integration (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [recognizable Philippine grooves (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [energetic performance (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [educational accessibility (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [audience connection (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [technique (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [arranging (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [rehearsal methods (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [ensemble balance (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Philippine Drum & Lyre (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Philippine Festival Traditions (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Indigenous Philippine Music (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Military Drum Corps (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [groove (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [phrasing (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [rhythmic interaction (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [ensemble communication (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [expressive dynamics (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [musical energy (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [open tone concepts (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [muted articulations (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [accented gestures (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [interlocking rhythms (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [ensemble communication (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [body movement (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [rhythmic dialogue (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [performance energy (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Instructor Introduction (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Philippine Percussion Sound Model (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Philippine Marching Heritage (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Indigenous Philippine Percussion (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Kaamulan Festival (Research)](04-Research.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Arranging Guide (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md -> [Educational Handbook (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/user_guides/10-Grid_Exercises.md -> [Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/10-Grid_Exercises.md -> [syncopated push-and-pull (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/user_guides/10-Grid_Exercises.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/10-Grid_Exercises.md -> [Syncopated Push-and-Pull (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/user_guides/10-Grid_Exercises.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/user_guides/10-Grid_Exercises.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/10-Grid_Exercises.md -> [Philippine Marching Percussion Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/08-Accent_Taps.md -> [Core Blueprint — Pedagogy (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/08-Accent_Taps.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/user_guides/08-Accent_Taps.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/08-Accent_Taps.md -> [Notation Standards (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/05-Educational_Handbook.md -> [Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/05-Educational_Handbook.md -> [Design Principles (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/05-Educational_Handbook.md -> [Core Blueprint — Pedagogy (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/05-Educational_Handbook.md -> [Design Principles — Rehearsal Methodology (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/05-Educational_Handbook.md -> [Identity Preservation Checklist (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/05-Educational_Handbook.md -> [Call and Response — Practical Implementation (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/user_guides/05-Educational_Handbook.md -> [Philippine Marching Percussion Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/05-Educational_Handbook.md -> [Design Principles (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/07-Legato_Stroke.md -> [Core Blueprint — Pedagogy (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/07-Legato_Stroke.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/user_guides/07-Legato_Stroke.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/04-Arranging_Guide.md -> [Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/04-Arranging_Guide.md -> [Design Principles (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/04-Arranging_Guide.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/user_guides/04-Arranging_Guide.md -> [Identity Preservation Checklist (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/04-Arranging_Guide.md -> [Notation Standards (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/04-Arranging_Guide.md -> [Philippine Percussion Sound Model (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/user_guides/04-Arranging_Guide.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/04-Arranging_Guide.md -> [Philippine Marching Percussion Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/04-Arranging_Guide.md -> [Design Principles (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/04-Arranging_Guide.md -> [Notation Standards (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/03-MONHS_2026_Pilot_Brief.md -> [Identity Preservation Checklist (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/03-MONHS_2026_Pilot_Brief.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/user_guides/03-MONHS_2026_Pilot_Brief.md -> [Kaamulan Festival (Research)](04-Research.pdf)
+- .build/manual/2026.07/user_guides/03-MONHS_2026_Pilot_Brief.md -> [Translate Musical Ideas—Not Instruments (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/03-MONHS_2026_Pilot_Brief.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/user_guides/03-MONHS_2026_Pilot_Brief.md -> [Kaamulan Festival (Research)](04-Research.pdf)
+- .build/manual/2026.07/user_guides/03-MONHS_2026_Pilot_Brief.md -> [Philippine Marching Percussion Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/03-MONHS_2026_Pilot_Brief.md -> [Kaamulan Festival (Research)](04-Research.pdf)
+- .build/manual/2026.07/user_guides/09-Eight_Eight_Sixteen.md -> [Core Blueprint — Pedagogy (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/09-Eight_Eight_Sixteen.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/user_guides/09-Eight_Eight_Sixteen.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/01-README.md -> [Philippine Marching Percussion Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/01-README.md -> [Design Principles (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/06-Student_Practice_Guide.md -> [Reference (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/user_guides/06-Student_Practice_Guide.md -> [Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/02-Instructor_Introduction.md -> [Philippine Marching Percussion Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/02-Instructor_Introduction.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/user_guides/02-Instructor_Introduction.md -> [Research (Research)](04-Research.pdf)
+- .build/manual/2026.07/user_guides/02-Instructor_Introduction.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/02-Instructor_Introduction.md -> [Identity Framework appendix (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/02-Instructor_Introduction.md -> [Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/02-Instructor_Introduction.md -> [Philippine Marching Percussion Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/02-Instructor_Introduction.md -> [Design Principles (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/user_guides/02-Instructor_Introduction.md -> [Kaamulan Festival (Research)](04-Research.pdf)
+- .build/manual/2026.07/user_guides/02-Instructor_Introduction.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/templates_placeholders/02-README.md -> [Documentation Architecture (Architecture)](05-Architecture.pdf)
+- .build/manual/2026.07/templates_placeholders/02-README.md -> [Project Governance (Governance)](06-Governance.pdf)
+- .build/manual/2026.07/templates_placeholders/04-README.md -> [Documentation Architecture (Architecture)](05-Architecture.pdf)
+- .build/manual/2026.07/templates_placeholders/04-README.md -> [Project Governance (Governance)](06-Governance.pdf)
+- .build/manual/2026.07/templates_placeholders/03-README.md -> [Documentation Architecture (Architecture)](05-Architecture.pdf)
+- .build/manual/2026.07/templates_placeholders/03-README.md -> [Project Governance (Governance)](06-Governance.pdf)
+- .build/manual/2026.07/ai_development/03-Repository_Workflow.md -> [Project Governance (Governance)](06-Governance.pdf)
+- .build/manual/2026.07/ai_development/03-Repository_Workflow.md -> [Project Governance (Governance)](06-Governance.pdf)
+- .build/manual/2026.07/ai_development/03-Repository_Workflow.md -> [Documentation Change Management (Governance)](06-Governance.pdf)
+- .build/manual/2026.07/ai_development/03-Repository_Workflow.md -> [Document Metadata Standard (Governance)](06-Governance.pdf)
+- .build/manual/2026.07/ai_development/06-Context_Checklist.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/ai_development/12-README.md -> [Research (Research)](04-Research.pdf)
+- .build/manual/2026.07/ai_development/01-README.md -> [Documentation Architecture (Architecture)](05-Architecture.pdf)
+- .build/manual/2026.07/ai_development/01-README.md -> [Project Governance (Governance)](06-Governance.pdf)
+- .build/manual/2026.07/ai_development/01-README.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/ai_development/13-Project_Journal.md -> [Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/ai_development/13-Project_Journal.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/ai_development/13-Project_Journal.md -> [Research (Research)](04-Research.pdf)
+- .build/manual/2026.07/ai_development/13-Project_Journal.md -> [Indigenous Philippine Percussion (Research)](04-Research.pdf)
+- .build/manual/2026.07/ai_development/13-Project_Journal.md -> [Instructor Introduction (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/ai_development/13-Project_Journal.md -> [MONHS 2026 Pilot Brief (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/ai_development/13-Project_Journal.md -> [Philippine Marching Percussion Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/ai_development/13-Project_Journal.md -> [Design Principles (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/ai_development/13-Project_Journal.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/ai_development/13-Project_Journal.md -> [Research (Research)](04-Research.pdf)
+- .build/manual/2026.07/ai_development/10-Governance.md -> [Documentation Architecture (Architecture)](05-Architecture.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [Carefully selected DCI techniques (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [Carefully selected HBCU showmanship (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [Military and Drum & Lyre Heritage (Research)](04-Research.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [Modern Philippine Marching Performance (Research)](04-Research.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [Philippine Marching Percussion Fusion (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [technique (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [pedagogy (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [arranging (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [notation (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [ensemble balance (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [DCI (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [HBCU (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [Military Drum Corps (Research)](04-Research.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [groove (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [phrasing (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [expressive dynamics (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [Philippine Percussion Sound Model (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [Philippine Marching Heritage (Research)](04-Research.pdf)
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md -> [Arranging Guide (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/trainers/09-Grid_Exercises.md -> [syncopated push-and-pull (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/trainers/09-Grid_Exercises.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/09-Grid_Exercises.md -> [Syncopated Push-and-Pull (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/trainers/09-Grid_Exercises.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/07-Accent_Taps.md -> [Core Blueprint — Pedagogy (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/07-Accent_Taps.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/07-Accent_Taps.md -> [Notation Standards (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/06-Legato_Stroke.md -> [Core Blueprint — Pedagogy (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/06-Legato_Stroke.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/11-Indigenous_Philippine_Percussion.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/trainers/11-Indigenous_Philippine_Percussion.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/11-Indigenous_Philippine_Percussion.md -> [Core Blueprint — Visual Identity (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/11-Indigenous_Philippine_Percussion.md -> [Philippine Percussion Sound Model (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/trainers/11-Indigenous_Philippine_Percussion.md -> [Philippine Percussion Sound Model (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/trainers/11-Indigenous_Philippine_Percussion.md -> [Project Governance (Governance)](06-Governance.pdf)
+- .build/manual/2026.07/trainers/11-Indigenous_Philippine_Percussion.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/trainers/11-Indigenous_Philippine_Percussion.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/trainers/02-MONHS_2026_Pilot_Brief.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/trainers/02-MONHS_2026_Pilot_Brief.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/trainers/02-MONHS_2026_Pilot_Brief.md -> [User Guides (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/trainers/01-Instructor_Introduction.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/trainers/01-Instructor_Introduction.md -> [Research (Research)](04-Research.pdf)
+- .build/manual/2026.07/trainers/01-Instructor_Introduction.md -> [Arranging Guide (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/trainers/01-Instructor_Introduction.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/01-Instructor_Introduction.md -> [Arranging Guide (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/trainers/01-Instructor_Introduction.md -> [User Guides (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/trainers/01-Instructor_Introduction.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/trainers/10-Concept_Library.md -> [push-and-pull (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/trainers/10-Concept_Library.md -> [Syncopated Push-and-Pull — Example 5 (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/trainers/10-Concept_Library.md -> [Sound Model — Phrase Architecture (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/trainers/10-Concept_Library.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/trainers/03-Educational_Handbook.md -> [Core Blueprint — Pedagogy (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/03-Educational_Handbook.md -> [Arranging Guide (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/trainers/12-Kaamulan_Festival.md -> [Philippine Percussion Sound Model (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/trainers/12-Kaamulan_Festival.md -> [Philippine Percussion Sound Model — Cadence Architecture (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/trainers/12-Kaamulan_Festival.md -> [Philippine Percussion Sound Model — Visual-Musical Interaction (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/trainers/12-Kaamulan_Festival.md -> [Core Blueprint — Visual Identity: Philippine Yabang (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/12-Kaamulan_Festival.md -> [Philippine Marching Heritage (Research)](04-Research.pdf)
+- .build/manual/2026.07/trainers/08-Eight_Eight_Sixteen.md -> [Core Blueprint — Pedagogy (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/08-Eight_Eight_Sixteen.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/04-Design_Principles.md -> [Arranging Guide (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/trainers/04-Design_Principles.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/trainers/04-Design_Principles.md -> [Architecture Decision Records (Architecture)](05-Architecture.pdf)
+- .build/manual/2026.07/trainers/04-Design_Principles.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/trainers/04-Design_Principles.md -> [Project Governance (Governance)](06-Governance.pdf)
+- .build/manual/2026.07/trainers/04-Design_Principles.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/students/02-Legato_Stroke.md -> [Hybrid Warm-Up System (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/students/02-Legato_Stroke.md -> [Core Blueprint — Pedagogy (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/students/02-Legato_Stroke.md -> [Educational Handbook (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/students/02-Legato_Stroke.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/students/02-Legato_Stroke.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/students/03-Accent_Taps.md -> [Hybrid Warm-Up System (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/students/03-Accent_Taps.md -> [Core Blueprint — Pedagogy (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/students/03-Accent_Taps.md -> [Educational Handbook (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/students/03-Accent_Taps.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/students/03-Accent_Taps.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/students/03-Accent_Taps.md -> [Notation Standards (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/students/01-Student_Practice_Guide.md -> [Educational Handbook (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/students/01-Student_Practice_Guide.md -> [Instructor Introduction (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/students/01-Student_Practice_Guide.md -> [Reference (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/students/01-Student_Practice_Guide.md -> [Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/students/01-Student_Practice_Guide.md -> [Hybrid Warm-Up System (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/students/01-Student_Practice_Guide.md -> [Educational Handbook (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/students/05-Grid_Exercises.md -> [Hybrid Warm-Up System (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/students/05-Grid_Exercises.md -> [Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/students/05-Grid_Exercises.md -> [syncopated push-and-pull (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/students/05-Grid_Exercises.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/students/05-Grid_Exercises.md -> [Syncopated Push-and-Pull (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/students/05-Grid_Exercises.md -> [Educational Handbook (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/students/05-Grid_Exercises.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/students/05-Grid_Exercises.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/students/05-Grid_Exercises.md -> [Philippine Marching Percussion Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/students/04-Eight_Eight_Sixteen.md -> [Hybrid Warm-Up System (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/students/04-Eight_Eight_Sixteen.md -> [Core Blueprint — Pedagogy (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/students/04-Eight_Eight_Sixteen.md -> [Educational Handbook (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/students/04-Eight_Eight_Sixteen.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/students/04-Eight_Eight_Sixteen.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Philippine Marching Percussion Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Identity Preservation Checklist (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [docs/Specifications/ (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Philippine Marching Percussion Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Design Principles (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Notation Standards (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [docs/Reference/ (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [docs/User_Guides/ (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Instructor Introduction (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [MONHS 2026 Pilot Brief (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Educational Handbook (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Arranging Guide (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [docs/Development/ (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [docs/Governance/ (Governance)](06-Governance.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [docs/Templates/ (Templates and EDF Placeholders)](08-Templates-and-Placeholders.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [docs/Research/ (Research)](04-Research.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Research (Research)](04-Research.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Development (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Concept Library (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Specification (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Arranging (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [educational (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Specifications (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Reference (Reference)](02-Reference.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [User Guides (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Development (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md -> [Research (Research)](04-Research.pdf)
+- .build/manual/2026.07/governance/04-EDF_Governance.md -> [AI Repository Workflow (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/governance/04-EDF_Governance.md -> [Documentation Architecture (Architecture)](05-Architecture.pdf)
+- .build/manual/2026.07/governance/02-Governance_Overview.md -> [Documentation Architecture (Architecture)](05-Architecture.pdf)
+- .build/manual/2026.07/governance/02-Governance_Overview.md -> [Development (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/governance/11-Framework_Self_Hosting.md -> [AI Repository Workflow (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/governance/03-Project_Governance.md -> [Documentation Architecture (Architecture)](05-Architecture.pdf)
+- .build/manual/2026.07/governance/03-Project_Governance.md -> [Documentation Architecture (Architecture)](05-Architecture.pdf)
+- .build/manual/2026.07/governance/03-Project_Governance.md -> [Documentation Architecture (Architecture)](05-Architecture.pdf)
+- .build/manual/2026.07/governance/03-Project_Governance.md -> [AI Repository Workflow (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/governance/03-Project_Governance.md -> [AI Repository Workflow (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/governance/07-Change_Management.md -> [Development (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/governance/07-Change_Management.md -> [AI Repository Workflow (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/governance/01-README.md -> [Documentation Architecture (Architecture)](05-Architecture.pdf)
+- .build/manual/2026.07/governance/01-README.md -> [AI Repository Workflow (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/governance/01-README.md -> [Development (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/reference/08-Grid_Exercises.md -> [Hybrid Warm-Up System (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/reference/08-Grid_Exercises.md -> [Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/08-Grid_Exercises.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/08-Grid_Exercises.md -> [Educational Handbook (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/reference/08-Grid_Exercises.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/08-Grid_Exercises.md -> [Philippine Marching Percussion Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/06-Accent_Taps.md -> [Hybrid Warm-Up System (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/reference/06-Accent_Taps.md -> [Core Blueprint — Pedagogy (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/06-Accent_Taps.md -> [Educational Handbook (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/reference/06-Accent_Taps.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/06-Accent_Taps.md -> [Notation Standards (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/04-Syncopated_Push_and_Pull.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/04-Syncopated_Push_and_Pull.md -> [Arranging Guide (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md -> [Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md -> [Arranging Guide (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md -> [Indigenous Philippine Percussion (Research)](04-Research.pdf)
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md -> [Identity Preservation Checklist (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md -> [Indigenous Philippine Percussion — Call-and-Response (Research)](04-Research.pdf)
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md -> [Indigenous Philippine Percussion — Collective Groove (Research)](04-Research.pdf)
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md -> [Design Principles (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md -> [Core Blueprint — Phase 2 (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md -> [Core Blueprint — Visual Identity (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md -> [Core Blueprint three-layer method (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md -> [Identity Preservation Checklist (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md -> [Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md -> [Design Principles (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md -> [Arranging Guide (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md -> [Indigenous Philippine Percussion (Research)](04-Research.pdf)
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md -> [MONHS 2026 Pilot Brief (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Voice leading (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Tenor writing (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Notation Standards (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Kaamulan Festival (Research)](04-Research.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Indigenous Philippine Percussion — Interlocking Rhythms (Research)](04-Research.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Indigenous Philippine Percussion (Research)](04-Research.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [crowd engagement (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Indigenous Philippine Percussion — Call-and-Response (Research)](04-Research.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Project Journal (AI and Development)](07-AI-Development.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Instructor Introduction (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Crowd engagement (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Indigenous Philippine Percussion (Research)](04-Research.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Indigenous Percussion Performance Practices (Research)](04-Research.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Educational scaffolding (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Progressive skill development (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Crowd engagement (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Core Blueprint — Visual Identity (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Indigenous Philippine Percussion (Research)](04-Research.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Indigenous Percussion Performance Practices (Research)](04-Research.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Indigenous Philippine Percussion (Research)](04-Research.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Kaamulan Festival (Research)](04-Research.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Identity Framework (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [DCI battery philosophy (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [HBCU showmanship (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [HBCU showmanship (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [DCI battery philosophy (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Progressive skill development (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Educational scaffolding (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Crowd engagement (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/02-Concept_Library.md -> [Indigenous Percussion Performance Practices (Research)](04-Research.pdf)
+- .build/manual/2026.07/reference/07-Eight_Eight_Sixteen.md -> [Hybrid Warm-Up System (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/reference/07-Eight_Eight_Sixteen.md -> [Core Blueprint — Pedagogy (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/07-Eight_Eight_Sixteen.md -> [Educational Handbook (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/reference/07-Eight_Eight_Sixteen.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/05-Legato_Stroke.md -> [Hybrid Warm-Up System (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/reference/05-Legato_Stroke.md -> [Core Blueprint — Pedagogy (Specifications)](01-Specifications.pdf)
+- .build/manual/2026.07/reference/05-Legato_Stroke.md -> [Educational Handbook (User Guides)](03-User-Guides.pdf)
+- .build/manual/2026.07/reference/05-Legato_Stroke.md -> [Core Blueprint (Specifications)](01-Specifications.pdf)
+- tasks/research-backlog.md -> <../docs/Research/Kaamulan_Festival.md#Movement>
+- docs/Research/Kaamulan_Festival.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Kaamulan Festival>
+- docs/Research/Kaamulan_Festival.md -> <Indigenous_Philippine_Percussion.md#Regional Diversity>
+- docs/Research/Kaamulan_Festival.md -> <Indigenous_Philippine_Percussion.md#Layered Rhythmic Structures>
+- docs/Research/Kaamulan_Festival.md -> <../Reference/Concept_Library.md#5. Interlocking Rhythms>
+- docs/Research/Kaamulan_Festival.md -> <../Reference/Concept_Library.md#4. Philippine Festival Rhythms>
+- docs/Research/Kaamulan_Festival.md -> <Indigenous_Philippine_Percussion.md#Music Integrated with Movement>
+- docs/Research/Kaamulan_Festival.md -> <../Reference/Concept_Library.md#11. Movement and Dance>
+- docs/Research/Kaamulan_Festival.md -> <Indigenous_Philippine_Percussion.md#Call-and-Response>
+- docs/Research/Kaamulan_Festival.md -> <../Reference/Concept_Library.md#9. Community Performance Traditions>
+- docs/Research/Kaamulan_Festival.md -> <Indigenous_Philippine_Percussion.md#Ceremonial Performance>
+- docs/Research/Kaamulan_Festival.md -> <../Reference/Philippine_Percussion_Sound_Model.md#Cadence Architecture>
+- docs/Research/Kaamulan_Festival.md -> <Indigenous_Philippine_Percussion.md#Community Participation>
+- docs/Research/Kaamulan_Festival.md -> <../Reference/Concept_Library.md#9. Community Performance Traditions>
+- docs/Research/Kaamulan_Festival.md -> <../Reference/Philippine_Percussion_Sound_Model.md#Visual-Musical Interaction>
+- docs/Research/Kaamulan_Festival.md -> <../Specifications/Core_Blueprint.md#5. Visual Identity: Philippine Yabang>
+- docs/Research/Kaamulan_Festival.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Kaamulan Festival>
+- docs/Research/Kaamulan_Festival.md -> <../Reference/Concept_Library.md#4. Philippine Festival Rhythms>
+- docs/Research/README.md -> ../../../references/README.md
+- docs/Research/Philippine_Marching_Heritage.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Historical Foundation>
+- docs/Research/Philippine_Marching_Heritage.md -> <../Reference/Concept_Library.md#8. Traditional Drum & Lyre Evolution>
+- docs/Research/Philippine_Marching_Heritage.md -> <../Specifications/Core_Blueprint.md#Layer B — The Precision>
+- docs/Research/Philippine_Marching_Heritage.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#International Influences>
+- docs/Research/Philippine_Marching_Heritage.md -> <../Reference/Concept_Library.md#14. Modernization Without Imitation>
+- docs/Research/Philippine_Marching_Heritage.md -> <../Reference/Concept_Library.md#8. Traditional Drum & Lyre Evolution>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Translate Musical Ideas—Not Instruments>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Reference/Grid_Exercises.md#Exercise 3: Bass Drum "Linear Fiesta" Split Grid>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Reference/Concept_Library.md#5. Interlocking Rhythms>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Reference/Concept_Library.md#4. Philippine Festival Rhythms>
+- docs/Research/Indigenous_Philippine_Percussion.md -> ../../../references/README.md
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Reference/Concept_Library.md#Practical Implementation>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Reference/Concept_Library.md#6. Call and Response>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Reference/Concept_Library.md#9. Community Performance Traditions>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Community and Festival Traditions>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Reference/Concept_Library.md#11. Movement and Dance>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Specifications/Core_Blueprint.md#5. Visual Identity: Philippine Yabang>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Reference/Concept_Library.md#11. Movement and Dance>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../User_Guides/Educational_Handbook.md#Hybrid Warm-Up System>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Historical Foundation>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Reference/Concept_Library.md#13. Regional Musical Traditions>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <#Research Program>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Reference/Concept_Library.md#5. Interlocking Rhythms>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Appendix: Identity Preservation Checklist>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Indigenous Percussion Performance Practices>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Reference/Grid_Exercises.md#Exercise 3: Bass Drum "Linear Fiesta" Split Grid>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Reference/Concept_Library.md#2. Split Orchestration for Marching Tenors>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Reference/Grid_Exercises.md#Exercise 2: The "HBCU Flash" Triplet Grid with Did-Its>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Reference/Concept_Library.md#12. Native Instruments>
+- docs/Research/Indigenous_Philippine_Percussion.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Indigenous Philippine Foundations>
+- docs/Research/Indigenous_Philippine_Percussion.md -> ../../../references/README.md
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Reference/Concept_Library.md#9. Community Performance Traditions>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Reference/Concept_Library.md#8. Traditional Drum & Lyre Evolution>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <Core_Blueprint.md#Layer B — The Precision>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <Core_Blueprint.md#Layer C — The Contrast>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <Design_Principles.md#Primary Filter>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Reference/Concept_Library.md#14. Modernization Without Imitation>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <Design_Principles.md#Educational Philosophy>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Reference/Concept_Library.md#9. Community Performance Traditions>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <Design_Principles.md#Performance Philosophy>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <#Community and Festival Traditions>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Philippine_Marching_Heritage.md#Military and Drum and Lyre Heritage>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Philippine_Marching_Heritage.md#Modern Philippine Marching Performance>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Layered Rhythmic Structures>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Call-and-Response>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Community Participation>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Music Integrated with Movement>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Rhythmic Endurance>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Ceremonial Performance>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Regional Diversity>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Collective Groove>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Performance Energy>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Reference/Concept_Library.md#11. Movement and Dance>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Reference/Concept_Library.md#5. Interlocking Rhythms>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Community Participation>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Reference/Concept_Library.md#4. Philippine Festival Rhythms>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Kaamulan_Festival.md#Rhythmic Layering>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Kaamulan_Festival.md#Movement>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Kaamulan_Festival.md#Audience Interaction>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Kaamulan_Festival.md#Ceremonial Pacing>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Kaamulan_Festival.md#Community Participation>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Kaamulan_Festival.md#Visual-Musical Integration>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Reference/Concept_Library.md#8. Traditional Drum & Lyre Evolution>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Reference/Concept_Library.md#8. Traditional Drum & Lyre Evolution>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Reference/Concept_Library.md#8. Traditional Drum & Lyre Evolution>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Reference/Concept_Library.md#8. Traditional Drum & Lyre Evolution>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <Core_Blueprint.md#3. Pedagogy: From Rote Learning to Blended Literacy>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../User_Guides/Educational_Handbook.md#Rehearsal Methodology>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Reference/Philippine_Percussion_Sound_Model.md#Ensemble Balance>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Reference/Concept_Library.md#8. Traditional Drum & Lyre Evolution>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Reference/Concept_Library.md#4. Philippine Festival Rhythms>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <Core_Blueprint.md#Layer B — The Precision>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <Core_Blueprint.md#Layer C — The Contrast>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Philippine_Marching_Heritage.md#Military Drum Corps Influence>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Reference/Philippine_Percussion_Sound_Model.md#Groove Characteristics>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Reference/Philippine_Percussion_Sound_Model.md#Phrase Architecture>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Reference/Concept_Library.md#5. Interlocking Rhythms>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Ensemble Communication>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Reference/Philippine_Percussion_Sound_Model.md#Accent Philosophy>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Performance Energy>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Open Tone Concepts>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Muted Articulations>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Accented Gestures>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Interlocking Rhythms>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Ensemble Communication>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Body Movement>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Rhythmic Dialogue>
+- docs/Specifications/Philippine_Marching_Percussion_Identity_Framework.md -> <../Research/Indigenous_Philippine_Percussion.md#Performance Energy>
+- docs/Specifications/Design_Principles.md -> <Philippine_Marching_Percussion_Identity_Framework.md#Appendix: Identity Preservation Checklist>
+- docs/Specifications/Notation_Standards.md -> <../Reference/Concept_Library.md#3. Marching Percussion Notation Strategy>
+- docs/Specifications/Notation_Standards.md -> ../../../scores/README.md
+- docs/User_Guides/Arranging_Guide.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Appendix: Identity Preservation Checklist>
+- docs/User_Guides/Arranging_Guide.md -> ../../../scores/README.md
+- docs/User_Guides/Instructor_Introduction.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Appendix: Identity Preservation Checklist>
+- docs/User_Guides/MONHS_2026_Pilot_Brief.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Appendix: Identity Preservation Checklist>
+- docs/User_Guides/MONHS_2026_Pilot_Brief.md -> ../../../scores/technique-and-warmups/README.md
+- docs/User_Guides/MONHS_2026_Pilot_Brief.md -> ../../../scores/cadences/README.md
+- docs/User_Guides/MONHS_2026_Pilot_Brief.md -> ../../../audio/battery-splits/README.md
+- docs/User_Guides/MONHS_2026_Pilot_Brief.md -> ../../../scores/show-arrangements/README.md
+- docs/User_Guides/MONHS_2026_Pilot_Brief.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Translate Musical Ideas—Not Instruments>
+- docs/User_Guides/Educational_Handbook.md -> <../Specifications/Core_Blueprint.md#3. Pedagogy: From Rote Learning to Blended Literacy>
+- docs/User_Guides/Educational_Handbook.md -> <../Specifications/Design_Principles.md#Rehearsal Methodology>
+- docs/User_Guides/Educational_Handbook.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Appendix: Identity Preservation Checklist>
+- docs/User_Guides/Educational_Handbook.md -> <../Reference/Concept_Library.md#Practical Implementation>
+- docs/User_Guides/Educational_Handbook.md -> ../../../scores/technique-and-warmups/README.md
+- docs/User_Guides/Educational_Handbook.md -> ../../../audio/battery-splits/README.md
+- docs/User_Guides/Student_Practice_Guide.md -> <Educational_Handbook.md#Hybrid Warm-Up System>
+- docs/Architecture/Documentation_Architecture.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Appendix: Identity Preservation Checklist>
+- docs/Reference/Grid_Exercises.md -> <../User_Guides/Educational_Handbook.md#Hybrid Warm-Up System>
+- docs/Reference/Concept_Library.md -> <Philippine_Percussion_Sound_Model.md#Groove Characteristics>
+- docs/Reference/Concept_Library.md -> <Philippine_Percussion_Sound_Model.md#Bass Movement>
+- docs/Reference/Concept_Library.md -> <../Specifications/Notation_Standards.md#Scope>
+- docs/Reference/Concept_Library.md -> <../Specifications/Core_Blueprint.md#Layer B — The Precision>
+- docs/Reference/Concept_Library.md -> <Eight_Eight_Sixteen.md#Marching Bass Drum Split Variations>
+- docs/Reference/Concept_Library.md -> <Philippine_Percussion_Sound_Model.md#Visual-Musical Interaction>
+- docs/Reference/Concept_Library.md -> <#7. Translate Musical Ideas—Not Instruments>
+- docs/Reference/Concept_Library.md -> <#1. Syncopation in the Philippine Context>
+- docs/Reference/Concept_Library.md -> <#5. Interlocking Rhythms>
+- docs/Reference/Concept_Library.md -> <#9. Community Performance Traditions>
+- docs/Reference/Concept_Library.md -> <../Research/Indigenous_Philippine_Percussion.md#Interlocking Rhythms>
+- docs/Reference/Concept_Library.md -> <#6. Call and Response>
+- docs/Reference/Concept_Library.md -> <#2. Split Orchestration for Marching Tenors>
+- docs/Reference/Concept_Library.md -> <../Specifications/Design_Principles.md#Performance Philosophy>
+- docs/Reference/Concept_Library.md -> <../Research/Indigenous_Philippine_Percussion.md#Call-and-Response>
+- docs/Reference/Concept_Library.md -> <Syncopated_Push_and_Pull.md#Example 5: Call-and-Response Push — Ensemble>
+- docs/Reference/Concept_Library.md -> <Philippine_Percussion_Sound_Model.md#Phrase Architecture>
+- docs/Reference/Concept_Library.md -> <#9. Community Performance Traditions>
+- docs/Reference/Concept_Library.md -> <../Development/Project_Journal.md>
+- docs/Reference/Concept_Library.md -> <../User_Guides/Instructor_Introduction.md>
+- docs/Reference/Concept_Library.md -> <#9. Community Performance Traditions>
+- docs/Reference/Concept_Library.md -> <#5. Interlocking Rhythms>
+- docs/Reference/Concept_Library.md -> <../Specifications/Design_Principles.md#Performance Philosophy>
+- docs/Reference/Concept_Library.md -> <../Research/Indigenous_Philippine_Percussion.md#Performance Practices to Study>
+- docs/Reference/Concept_Library.md -> <#12. Native Instruments>
+- docs/Reference/Concept_Library.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Translate Musical Ideas—Not Instruments>
+- docs/Reference/Concept_Library.md -> <#4. Philippine Festival Rhythms>
+- docs/Reference/Concept_Library.md -> <../User_Guides/Educational_Handbook.md>
+- docs/Reference/Concept_Library.md -> <../User_Guides/Instructor_Introduction.md#Progressive development>
+- docs/Reference/Concept_Library.md -> <#4. Philippine Festival Rhythms>
+- docs/Reference/Concept_Library.md -> <#11. Movement and Dance>
+- docs/Reference/Concept_Library.md -> <../Specifications/Design_Principles.md#Performance Philosophy>
+- docs/Reference/Concept_Library.md -> <#1. Syncopation in the Philippine Context>
+- docs/Reference/Concept_Library.md -> <Philippine_Percussion_Sound_Model.md#Groove Characteristics>
+- docs/Reference/Concept_Library.md -> <Philippine_Percussion_Sound_Model.md#Bass Movement>
+- docs/Reference/Concept_Library.md -> <#9. Community Performance Traditions>
+- docs/Reference/Concept_Library.md -> <../Specifications/Core_Blueprint.md#5. Visual Identity: Philippine Yabang>
+- docs/Reference/Concept_Library.md -> <../Research/Indigenous_Philippine_Percussion.md#Performance Practices to Study>
+- docs/Reference/Concept_Library.md -> <#10. Philippine Rhythmic Vocabulary>
+- docs/Reference/Concept_Library.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Appendix: Identity Preservation Checklist>
+- docs/Reference/Concept_Library.md -> <../Specifications/Core_Blueprint.md#Layer B — The Precision>
+- docs/Reference/Concept_Library.md -> <../Specifications/Core_Blueprint.md#Layer C — The Contrast>
+- docs/Reference/Concept_Library.md -> <Philippine_Percussion_Sound_Model.md#Groove Characteristics>
+- docs/Reference/Concept_Library.md -> <Philippine_Percussion_Sound_Model.md#Bass Movement>
+- docs/Reference/Concept_Library.md -> <../Specifications/Core_Blueprint.md#Layer C — The Contrast>
+- docs/Reference/Concept_Library.md -> <../Specifications/Core_Blueprint.md#Layer B — The Precision>
+- docs/Reference/Concept_Library.md -> <../User_Guides/Instructor_Introduction.md#Progressive development>
+- docs/Reference/Concept_Library.md -> <../User_Guides/Educational_Handbook.md>
+- docs/Reference/Concept_Library.md -> <../Specifications/Design_Principles.md#Performance Philosophy>
+- docs/Reference/Concept_Library.md -> <../Research/Indigenous_Philippine_Percussion.md#Performance Practices to Study>
+- docs/Reference/Philippine_Percussion_Sound_Model.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Appendix: Identity Preservation Checklist>
+- docs/Reference/Philippine_Percussion_Sound_Model.md -> <#Three-Layer Sonic Map>
+- docs/Reference/Philippine_Percussion_Sound_Model.md -> <#Evaluation Checklist>
+- docs/Reference/Philippine_Percussion_Sound_Model.md -> <../Research/Indigenous_Philippine_Percussion.md#Call-and-Response>
+- docs/Reference/Philippine_Percussion_Sound_Model.md -> <../Research/Indigenous_Philippine_Percussion.md#Collective Groove>
+- docs/Reference/Philippine_Percussion_Sound_Model.md -> <Concept_Library.md#1. Syncopation in the Philippine Context>
+- docs/Reference/Philippine_Percussion_Sound_Model.md -> <Concept_Library.md#5. Interlocking Rhythms>
+- docs/Reference/Philippine_Percussion_Sound_Model.md -> <Concept_Library.md#4. Philippine Festival Rhythms>
+- docs/Reference/Philippine_Percussion_Sound_Model.md -> <Grid_Exercises.md#Exercise 3: Bass Drum "Linear Fiesta" Split Grid>
+- docs/Reference/Philippine_Percussion_Sound_Model.md -> <../Specifications/Core_Blueprint.md#Phase 2 — Proof of Concept>
+- docs/Reference/Philippine_Percussion_Sound_Model.md -> <#Accent Philosophy>
+- docs/Reference/Philippine_Percussion_Sound_Model.md -> <../Specifications/Core_Blueprint.md#5. Visual Identity: Philippine Yabang>
+- docs/Reference/Philippine_Percussion_Sound_Model.md -> <../Specifications/Core_Blueprint.md#4. Three-Layer Arranging Method>
+- docs/Reference/Philippine_Percussion_Sound_Model.md -> <../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Appendix: Identity Preservation Checklist>
+- docs/Reference/Legato_Stroke.md -> <../User_Guides/Educational_Handbook.md#Hybrid Warm-Up System>
+- docs/Reference/Legato_Stroke.md -> <../Specifications/Core_Blueprint.md#3. Pedagogy: From Rote Learning to Blended Literacy>
+- docs/Reference/Eight_Eight_Sixteen.md -> <../User_Guides/Educational_Handbook.md#Hybrid Warm-Up System>
+- docs/Reference/Eight_Eight_Sixteen.md -> <../Specifications/Core_Blueprint.md#3. Pedagogy: From Rote Learning to Blended Literacy>
+- docs/Reference/Syncopated_Push_and_Pull.md -> <Concept_Library.md#1. Syncopation in the Philippine Context>
+- docs/Reference/Syncopated_Push_and_Pull.md -> <Grid_Exercises.md#Exercise 1: The "Sinulog-DCI Hybrid" 16th-Note Grid>
+- docs/Reference/Syncopated_Push_and_Pull.md -> <Grid_Exercises.md#Part B: The Syncopated Offbeat (The "e" Shift
+- docs/Reference/Syncopated_Push_and_Pull.md -> <Concept_Library.md#6. Call and Response>
+- docs/Reference/Syncopated_Push_and_Pull.md -> <Philippine_Percussion_Sound_Model.md#Groove Characteristics>
+- docs/Reference/Syncopated_Push_and_Pull.md -> <../Specifications/Core_Blueprint.md#Layer A — The Soul>
+- docs/Reference/Syncopated_Push_and_Pull.md -> <Philippine_Percussion_Sound_Model.md#Evaluation Checklist>
+- docs/Reference/Syncopated_Push_and_Pull.md -> <Concept_Library.md#1. Syncopation in the Philippine Context>
+- docs/Reference/Syncopated_Push_and_Pull.md -> <Concept_Library.md#4. Philippine Festival Rhythms>
+- docs/Reference/Accent_Taps.md -> <../User_Guides/Educational_Handbook.md#Hybrid Warm-Up System>
+- docs/Reference/Accent_Taps.md -> <../Specifications/Core_Blueprint.md#3. Pedagogy: From Rote Learning to Blended Literacy>
+- manual/PDF_LINKS.md -> [Identity Framework (Specifications)](01-Specifications.pdf)
+- assets/README.md -> assets/ph-marching-fusion-logo.png
+
+Orphan documents
+----------------
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md
+- .build/manual/2026.07/research/03-Kaamulan_Festival.md
+- .build/manual/2026.07/research/04-Philippine_Marching_Heritage.md
+- .build/manual/2026.07/research/01-README.md
+- .build/manual/2026.07/research/00-cover.md
+- .build/manual/2026.07/specifications/03-Core_Blueprint.md
+- .build/manual/2026.07/specifications/05-Notation_Standards.md
+- .build/manual/2026.07/specifications/01-README.md
+- .build/manual/2026.07/specifications/04-Design_Principles.md
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md
+- .build/manual/2026.07/specifications/00-cover.md
+- .build/manual/2026.07/user_guides/10-Grid_Exercises.md
+- .build/manual/2026.07/user_guides/08-Accent_Taps.md
+- .build/manual/2026.07/user_guides/05-Educational_Handbook.md
+- .build/manual/2026.07/user_guides/07-Legato_Stroke.md
+- .build/manual/2026.07/user_guides/04-Arranging_Guide.md
+- .build/manual/2026.07/user_guides/03-MONHS_2026_Pilot_Brief.md
+- .build/manual/2026.07/user_guides/09-Eight_Eight_Sixteen.md
+- .build/manual/2026.07/user_guides/01-README.md
+- .build/manual/2026.07/user_guides/07-appendix-technique-header.md
+- .build/manual/2026.07/user_guides/00-cover.md
+- .build/manual/2026.07/user_guides/06-Student_Practice_Guide.md
+- .build/manual/2026.07/user_guides/02-Instructor_Introduction.md
+- .build/manual/2026.07/templates_placeholders/02-README.md
+- .build/manual/2026.07/templates_placeholders/04-README.md
+- .build/manual/2026.07/templates_placeholders/03-README.md
+- .build/manual/2026.07/templates_placeholders/01-README.md
+- .build/manual/2026.07/templates_placeholders/00-cover.md
+- .build/manual/2026.07/ai_development/03-Repository_Workflow.md
+- .build/manual/2026.07/ai_development/02-AI_Philosophy.md
+- .build/manual/2026.07/ai_development/08-Verification.md
+- .build/manual/2026.07/ai_development/04-AI_Roles.md
+- .build/manual/2026.07/ai_development/06-Context_Checklist.md
+- .build/manual/2026.07/ai_development/05-AI_Decision_Matrix.md
+- .build/manual/2026.07/ai_development/12-README.md
+- .build/manual/2026.07/ai_development/07-Prompting_Guide.md
+- .build/manual/2026.07/ai_development/09-Security.md
+- .build/manual/2026.07/ai_development/01-README.md
+- .build/manual/2026.07/ai_development/13-Project_Journal.md
+- .build/manual/2026.07/ai_development/11-Cost_Optimization.md
+- .build/manual/2026.07/ai_development/10-Governance.md
+- .build/manual/2026.07/ai_development/00-cover.md
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md
+- .build/manual/2026.07/trainers/09-Grid_Exercises.md
+- .build/manual/2026.07/trainers/07-Accent_Taps.md
+- .build/manual/2026.07/trainers/06-Legato_Stroke.md
+- .build/manual/2026.07/trainers/11-Indigenous_Philippine_Percussion.md
+- .build/manual/2026.07/trainers/02-MONHS_2026_Pilot_Brief.md
+- .build/manual/2026.07/trainers/01-Instructor_Introduction.md
+- .build/manual/2026.07/trainers/10-Concept_Library.md
+- .build/manual/2026.07/trainers/03-Educational_Handbook.md
+- .build/manual/2026.07/trainers/12-Kaamulan_Festival.md
+- .build/manual/2026.07/trainers/08-Eight_Eight_Sixteen.md
+- .build/manual/2026.07/trainers/04-Design_Principles.md
+- .build/manual/2026.07/trainers/00-cover.md
+- .build/manual/2026.07/students/02-Legato_Stroke.md
+- .build/manual/2026.07/students/03-Accent_Taps.md
+- .build/manual/2026.07/students/02-appendix-technique-header.md
+- .build/manual/2026.07/students/01-Student_Practice_Guide.md
+- .build/manual/2026.07/students/05-Grid_Exercises.md
+- .build/manual/2026.07/students/04-Eight_Eight_Sixteen.md
+- .build/manual/2026.07/students/00-cover.md
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md
+- .build/manual/2026.07/architecture/03-README.md
+- .build/manual/2026.07/architecture/01-README.md
+- .build/manual/2026.07/architecture/00-cover.md
+- .build/manual/2026.07/governance/04-EDF_Governance.md
+- .build/manual/2026.07/governance/02-Governance_Overview.md
+- .build/manual/2026.07/governance/11-Framework_Self_Hosting.md
+- .build/manual/2026.07/governance/08-Ownership_and_Review.md
+- .build/manual/2026.07/governance/03-Project_Governance.md
+- .build/manual/2026.07/governance/07-Change_Management.md
+- .build/manual/2026.07/governance/09-Governance_Checklist.md
+- .build/manual/2026.07/governance/06-Document_Lifecycle.md
+- .build/manual/2026.07/governance/10-Analyzer_Compliance.md
+- .build/manual/2026.07/governance/01-README.md
+- .build/manual/2026.07/governance/05-Document_Metadata_Standard.md
+- .build/manual/2026.07/governance/00-cover.md
+- .build/manual/2026.07/reference/08-Grid_Exercises.md
+- .build/manual/2026.07/reference/06-Accent_Taps.md
+- .build/manual/2026.07/reference/04-Syncopated_Push_and_Pull.md
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md
+- .build/manual/2026.07/reference/02-Concept_Library.md
+- .build/manual/2026.07/reference/01-README.md
+- .build/manual/2026.07/reference/07-Eight_Eight_Sixteen.md
+- .build/manual/2026.07/reference/05-Legato_Stroke.md
+- .build/manual/2026.07/reference/00-cover.md
+- dist/README.md
+- assets/fonts/README.md
+
+Navigation issues
+-----------------
+None.
+
+Governance metadata and lifecycle issues
+----------------------------------------
+- .build/manual/2026.07/specifications/05-Notation_Standards.md: authoritative document cannot be Draft or Archived.
+- .build/manual/2026.07/user_guides/05-Educational_Handbook.md: authoritative document cannot be Draft or Archived.
+- .build/manual/2026.07/user_guides/04-Arranging_Guide.md: authoritative document cannot be Draft or Archived.
+- .build/manual/2026.07/trainers/03-Educational_Handbook.md: authoritative document cannot be Draft or Archived.
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md: authoritative document cannot be Draft or Archived.
+- docs/Specifications/Notation_Standards.md: authoritative document cannot be Draft or Archived.
+- docs/User_Guides/Arranging_Guide.md: authoritative document cannot be Draft or Archived.
+- docs/User_Guides/Educational_Handbook.md: authoritative document cannot be Draft or Archived.
+- docs/Reference/Philippine_Percussion_Sound_Model.md: authoritative document cannot be Draft or Archived.
+
+Overdue reviews
+---------------
+None.
+
+Markdown outside canonical locations
+------------------------------------
+- .build/manual/2026.07/research/02-Indigenous_Philippine_Percussion.md
+- .build/manual/2026.07/research/03-Kaamulan_Festival.md
+- .build/manual/2026.07/research/04-Philippine_Marching_Heritage.md
+- .build/manual/2026.07/research/01-README.md
+- .build/manual/2026.07/research/00-cover.md
+- .build/manual/2026.07/specifications/03-Core_Blueprint.md
+- .build/manual/2026.07/specifications/05-Notation_Standards.md
+- .build/manual/2026.07/specifications/01-README.md
+- .build/manual/2026.07/specifications/04-Design_Principles.md
+- .build/manual/2026.07/specifications/02-Philippine_Marching_Percussion_Identity_Framework.md
+- .build/manual/2026.07/specifications/00-cover.md
+- .build/manual/2026.07/user_guides/10-Grid_Exercises.md
+- .build/manual/2026.07/user_guides/08-Accent_Taps.md
+- .build/manual/2026.07/user_guides/05-Educational_Handbook.md
+- .build/manual/2026.07/user_guides/07-Legato_Stroke.md
+- .build/manual/2026.07/user_guides/04-Arranging_Guide.md
+- .build/manual/2026.07/user_guides/03-MONHS_2026_Pilot_Brief.md
+- .build/manual/2026.07/user_guides/09-Eight_Eight_Sixteen.md
+- .build/manual/2026.07/user_guides/01-README.md
+- .build/manual/2026.07/user_guides/07-appendix-technique-header.md
+- .build/manual/2026.07/user_guides/00-cover.md
+- .build/manual/2026.07/user_guides/06-Student_Practice_Guide.md
+- .build/manual/2026.07/user_guides/02-Instructor_Introduction.md
+- .build/manual/2026.07/templates_placeholders/02-README.md
+- .build/manual/2026.07/templates_placeholders/04-README.md
+- .build/manual/2026.07/templates_placeholders/03-README.md
+- .build/manual/2026.07/templates_placeholders/01-README.md
+- .build/manual/2026.07/templates_placeholders/00-cover.md
+- .build/manual/2026.07/ai_development/03-Repository_Workflow.md
+- .build/manual/2026.07/ai_development/02-AI_Philosophy.md
+- .build/manual/2026.07/ai_development/08-Verification.md
+- .build/manual/2026.07/ai_development/04-AI_Roles.md
+- .build/manual/2026.07/ai_development/06-Context_Checklist.md
+- .build/manual/2026.07/ai_development/05-AI_Decision_Matrix.md
+- .build/manual/2026.07/ai_development/12-README.md
+- .build/manual/2026.07/ai_development/07-Prompting_Guide.md
+- .build/manual/2026.07/ai_development/09-Security.md
+- .build/manual/2026.07/ai_development/01-README.md
+- .build/manual/2026.07/ai_development/13-Project_Journal.md
+- .build/manual/2026.07/ai_development/11-Cost_Optimization.md
+- .build/manual/2026.07/ai_development/10-Governance.md
+- .build/manual/2026.07/ai_development/00-cover.md
+- .build/manual/2026.07/trainers/05-Philippine_Marching_Percussion_Identity_Framework.md
+- .build/manual/2026.07/trainers/09-Grid_Exercises.md
+- .build/manual/2026.07/trainers/07-Accent_Taps.md
+- .build/manual/2026.07/trainers/06-Legato_Stroke.md
+- .build/manual/2026.07/trainers/11-Indigenous_Philippine_Percussion.md
+- .build/manual/2026.07/trainers/02-MONHS_2026_Pilot_Brief.md
+- .build/manual/2026.07/trainers/01-Instructor_Introduction.md
+- .build/manual/2026.07/trainers/10-Concept_Library.md
+- .build/manual/2026.07/trainers/03-Educational_Handbook.md
+- .build/manual/2026.07/trainers/12-Kaamulan_Festival.md
+- .build/manual/2026.07/trainers/08-Eight_Eight_Sixteen.md
+- .build/manual/2026.07/trainers/04-Design_Principles.md
+- .build/manual/2026.07/trainers/00-cover.md
+- .build/manual/2026.07/students/02-Legato_Stroke.md
+- .build/manual/2026.07/students/03-Accent_Taps.md
+- .build/manual/2026.07/students/02-appendix-technique-header.md
+- .build/manual/2026.07/students/01-Student_Practice_Guide.md
+- .build/manual/2026.07/students/05-Grid_Exercises.md
+- .build/manual/2026.07/students/04-Eight_Eight_Sixteen.md
+- .build/manual/2026.07/students/00-cover.md
+- .build/manual/2026.07/architecture/02-Documentation_Architecture.md
+- .build/manual/2026.07/architecture/03-README.md
+- .build/manual/2026.07/architecture/01-README.md
+- .build/manual/2026.07/architecture/00-cover.md
+- .build/manual/2026.07/governance/04-EDF_Governance.md
+- .build/manual/2026.07/governance/02-Governance_Overview.md
+- .build/manual/2026.07/governance/11-Framework_Self_Hosting.md
+- .build/manual/2026.07/governance/08-Ownership_and_Review.md
+- .build/manual/2026.07/governance/03-Project_Governance.md
+- .build/manual/2026.07/governance/07-Change_Management.md
+- .build/manual/2026.07/governance/09-Governance_Checklist.md
+- .build/manual/2026.07/governance/06-Document_Lifecycle.md
+- .build/manual/2026.07/governance/10-Analyzer_Compliance.md
+- .build/manual/2026.07/governance/01-README.md
+- .build/manual/2026.07/governance/05-Document_Metadata_Standard.md
+- .build/manual/2026.07/governance/00-cover.md
+- .build/manual/2026.07/reference/08-Grid_Exercises.md
+- .build/manual/2026.07/reference/06-Accent_Taps.md
+- .build/manual/2026.07/reference/04-Syncopated_Push_and_Pull.md
+- .build/manual/2026.07/reference/03-Philippine_Percussion_Sound_Model.md
+- .build/manual/2026.07/reference/02-Concept_Library.md
+- .build/manual/2026.07/reference/01-README.md
+- .build/manual/2026.07/reference/07-Eight_Eight_Sixteen.md
+- .build/manual/2026.07/reference/05-Legato_Stroke.md
+- .build/manual/2026.07/reference/00-cover.md
+- dist/README.md
+- dist/manual/README.md
+- references/traditional-ph-grooves/README.md
+- references/README.md
+- references/dci-hbcu-inspiration/README.md
+- scores/technique-and-warmups/README.md
+- scores/README.md
+- scores/cadences/README.md
+- scores/show-arrangements/README.md
+- audio/battery-splits/README.md
+- audio/README.md
+- audio/full-mixes/README.md
+- manual/PDF_LINKS.md
+- scripts/build_manual/README.md
+- assets/README.md
+- assets/fonts/README.md
+- reports/README.md
+
+Warnings
+--------
+None.
+
+Recommendations
+---------------
+- Audit Markdown outside canonical locations.
+- Repair broken relative Markdown links.
+- Link orphan documents from the project hierarchy.
+- Correct governance metadata and lifecycle issues.
+
+
+Validation completed: 2026-07-17 06:35:33 +0800
+
+============================================================
+Conformance validation completed successfully.
+
+Report:
+reports/conformance/framework-advisor-20260717-063506.txt
+
+Compliance scores:
+- Overall: 67%
+- Structure: 96%
+- AI: 100%
+- Navigation: 0%
+- Governance: 73%
+
+Next recommended actions:
+- Audit Markdown outside canonical locations.
+- Repair broken relative Markdown links.
+- Link orphan documents from the project hierarchy.
+- Correct governance metadata and lifecycle issues.
+============================================================

@@ -47,6 +47,18 @@ This exercise isolates the [syncopated push-and-pull](Syncopated_Push_and_Pull.m
 | `>` | Standard accent — 9" to 12" height; full [legato](Legato_Stroke.md) or sharp downstroke |
 | `.` | Inner tap — strict 3" height; controlled, relaxed wrist |
 
+### Stroke Notation Key
+
+Stroke labels describe **stick motion**, not whether a note is written. An **upstroke still strikes the head** — it is a low tap that immediately whips upward to prepare for an upcoming accent. See [Accent-Taps](Accent_Taps.md) for full stroke-type definitions.
+
+| Label | Stroke type | Motion |
+|---|---|---|
+| **Dn** | Downstroke | Starts high, ends low — accents |
+| **Up** | Upstroke | Starts low, ends high — prep tap before an accent |
+| **Tp** | Tap | Starts low, ends low — inner taps between accents |
+
+**Reading rule:** `R-Str` and `L-Str` align under `Sticks`. Each label applies only to the hand striking on that partial. Compound patterns such as Up-then-Dn span two consecutive partials — the first partial gets **Up**, the second gets **Dn**, each on the hand shown in `Sticks` for that column.
+
 ```text
 Time Signature: 4/4
 Subdivision: 16th Notes (1 e & a 2 e & a...)
@@ -58,19 +70,30 @@ Subdivision: 16th Notes (1 e & a 2 e & a...)
 Count:  1  e  &  a   2  e  &  a   3  e  &  a   4  e  &  a
 Notes:  ^  .  .  .   >  .  .  .   ^  .  .  .   >  .  .  .
 Sticks: R  L  R  L   R  L  R  L   R  L  R  L   R  L  R  L
-Stroke: Down---------Down---------Down---------Down--------
+R-Str:  Dn Tp Tp Tp  Dn Tp Tp Tp  Dn Tp Tp Tp  Dn Tp Tp Tp
+L-Str:  Tp Tp Tp Tp  Tp Tp Tp Tp  Tp Tp Tp Tp  Tp Tp Tp Tp
 ```
 
 ### Part B: The Syncopated Offbeat (The "e" Shift)
 
-This variation mimics traditional native kettle-drum answer patterns. The upstroke on the first partial must be lightning-fast.
+This variation mimics traditional native kettle-drum answer patterns. On every beat, **R plays a lightning-fast upstroke tap on partial `1`** (low hit, stick whips up within one 16th note). **L plays the accent on partial `e` with a downstroke.** If R's recovery is slow, heights blur and the offbeat accent loses its snap.
 
 ```text
 Count:  1  e  &  a   2  e  &  a   3  e  &  a   4  e  &  a
 Notes:  .  >  .  .   .  ^  .  .   .  >  .  .   .  ^  .  .
 Sticks: R  L  R  L   R  L  R  L   R  L  R  L   R  L  R  L
-Stroke: Up-Down------Up-Down------Up-Down------Up-Down-----
+R-Str:  Up Tp Tp Tp  Up Tp Tp Tp  Up Tp Tp Tp  Up Tp Tp Tp
+L-Str:  Tp Dn Tp Tp  Tp Dn Tp Tp  Tp Dn Tp Tp  Tp Dn Tp Tp
 ```
+
+**Beat 1 walkthrough**
+
+| Partial | Hand | Note | Stroke | Height |
+|---|---|---|---|---|
+| `1` | R | `.` tap | Up | 3" hit → stick recovers high immediately |
+| `e` | L | `>` accent | Dn | 9"–12" from high prepare position |
+| `&` | R | `.` tap | Tp | 3", stay low |
+| `a` | L | `.` tap | Tp | 3", stay low |
 
 ### Part C: The Complete 4-2-1 Turnaround (Ensemble Check)
 
@@ -80,8 +103,17 @@ This bar pushes the line through rapid height switches. It tests whether players
 Count:  1  e  &  a   2  e  &  a   3  e  &  a   4  e  &  a
 Notes:  ^  .  .  .   .  >  .  .   .  .  ^  .   .  .  .  >
 Sticks: R  L  R  L   R  L  R  L   R  L  R  L   R  L  R  L
-Stroke: Down-Up------Up-Down------Up-Down-Up---Up-Down-----
+R-Str:  Dn Tp Tp Tp  Up Tp Tp Tp  Tp Tp Dn Tp  Tp Tp Up Tp
+L-Str:  Tp Up Tp Tp  Tp Dn Tp Tp  Tp Up Tp Tp  Tp Tp Tp Dn
 ```
+
+| Beat | Accent partial | Accent hand | Prep (Up) | Accent (Dn) |
+|---|---|---|---|---|
+| 1 | `1` | R | — | R **Dn** on `1` |
+| 1 | — | L | L **Up** on `e` (sets up beat 2) | — |
+| 2 | `e` | L | R **Up** on `1` | L **Dn** on `e` |
+| 3 | `&` | R | L **Up** on `e` | R **Dn** on `&` |
+| 4 | `a` | L | R **Up** on `&` | L **Dn** on `a` |
 
 ## Exercise 2: The "HBCU Flash" Triplet Grid with Did-Its
 
@@ -94,24 +126,28 @@ Traditional Philippine lyre corps rely on dense, rapid multi-note patterns. This
 | `>` | Accented single stroke (9"–12") |
 | `rr` / `ll` | Low double-stroke / did-it (3" tap height) |
 
+Stroke labels use the same `R-Str` / `L-Str` convention as [Exercise 1 — Stroke Notation Key](#stroke-notation-key).
+
 ### Part 1: Accent on the 1st Partial (Downbeat Driving Pulse)
 
 ```text
 Count:  1  tl bi  2  tl bi  3  tl bi  4  tl bi
-Notes:  >  ll rr  >  ll rr  >  ll rr  >  ll rr
+Notes:  >  ll rr  >  rr ll  >  ll rr  >  rr ll
 Sticks: R  L  R   L  R  L   R  L  R   L  R  L
-Stroke: Down------Down------Down------Down------
+R-Str:  Dn Tp Tp  Dn Tp Tp  Dn Tp Tp  Dn Tp Tp
+L-Str:  Tp Tp Tp  Tp Tp Tp  Tp Tp Tp  Tp Tp Tp
 ```
 
 ### Part 2: Accent on the 2nd Partial (The Upbeat Flow)
 
-Extremely difficult for tracking uniform stick heights, as the left hand must constantly pop out of a low double stroke into a high accent.
+Extremely difficult for tracking uniform stick heights, as the accenting hand must pop out of a low did-it into a high accent. Within each triplet, the hand on partial `1` finishes with **Up** and the accenting hand on partial `tl` plays **Dn**.
 
 ```text
 Count:  1  tl bi  2  tl bi  3  tl bi  4  tl bi
-Notes:  rr >  ll  rr >  ll  rr >  ll  rr >  ll
+Notes:  rr >  rr  ll >  ll  rr >  ll  ll >  ll
 Sticks: R  L  R   L  R  L   R  L  R   L  R  L
-Stroke: Up-Down---Up-Down---Up-Down---Up-Down---
+R-Str:  Up Tp Tp  Tp Dn Tp  Up Tp Tp  Tp Dn Tp
+L-Str:  Tp Dn Tp  Up Tp Tp  Tp Dn Tp  Up Tp Tp
 ```
 
 ## Exercise 3: Bass Drum "Linear Fiesta" Split Grid

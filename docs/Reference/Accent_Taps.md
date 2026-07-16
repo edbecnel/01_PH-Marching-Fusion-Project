@@ -58,6 +58,18 @@ For fusion-specific grid exercises (Sinulog-DCI hybrid, HBCU did-its, bass split
 | `R` | Right hand |
 | `L` | Left hand |
 
+### Stroke Notation Key
+
+Stroke labels describe **stick motion**, not whether a note is written. An **upstroke still strikes the head** — it is a low tap that immediately whips upward to prepare for an upcoming accent.
+
+| Label | Stroke type | Motion |
+|---|---|---|
+| **Dn** | Downstroke | Starts high, ends low — accents |
+| **Up** | Upstroke | Starts low, ends high — prep tap before an accent |
+| **Tp** | Tap | Starts low, ends low — inner taps between accents |
+
+**Reading rule:** `R-Str` and `L-Str` align under `Sticks`. Each label applies only to the hand striking on that partial. For the full convention and fusion-grid examples, see [Grid Exercises — Stroke Notation Key](Grid_Exercises.md#stroke-notation-key).
+
 Below is the standard **16th-note forward grid**. Count out loud (`1 e & a`) and maintain strict 3" tap heights on all unaccented notes.
 
 ### Part 1: Accent on the 1st Partial (The Downbeat)
@@ -66,34 +78,44 @@ Below is the standard **16th-note forward grid**. Count out loud (`1 e & a`) and
 Count:  1  e  &  a   2  e  &  a   3  e  &  a   4  e  &  a
 Notes:  >  .  .  .   >  .  .  .   >  .  .  .   >  .  .  .
 Sticks: R  L  R  L   R  L  R  L   R  L  R  L   R  L  R  L
-Stroke: Down---------Down---------Down---------Down--------
+R-Str:  Dn Tp Tp Tp  Dn Tp Tp Tp  Dn Tp Tp Tp  Dn Tp Tp Tp
+L-Str:  Tp Tp Tp Tp  Tp Tp Tp Tp  Tp Tp Tp Tp  Tp Tp Tp Tp
 ```
 
 ### Part 2: Accent on the 2nd Partial (The "e")
+
+On every beat, **R plays Up on partial `1`** and **L plays Dn on partial `e`**.
 
 ```text
 Count:  1  e  &  a   2  e  &  a   3  e  &  a   4  e  &  a
 Notes:  .  >  .  .   .  >  .  .   .  >  .  .   .  >  .  .
 Sticks: R  L  R  L   R  L  R  L   R  L  R  L   R  L  R  L
-Stroke: Up-Down------Up-Down------Up-Down------Up-Down-----
+R-Str:  Up Tp Tp Tp  Up Tp Tp Tp  Up Tp Tp Tp  Up Tp Tp Tp
+L-Str:  Tp Dn Tp Tp  Tp Dn Tp Tp  Tp Dn Tp Tp  Tp Dn Tp Tp
 ```
 
 ### Part 3: Accent on the 3rd Partial (The "&")
+
+On every beat, **L plays Up on partial `e`** and **R plays Dn on partial `&`**.
 
 ```text
 Count:  1  e  &  a   2  e  &  a   3  e  &  a   4  e  &  a
 Notes:  .  .  >  .   .  .  >  .   .  .  >  .   .  .  >  .
 Sticks: R  L  R  L   R  L  R  L   R  L  R  L   R  L  R  L
-Stroke: ----Up-Down-------Up-Down-------Up-Down-------Up-D-
+R-Str:  Tp Tp Dn Tp  Tp Tp Dn Tp  Tp Tp Dn Tp  Tp Tp Dn Tp
+L-Str:  Tp Up Tp Tp  Tp Up Tp Tp  Tp Up Tp Tp  Tp Up Tp Tp
 ```
 
 ### Part 4: Accent on the 4th Partial (The "a")
+
+On every beat, **R plays Up on partial `&`** and **L plays Dn on partial `a`**.
 
 ```text
 Count:  1  e  &  a   2  e  &  a   3  e  &  a   4  e  &  a
 Notes:  .  .  .  >   .  .  .  >   .  .  .  >   .  .  .  >
 Sticks: R  L  R  L   R  L  R  L   R  L  R  L   R  L  R  L
-Stroke: -------Up-D--------An-Up--------An-Up--------An-Up-
+R-Str:  Tp Tp Up Tp  Tp Tp Up Tp  Tp Tp Up Tp  Tp Tp Up Tp
+L-Str:  Tp Tp Tp Dn  Tp Tp Tp Dn  Tp Tp Tp Dn  Tp Tp Tp Dn
 ```
 
 ## Troubleshooting Height Control

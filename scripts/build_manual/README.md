@@ -59,7 +59,7 @@ Links in Markdown that point to a file in another volume are rewritten to **clic
 
 Links to **the same volume** become in-PDF jumps (`#chapter-anchor`). Links to **scores, audio, or root docs** not in any PDF become plain-text repository notes.
 
-See [PDF link resolution](../../manual/PDF_LINKS.md) for the full rules and [`manual/link_registry.yaml`](../../manual/link_registry.yaml) for non-PDF paths.
+See [PDF link resolution](../../manual/PDF_LINKS.md) for the full rules, [`manual/SOURCE_TO_PDF_MAPPING.md`](../../manual/SOURCE_TO_PDF_MAPPING.md) for source → interim → PDF tables, and [`manual/link_registry.yaml`](../../manual/link_registry.yaml) for non-PDF paths.
 
 Each PDF includes:
 
