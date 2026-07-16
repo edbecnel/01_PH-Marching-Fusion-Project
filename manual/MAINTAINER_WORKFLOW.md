@@ -28,7 +28,16 @@ Note the PDF filename (for example `02-Reference.pdf`) and the section heading f
 
 ### 2. Trace back to the source Markdown
 
-Open [`SOURCE_TO_PDF_MAPPING.md`](SOURCE_TO_PDF_MAPPING.md) and find the volume table for that PDF. Use the **Source Markdown** column — that is the file you edit.
+**CLI lookup:**
+
+```bash
+python3 scripts/build_manual/lookup_source.py --pdf 02-Reference.pdf --section "Concept Library"
+python3 scripts/build_manual/lookup_source.py --source docs/Reference/Concept_Library.md
+```
+
+**Mapping tables:** open [`SOURCE_TO_PDF_MAPPING.md`](SOURCE_TO_PDF_MAPPING.md) and find the volume table for that PDF. Use the **Source Markdown** column — that is the file you edit.
+
+Regenerate the mapping after manifest changes: `python3 scripts/build_manual/generate_source_mapping.py`
 
 **Authoritative manifests** (if the mapping doc is stale):
 

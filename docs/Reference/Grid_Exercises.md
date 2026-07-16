@@ -56,8 +56,11 @@ Stroke labels describe **stick motion**, not whether a note is written. An **ups
 | **Dn** | Downstroke | Starts high, ends low — accents |
 | **Up** | Upstroke | Starts low, ends high — prep tap before an accent |
 | **Tp** | Tap | Starts low, ends low — inner taps between accents |
+| **—** | No stroke | That hand does not strike on this partial |
+| **Tp→Tp** | Did-it | Low double: first stroke tap, second stroke tap |
+| **Tp→Up** | Did-it + prep | Low double: first stroke tap, second stroke upstroke (prep for next accent) |
 
-**Reading rule:** `R-Str` and `L-Str` align under `Sticks`. Each label applies only to the hand striking on that partial. Compound patterns such as Up-then-Dn span two consecutive partials — the first partial gets **Up**, the second gets **Dn**, each on the hand shown in `Sticks` for that column.
+**Reading rule:** `R-Str` and `L-Str` align under `Sticks`. Read only the label on the row that matches the hand in `Sticks` for that column; the other row shows **—**. Compound patterns such as Up-then-Dn span two consecutive partials — the first partial gets **Up**, the second gets **Dn**, each on the striking hand for that column. Did-its (`rr` / `ll`) occupy one column but are two strokes; use **Tp→Tp** or **Tp→Up** to show how the double finishes.
 
 ```text
 Time Signature: 4/4
@@ -70,8 +73,8 @@ Subdivision: 16th Notes (1 e & a 2 e & a...)
 Count:  1  e  &  a   2  e  &  a   3  e  &  a   4  e  &  a
 Notes:  ^  .  .  .   >  .  .  .   ^  .  .  .   >  .  .  .
 Sticks: R  L  R  L   R  L  R  L   R  L  R  L   R  L  R  L
-R-Str:  Dn Tp Tp Tp  Dn Tp Tp Tp  Dn Tp Tp Tp  Dn Tp Tp Tp
-L-Str:  Tp Tp Tp Tp  Tp Tp Tp Tp  Tp Tp Tp Tp  Tp Tp Tp Tp
+R-Str:  Dn — Tp —  Dn — Tp —  Dn — Tp —  Dn — Tp —
+L-Str:  — Tp — Tp  — Tp — Tp  — Tp — Tp  — Tp — Tp
 ```
 
 ### Part B: The Syncopated Offbeat (The "e" Shift)
@@ -82,8 +85,8 @@ This variation mimics traditional native kettle-drum answer patterns. On every b
 Count:  1  e  &  a   2  e  &  a   3  e  &  a   4  e  &  a
 Notes:  .  >  .  .   .  ^  .  .   .  >  .  .   .  ^  .  .
 Sticks: R  L  R  L   R  L  R  L   R  L  R  L   R  L  R  L
-R-Str:  Up Tp Tp Tp  Up Tp Tp Tp  Up Tp Tp Tp  Up Tp Tp Tp
-L-Str:  Tp Dn Tp Tp  Tp Dn Tp Tp  Tp Dn Tp Tp  Tp Dn Tp Tp
+R-Str:  Up — Tp —  Up — Tp —  Up — Tp —  Up — Tp —
+L-Str:  — Dn — Tp  — Dn — Tp  — Dn — Tp  — Dn — Tp
 ```
 
 **Beat 1 walkthrough**
@@ -103,8 +106,8 @@ This bar pushes the line through rapid height switches. It tests whether players
 Count:  1  e  &  a   2  e  &  a   3  e  &  a   4  e  &  a
 Notes:  ^  .  .  .   .  >  .  .   .  .  ^  .   .  .  .  >
 Sticks: R  L  R  L   R  L  R  L   R  L  R  L   R  L  R  L
-R-Str:  Dn Tp Tp Tp  Up Tp Tp Tp  Tp Tp Dn Tp  Tp Tp Up Tp
-L-Str:  Tp Up Tp Tp  Tp Dn Tp Tp  Tp Up Tp Tp  Tp Tp Tp Dn
+R-Str:  Dn — Tp —  Up — Tp —  Tp — Dn —  Tp — Up —
+L-Str:  — Up — Tp  — Dn — Tp  — Up — Tp  — Tp — Dn
 ```
 
 | Beat | Accent partial | Accent hand | Prep (Up) | Accent (Dn) |
@@ -124,9 +127,9 @@ Traditional Philippine lyre corps rely on dense, rapid multi-note patterns. This
 | Symbol | Meaning |
 |---|---|
 | `>` | Accented single stroke (9"–12") |
-| `rr` / `ll` | Low double-stroke / did-it (3" tap height) |
+| `rr` / `ll` | Low double-stroke / did-it (3" tap height) — two strokes in one column; see **Tp→Tp** and **Tp→Up** in [Stroke Notation Key](#stroke-notation-key) |
 
-Stroke labels use the same `R-Str` / `L-Str` convention as [Exercise 1 — Stroke Notation Key](#stroke-notation-key).
+Stroke labels use the same `R-Str` / `L-Str` convention as [Exercise 1 — Stroke Notation Key](#stroke-notation-key). Only the hand shown in `Sticks` plays on that partial; the other stroke row shows **—**.
 
 ### Part 1: Accent on the 1st Partial (Downbeat Driving Pulse)
 
@@ -134,21 +137,29 @@ Stroke labels use the same `R-Str` / `L-Str` convention as [Exercise 1 — Strok
 Count:  1  tl bi  2  tl bi  3  tl bi  4  tl bi
 Notes:  >  ll rr  >  rr ll  >  ll rr  >  rr ll
 Sticks: R  L  R   L  R  L   R  L  R   L  R  L
-R-Str:  Dn Tp Tp  Dn Tp Tp  Dn Tp Tp  Dn Tp Tp
-L-Str:  Tp Tp Tp  Tp Tp Tp  Tp Tp Tp  Tp Tp Tp
+R-Str:  Dn — Tp→Tp  — Tp→Tp —  Dn — Tp→Tp  — Tp→Tp —
+L-Str:  — Tp→Tp —  Dn — Tp→Tp  — Tp→Tp —  Dn — Tp→Tp
 ```
 
 ### Part 2: Accent on the 2nd Partial (The Upbeat Flow)
 
-Extremely difficult for tracking uniform stick heights, as the accenting hand must pop out of a low did-it into a high accent. Within each triplet, the hand on partial `1` finishes with **Up** and the accenting hand on partial `tl` plays **Dn**.
+Extremely difficult for tracking uniform stick heights, as the accenting hand must pop out of a low did-it into a high accent. On partial `1`, the did-it is **Tp→Up** (first stroke tap, second stroke upstroke prep). The accenting hand on partial `tl` plays **Dn**.
 
 ```text
 Count:  1  tl bi  2  tl bi  3  tl bi  4  tl bi
 Notes:  rr >  rr  ll >  ll  rr >  ll  ll >  ll
 Sticks: R  L  R   L  R  L   R  L  R   L  R  L
-R-Str:  Up Tp Tp  Tp Dn Tp  Up Tp Tp  Tp Dn Tp
-L-Str:  Tp Dn Tp  Up Tp Tp  Tp Dn Tp  Up Tp Tp
+R-Str:  Tp→Up — Tp→Tp  — Dn —       Tp→Up — Tp→Tp  — Dn —
+L-Str:  — Dn —         Tp→Up — Tp→Tp  — Dn —       Tp→Up — Tp→Tp
 ```
+
+**Beat 1 walkthrough**
+
+| Partial | Hand | Note | Stroke | Detail |
+|---|---|---|---|---|
+| `1` | R | `rr` did-it | Tp→Up | 1st `r` = Tp; 2nd `r` = Up (prep for L accent on `tl`) |
+| `tl` | L | `>` accent | Dn | 9"–12" from high prepare position |
+| `bi` | R | `rr` did-it | Tp→Tp | both strokes stay low — no accent follows on next partial `1` |
 
 ## Exercise 3: Bass Drum "Linear Fiesta" Split Grid
 

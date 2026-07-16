@@ -39,6 +39,26 @@ Output: `dist/manual/2026.07/*.pdf` (10 PDFs)
 | `--volume reference` | Build one domain volume by id |
 | `--trainers` | Build only `00-Trainers-Manual.pdf` |
 | `--students` | Build only `09-Student-Practice-Guide.pdf` |
+| `lookup_source.py` | Trace PDF section or source path to manifests (see below) |
+| `generate_source_mapping.py` | Regenerate `manual/SOURCE_TO_PDF_MAPPING.md` from YAML |
+
+## Trace PDF content to source Markdown
+
+```bash
+# PDF + section heading -> source file
+python3 scripts/build_manual/lookup_source.py --pdf 02-Reference.pdf --section "Concept Library"
+
+# Source file -> which PDFs embed it
+python3 scripts/build_manual/lookup_source.py --source docs/Reference/Concept_Library.md
+```
+
+Full workflow: [PDF maintainer workflow](../../manual/MAINTAINER_WORKFLOW.md). Mapping tables: [SOURCE_TO_PDF_MAPPING.md](../../manual/SOURCE_TO_PDF_MAPPING.md).
+
+Regenerate mapping after manifest edits:
+
+```bash
+python3 scripts/build_manual/generate_source_mapping.py
+```
 
 ## Release PDFs
 

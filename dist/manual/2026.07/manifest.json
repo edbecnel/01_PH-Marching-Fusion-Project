@@ -1,17 +1,8 @@
 {
   "version": "2026.07",
-  "built_at": "2026-07-16T22:56:22.794454+00:00",
-  "git_commit": "189261d138e6b41579878cd7e197973246e989da",
+  "built_at": "2026-07-16T23:38:40.895637+00:00",
+  "git_commit": "f192ca3ea142112a5135762788a53e133f9163fd",
   "pdfs": [
-    "01-Specifications.pdf",
-    "02-Reference.pdf",
-    "03-User-Guides.pdf",
-    "04-Research.pdf",
-    "05-Architecture.pdf",
-    "06-Governance.pdf",
-    "07-AI-Development.pdf",
-    "08-Templates-and-Placeholders.pdf",
-    "00-Trainers-Manual.pdf",
     "09-Student-Practice-Guide.pdf"
   ],
   "link_map_keys": 54
