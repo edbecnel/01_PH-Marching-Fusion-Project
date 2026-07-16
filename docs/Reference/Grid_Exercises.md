@@ -13,7 +13,7 @@
 
 This document is core reference material for grid exercises in the Philippine Marching Percussion Fusion Project. It blends the high-velocity, high-tension hand speed of traditional Philippine Drum & Lyre Corps (DLC) and native festival grooves with the strict stick-height systems of DCI and the high-energy rhythmic syncopation and visual showmanship of HBCU drumlines.
 
-Grid exercises are an initial subject in the [Hybrid Warm-Up System](../User_Guides/Educational_Handbook.md#hybrid-warm-up-system). For foundational accent-grid notation, see [Accent-Taps](Accent_Taps.md). For baseline warm-up structure, see [8-8-16 Exercise](Eight_Eight_Sixteen.md).
+Grid exercises are an initial subject in the [Hybrid Warm-Up System](<../User_Guides/Educational_Handbook.md#Hybrid Warm-Up System>). For foundational accent-grid notation, see [Accent-Taps](Accent_Taps.md). For baseline warm-up structure, see [8-8-16 Exercise](Eight_Eight_Sixteen.md).
 
 ## Rhythmic Blueprint: The Fusion Philosophy
 

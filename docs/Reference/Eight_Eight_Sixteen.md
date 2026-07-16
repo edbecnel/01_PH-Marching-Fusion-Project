@@ -179,7 +179,7 @@ Because this exercise is repeated daily, players frequently slide into bad habit
 
 ## Project Application
 
-8-8-16 is an initial subject in the [Hybrid Warm-Up System](../User_Guides/Educational_Handbook.md#hybrid-warm-up-system). It supports DCI stick-height control taught through Philippine rhythmic vocabulary. See [Core Blueprint — Pedagogy](../Specifications/Core_Blueprint.md#3-pedagogy-from-rote-learning-to-blended-literacy).
+8-8-16 is an initial subject in the [Hybrid Warm-Up System](<../User_Guides/Educational_Handbook.md#Hybrid Warm-Up System>). It supports DCI stick-height control taught through Philippine rhythmic vocabulary. See [Core Blueprint — Pedagogy](<../Specifications/Core_Blueprint.md#3. Pedagogy: From Rote Learning to Blended Literacy>).
 
 ## Related Documents
 

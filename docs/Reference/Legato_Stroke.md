@@ -58,7 +58,7 @@ In drumline and percussion pedagogy, legatos are explicitly contrasted with othe
 
 ## Project Application
 
-Legatos are an initial subject in the [Hybrid Warm-Up System](../User_Guides/Educational_Handbook.md#hybrid-warm-up-system) and foundational to DCI stick-height control taught through Philippine rhythmic vocabulary. See [Core Blueprint — Pedagogy](../Specifications/Core_Blueprint.md#3-pedagogy-from-rote-learning-to-blended-literacy).
+Legatos are an initial subject in the [Hybrid Warm-Up System](<../User_Guides/Educational_Handbook.md#Hybrid Warm-Up System>) and foundational to DCI stick-height control taught through Philippine rhythmic vocabulary. See [Core Blueprint — Pedagogy](<../Specifications/Core_Blueprint.md#3. Pedagogy: From Rote Learning to Blended Literacy>).
 
 ## Related Documents
 

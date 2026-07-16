@@ -26,7 +26,7 @@ Together they produce **tension and release inside the bar** while tempo stays s
 
 ## Philippine Festival Context
 
-Push-and-pull appears in Visayan and broader Philippine festival drumming where bass and ensemble accents do not sit only on marching downbeats. Native patterns create street-oriented momentum—the feel described in [Syncopation in the Philippine Context](Concept_Library.md#1-syncopation-in-the-philippine-context) and the [Sinulog-DCI Hybrid grid](Grid_Exercises.md#exercise-1-the-sinulog-dci-hybrid-16th-note-grid).
+Push-and-pull appears in Visayan and broader Philippine festival drumming where bass and ensemble accents do not sit only on marching downbeats. Native patterns create street-oriented momentum—the feel described in [Syncopation in the Philippine Context](<Concept_Library.md#1. Syncopation in the Philippine Context>) and the [Sinulog-DCI Hybrid grid](<Grid_Exercises.md#Exercise 1: The "Sinulog-DCI Hybrid" 16th-Note Grid>).
 
 The [Philippine Percussion Sound Model](Philippine_Percussion_Sound_Model.md) lists festival-forward **syncopated push-and-pull** as a core sonic trait.
 
@@ -76,7 +76,7 @@ Feel:   Accents surge on & and secondary pushes (^); beats 1–2–3–4 act as 
 
 ## Example 3: 16th-Note Push-and-Pull (Festival Density)
 
-A denser pattern matching the forward-shifting accent logic in grid warm-ups. Compare [Grid Exercises — Part B](Grid_Exercises.md#part-b-the-syncopated-offbeat-the-e-shift).
+A denser pattern matching the forward-shifting accent logic in grid warm-ups. Compare [Grid Exercises — Part B](<Grid_Exercises.md#Part B: The Syncopated Offbeat (The "e" Shift)>).
 
 ```text
 Count:  1  e  &  a   2  e  &  a   3  e  &  a   4  e  &  a
@@ -108,7 +108,7 @@ Feel:   Bass leads push-and-pull; snare reinforces offbeat push without straight
 
 ## Example 5: Call-and-Response Push (Ensemble)
 
-Two-bar question and answer using push-and-pull—relates to [Call and Response](Concept_Library.md#6-call-and-response).
+Two-bar question and answer using push-and-pull—relates to [Call and Response](<Concept_Library.md#6. Call and Response>).
 
 ```text
 -- Bars 1–2: "Question" (bass push leads) --
@@ -160,16 +160,16 @@ Bass:   ^  .  .  >   .  ^  .  .   ^  .  .  >   .  ^  .  .
 
 ## Project Application
 
-- **Sound model:** Core trait of festival-forward groove ([Philippine Percussion Sound Model](Philippine_Percussion_Sound_Model.md#groove-characteristics))
+- **Sound model:** Core trait of festival-forward groove ([Philippine Percussion Sound Model](<Philippine_Percussion_Sound_Model.md#Groove Characteristics>))
 - **Warm-ups:** Trained through [Grid Exercises](Grid_Exercises.md) and [Accent-Taps](Accent_Taps.md) partial shifts
-- **Arranging:** Layer A bass must exhibit push-and-pull before Layer B density is added ([Core Blueprint](../Specifications/Core_Blueprint.md#layer-a--the-soul))
-- **Evaluation:** Use [Sound Model evaluation checklist](Philippine_Percussion_Sound_Model.md#evaluation-checklist)
+- **Arranging:** Layer A bass must exhibit push-and-pull before Layer B density is added ([Core Blueprint](<../Specifications/Core_Blueprint.md#Layer A — The Soul>))
+- **Evaluation:** Use [Sound Model evaluation checklist](<Philippine_Percussion_Sound_Model.md#Evaluation Checklist>)
 
 ## Related Documents
 
 - [Philippine Percussion Sound Model](Philippine_Percussion_Sound_Model.md)
 - [Grid Exercises](Grid_Exercises.md)
 - [Accent-Taps](Accent_Taps.md)
-- [Concept Library — Syncopation](Concept_Library.md#1-syncopation-in-the-philippine-context)
-- [Philippine Festival Rhythms](Concept_Library.md#4-philippine-festival-rhythms)
+- [Concept Library — Syncopation](<Concept_Library.md#1. Syncopation in the Philippine Context>)
+- [Philippine Festival Rhythms](<Concept_Library.md#4. Philippine Festival Rhythms>)
 - [Arranging Guide](../User_Guides/Arranging_Guide.md)

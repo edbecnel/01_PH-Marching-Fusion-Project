@@ -17,7 +17,7 @@ Educators new to the project should read the [Instructor Introduction](Instructo
 
 ## How to Use This Guide
 
-1. Read the Identity Framework and apply the [Identity Preservation Checklist](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#appendix-identity-preservation-checklist).
+1. Read the Identity Framework and apply the [Identity Preservation Checklist](<../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Appendix: Identity Preservation Checklist>).
 2. Consult relevant Concept Library entries.
 3. Follow [Notation Standards](../Specifications/Notation_Standards.md) when writing parts.
 4. Validate arrangements against the [Philippine Percussion Sound Model](../Reference/Philippine_Percussion_Sound_Model.md).

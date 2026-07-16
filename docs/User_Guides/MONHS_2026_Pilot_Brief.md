@@ -36,7 +36,7 @@ Pilot instructors are **collaborators**, not implementers of a fixed method.
 
 We ask you to:
 
-- apply the [Identity Preservation Checklist](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#appendix-identity-preservation-checklist) when reviewing material
+- apply the [Identity Preservation Checklist](<../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Appendix: Identity Preservation Checklist>) when reviewing material
 - adapt exercises and show ideas to your corps's strengths and constraints
 - share what translates well from festival and community traditions into Drum & Lyre writing
 - document lessons learned for the [Project Journal](../Development/Project_Journal.md)
@@ -62,7 +62,7 @@ Bukidnon instructors are invited to lead conversation on:
 - regional diversity within Bukidnon traditions
 - what must be preserved versus what can be modernized
 
-The project follows [Translate Musical Ideas—Not Instruments](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#translate-musical-ideasnot-instruments): we adapt groove, phrasing, and ensemble communication—not imitate indigenous instruments on modern drums.
+The project follows [Translate Musical Ideas—Not Instruments](<../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Translate Musical Ideas—Not Instruments>): we adapt groove, phrasing, and ensemble communication—not imitate indigenous instruments on modern drums.
 
 ## Feedback and Documentation
 

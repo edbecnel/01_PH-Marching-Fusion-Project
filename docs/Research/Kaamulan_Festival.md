@@ -43,8 +43,8 @@ Pilot instructors—including MONHS (Misamis Oriental National High School) coll
 ## Related Documents
 
 - [Indigenous Philippine Percussion](Indigenous_Philippine_Percussion.md)
-- [Identity Framework — Kaamulan Festival](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#kaamulan-festival)
-- [Concept Library — Philippine Festival Rhythms](../Reference/Concept_Library.md#4-philippine-festival-rhythms)
+- [Identity Framework — Kaamulan Festival](<../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Kaamulan Festival>)
+- [Concept Library — Philippine Festival Rhythms](<../Reference/Concept_Library.md#4. Philippine Festival Rhythms>)
 - [Instructor Introduction](../User_Guides/Instructor_Introduction.md)
 - [MONHS 2026 Pilot Brief](../User_Guides/MONHS_2026_Pilot_Brief.md)
 - [Research backlog](../../tasks/research-backlog.md)

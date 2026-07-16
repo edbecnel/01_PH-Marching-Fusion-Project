@@ -124,7 +124,7 @@ Maintaining consistent dynamic contrast is the hardest part of accent-tap pedago
 
 ## Project Application
 
-Accent-taps are an initial subject in the [Hybrid Warm-Up System](../User_Guides/Educational_Handbook.md#hybrid-warm-up-system). DCI stick-height control in this project is taught through accent groupings influenced by Philippine festival rhythms. See [Core Blueprint — Pedagogy](../Specifications/Core_Blueprint.md#3-pedagogy-from-rote-learning-to-blended-literacy).
+Accent-taps are an initial subject in the [Hybrid Warm-Up System](<../User_Guides/Educational_Handbook.md#Hybrid Warm-Up System>). DCI stick-height control in this project is taught through accent groupings influenced by Philippine festival rhythms. See [Core Blueprint — Pedagogy](<../Specifications/Core_Blueprint.md#3. Pedagogy: From Rote Learning to Blended Literacy>).
 
 ## Related Documents
 

@@ -117,7 +117,7 @@ Before adopting a composition, exercise, arrangement, or rehearsal concept, cons
 - Are international influences supporting rather than dominating the music?
 - Does the resulting performance still sound unmistakably Filipino?
 
-The authoritative version appears in the [Identity Framework appendix](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#appendix-identity-preservation-checklist).
+The authoritative version appears in the [Identity Framework appendix](<../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Appendix: Identity Preservation Checklist>).
 
 ## What We Ask of Pilot Instructors
 

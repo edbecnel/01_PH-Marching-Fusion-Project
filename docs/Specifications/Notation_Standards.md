@@ -36,7 +36,7 @@ MuseScore Studio 4 with Muse Drumline (MDL2) is the canonical notation platform 
 
 ## Related Documents
 
-- [Concept Library — Marching Percussion Notation Strategy](../Reference/Concept_Library.md#3-marching-percussion-notation-strategy)
+- [Concept Library — Marching Percussion Notation Strategy](<../Reference/Concept_Library.md#3. Marching Percussion Notation Strategy>)
 - [Arranging Guide](../User_Guides/Arranging_Guide.md)
 - [Scores](../../../scores/README.md)
 

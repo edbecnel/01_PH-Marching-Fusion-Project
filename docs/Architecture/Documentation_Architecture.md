@@ -42,7 +42,7 @@ Defines purpose, scope, stakeholders, constraints, and success criteria.
 
 ### [Philippine Marching Percussion Identity Framework](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md)
 
-The project's musical constitution. Defines identity, cultural foundations, and the [Identity Preservation Checklist](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#appendix-identity-preservation-checklist) · [[../Specifications/Philippine_Marching_Percussion_Identity_Framework#Appendix: Identity Preservation Checklist|Identity Preservation Checklist]].
+The project's musical constitution. Defines identity, cultural foundations, and the [Identity Preservation Checklist](<../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Appendix: Identity Preservation Checklist>).
 
 ### [ENGINEERING_DOCUMENTATION_FRAMEWORK.md](../../ENGINEERING_DOCUMENTATION_FRAMEWORK.md)
 

@@ -65,7 +65,7 @@ Rehearsal should reinforce:
 - movement integrated with musical phrasing
 - audience connection and performance energy
 - sectional balance appropriate to available instrumentation
-- identity evaluation using the [Identity Preservation Checklist](Philippine_Marching_Percussion_Identity_Framework.md#appendix-identity-preservation-checklist)
+- identity evaluation using the [Identity Preservation Checklist](<Philippine_Marching_Percussion_Identity_Framework.md#Appendix: Identity Preservation Checklist>)
 
 ## Performance Philosophy
 

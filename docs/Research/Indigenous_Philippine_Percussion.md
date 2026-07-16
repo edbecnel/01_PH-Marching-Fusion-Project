@@ -13,7 +13,7 @@
 
 This document records research on indigenous Philippine percussion traditions as the deepest cultural roots of the project. Findings inform the [Identity Framework](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md) and [Concept Library](../Reference/Concept_Library.md).
 
-The project respectfully adapts indigenous ideas rather than attempting literal recreation. See [Translate Musical Ideas—Not Instruments](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#translate-musical-ideasnot-instruments).
+The project respectfully adapts indigenous ideas rather than attempting literal recreation. See [Translate Musical Ideas—Not Instruments](<../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Translate Musical Ideas—Not Instruments>).
 
 This is a **research synthesis** document. Stable definitions migrate to the [Concept Library](../Reference/Concept_Library.md). Practical teaching migrates to the [Educational Handbook](../User_Guides/Educational_Handbook.md). Raw field notes belong in the [Project Journal](../Development/Project_Journal.md).
 
@@ -61,9 +61,9 @@ Layered structure is the musical logic behind the [Core Blueprint](../Specificat
 
 **Project links**
 
-- [Grid Exercises — Bass Drum Linear Fiesta Split](../Reference/Grid_Exercises.md#exercise-3-bass-drum-linear-fiesta-split-grid)
-- [Interlocking Rhythms](../Reference/Concept_Library.md#5-interlocking-rhythms)
-- [Philippine Festival Rhythms](../Reference/Concept_Library.md#4-philippine-festival-rhythms)
+- [Grid Exercises — Bass Drum Linear Fiesta Split](<../Reference/Grid_Exercises.md#Exercise 3: Bass Drum "Linear Fiesta" Split Grid>)
+- [Interlocking Rhythms](<../Reference/Concept_Library.md#5. Interlocking Rhythms>)
+- [Philippine Festival Rhythms](<../Reference/Concept_Library.md#4. Philippine Festival Rhythms>)
 
 **Sources and contributors**
 
@@ -94,8 +94,8 @@ Call-and-response is central to audience connection, sectional listening, and th
 
 **Project links**
 
-- [Call and Response](../Reference/Concept_Library.md#6-call-and-response)
-- [Community Performance Traditions](../Reference/Concept_Library.md#9-community-performance-traditions)
+- [Call and Response](<../Reference/Concept_Library.md#6. Call and Response>)
+- [Community Performance Traditions](<../Reference/Concept_Library.md#9. Community Performance Traditions>)
 - [Instructor Introduction](../User_Guides/Instructor_Introduction.md) — collaboration framing for MONHS educators
 
 **Sources and contributors**
@@ -126,8 +126,8 @@ Explains why visual energy, audience engagement, and movement integration are id
 
 **Project links**
 
-- [Identity Framework — Community and Festival Traditions](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#community-and-festival-traditions)
-- [Movement and Dance](../Reference/Concept_Library.md#11-movement-and-dance)
+- [Identity Framework — Community and Festival Traditions](<../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Community and Festival Traditions>)
+- [Movement and Dance](<../Reference/Concept_Library.md#11. Movement and Dance>)
 
 **Sources and contributors**
 
@@ -158,8 +158,8 @@ Supports the Identity Framework principle that visual design must reinforce musi
 **Project links**
 
 - [Kaamulan Festival](Kaamulan_Festival.md)
-- [Core Blueprint — Visual Identity](../Specifications/Core_Blueprint.md#5-visual-identity-philippine-yabang)
-- [Movement and Dance](../Reference/Concept_Library.md#11-movement-and-dance)
+- [Core Blueprint — Visual Identity](<../Specifications/Core_Blueprint.md#5. Visual Identity: Philippine *Yabang*>)
+- [Movement and Dance](<../Reference/Concept_Library.md#11. Movement and Dance>)
 
 **Sources and contributors**
 
@@ -189,7 +189,7 @@ Warm-up and grid pedagogy must build sustainable mechanics ([Legato Stroke](../R
 
 **Project links**
 
-- [Educational Handbook — Hybrid Warm-Up System](../User_Guides/Educational_Handbook.md#hybrid-warm-up-system)
+- [Educational Handbook — Hybrid Warm-Up System](<../User_Guides/Educational_Handbook.md#Hybrid Warm-Up System>)
 - [Eight_Eight_Sixteen](../Reference/Eight_Eight_Sixteen.md)
 
 **Sources and contributors**
@@ -221,7 +221,7 @@ Informs show architecture and cadence design: when to build, when to release, an
 **Project links**
 
 - [Kaamulan Festival](Kaamulan_Festival.md)
-- [Identity Framework — Historical Foundation](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#historical-foundation)
+- [Identity Framework — Historical Foundation](<../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Historical Foundation>)
 
 **Sources and contributors**
 
@@ -251,8 +251,8 @@ Prevents flattening indigenous and festival sources into one fusion cliché. [Gr
 
 **Project links**
 
-- [Regional Musical Traditions](../Reference/Concept_Library.md#13-regional-musical-traditions)
-- [Research Program](#research-program) — regional rhythmic studies
+- [Regional Musical Traditions](<../Reference/Concept_Library.md#13. Regional Musical Traditions>)
+- [Research Program](<#Research Program>) — regional rhythmic studies
 
 **Sources and contributors**
 
@@ -283,9 +283,9 @@ Collective groove is the sonic target of the [Philippine Percussion Sound Model]
 
 **Project links**
 
-- [Interlocking Rhythms](../Reference/Concept_Library.md#5-interlocking-rhythms)
+- [Interlocking Rhythms](<../Reference/Concept_Library.md#5. Interlocking Rhythms>)
 - [Philippine Percussion Sound Model](../Reference/Philippine_Percussion_Sound_Model.md)
-- [Identity Preservation Checklist](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#appendix-identity-preservation-checklist)
+- [Identity Preservation Checklist](<../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Appendix: Identity Preservation Checklist>)
 
 **Sources and contributors**
 
@@ -389,7 +389,7 @@ Density, collective intelligence, and distributed responsibility in ensemble tim
 
 **Battery translation hypothesis**
 
-Snare splits, tenor orchestration, and bass [linear fiesta grids](../Reference/Grid_Exercises.md#exercise-3-bass-drum-linear-fiesta-split-grid). See [Split Orchestration](../Reference/Concept_Library.md#2-split-orchestration-for-marching-tenors).
+Snare splits, tenor orchestration, and bass [linear fiesta grids](<../Reference/Grid_Exercises.md#Exercise 3: Bass Drum "Linear Fiesta" Split Grid>). See [Split Orchestration](<../Reference/Concept_Library.md#2. Split Orchestration for Marching Tenors>).
 
 **Respect and limits**
 
@@ -493,7 +493,7 @@ Defines festival and community music as celebratory and participatory, not merel
 
 **Battery translation hypothesis**
 
-Informs HBCU-influenced **contrast** (Layer C) only where it amplifies Philippine energy; see [Grid Exercises — HBCU Flash](../Reference/Grid_Exercises.md#exercise-2-the-hbcu-flash-triplet-grid-with-did-its).
+Informs HBCU-influenced **contrast** (Layer C) only where it amplifies Philippine energy; see [Grid Exercises — HBCU Flash](<../Reference/Grid_Exercises.md#Exercise 2: The "HBCU Flash" Triplet Grid with Did-Its>).
 
 **Respect and limits**
 
@@ -516,7 +516,7 @@ Active research topics with methods, deliverables, and ownership. Update status 
 | Regional rhythmic studies | How do Bukidnon patterns differ from Visayan festival grooves in accent placement and ensemble role? | Instructor interviews; curated listening in `references/` | MONHS pilot instructors | Planned | Regional subsections or `docs/Research/Regions/` notes |
 | Indigenous performance techniques | Which hand-drum practices are already implicit in local Drum & Lyre teaching? | Rehearsal observation; Project Journal notes | MONHS pilot | Planned | Expanded practice profiles in this document |
 | Dance-percussion relationships | Which movement cues drive accent placement and phrase release? | Kaamulan field observation; video analysis | Project owner + instructors | Planned | [Kaamulan Festival](Kaamulan_Festival.md); Concept Library updates |
-| Native instruments and musical roles | What musical **roles** (pulse, answer, drive) do indigenous instruments serve—without copying timbre? | Ethnographic sources; community review | Project owner | Planned | [Native Instruments](../Reference/Concept_Library.md#12-native-instruments) expansion |
+| Native instruments and musical roles | What musical **roles** (pulse, answer, drive) do indigenous instruments serve—without copying timbre? | Ethnographic sources; community review | Project owner | Planned | [Native Instruments](<../Reference/Concept_Library.md#12. Native Instruments>) expansion |
 | Comparative respect and attribution | How do we cite sources, credit communities, and avoid misrepresentation? | Governance review; advisor input | Project owner | Planned | [Project Governance](../Governance/Project_Governance.md) addendum if needed |
 
 ### Research Ethics
@@ -542,7 +542,7 @@ Expanded bullet outlines into concept profiles, performance-practice profiles, a
 
 - [Kaamulan Festival](Kaamulan_Festival.md)
 - [MONHS 2026 Pilot Brief](../User_Guides/MONHS_2026_Pilot_Brief.md)
-- [Identity Framework — Indigenous Philippine Foundations](../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#indigenous-philippine-foundations)
+- [Identity Framework — Indigenous Philippine Foundations](<../Specifications/Philippine_Marching_Percussion_Identity_Framework.md#Indigenous Philippine Foundations>)
 - [Concept Library](../Reference/Concept_Library.md)
 - [Research backlog](../../tasks/research-backlog.md)
 - [References](../../../references/README.md)

@@ -31,7 +31,7 @@ This handbook will explain how to:
 
 The project introduces notation as an additional tool rather than a replacement for learning by ear. Traditional local lines develop listening, memory, feel, and cultural continuity. Written materials add repeatability, preservation, and advanced rhythmic organization.
 
-See [Core Blueprint — Pedagogy](../Specifications/Core_Blueprint.md#3-pedagogy-from-rote-learning-to-blended-literacy).
+See [Core Blueprint — Pedagogy](<../Specifications/Core_Blueprint.md#3. Pedagogy: From Rote Learning to Blended Literacy>).
 
 ## Hybrid Warm-Up System
 
