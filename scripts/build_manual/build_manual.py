@@ -123,7 +123,8 @@ def git_commit(repo_root: Path) -> str | None:
 
 
 def find_pdf_engine() -> list[str]:
-    for engine in ("tectonic", "pdflatex", "xelatex", "lualatex"):
+    # header.tex uses fontspec; requires Unicode LaTeX (not pdflatex).
+    for engine in ("xelatex", "lualatex", "tectonic"):
         if shutil.which(engine):
             return ["--pdf-engine", engine]
     return []
@@ -241,7 +242,9 @@ def build_volume(
         "-V",
         "geometry:margin=1in",
         "-V",
-        "fontsize=11pt",
+        "fontsize=12pt",
+        "-V",
+        "linestretch=1.25",
         "-V",
         "linkcolor:blue",
         "-V",

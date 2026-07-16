@@ -1,3 +1,31 @@
+% GitHub-like typography: Noto Sans (body) + Noto Sans Mono (code).
+% Fonts are bundled under assets/fonts/ for reproducible builds.
+\usepackage{fontspec}
 \usepackage{longtable}
 \usepackage{booktabs}
 \usepackage{fancyvrb}
+
+\defaultfontfeatures{Ligatures=TeX}
+
+\setmainfont{NotoSans}[
+  Path=assets/fonts/NotoSans/,
+  Extension=.ttf,
+  UprightFont=*-Regular,
+  BoldFont=*-Bold,
+  ItalicFont=*-Italic,
+  BoldItalicFont=*-BoldItalic,
+  Scale=0.95,
+]
+
+\setmonofont{NotoSansMono}[
+  Path=assets/fonts/NotoSansMono/,
+  Extension=.ttf,
+  UprightFont=*-Regular,
+  BoldFont=*-Bold,
+  ItalicFont=*-Regular,
+  BoldItalicFont=*-Bold,
+  Scale=0.88,
+]
+
+% Pandoc inline code and verbatim blocks
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}

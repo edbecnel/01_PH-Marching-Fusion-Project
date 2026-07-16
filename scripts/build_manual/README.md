@@ -5,8 +5,9 @@ Build multi-volume PDF manuals and the **Trainers Manual** from project Markdown
 ## Requirements
 
 - [Pandoc](https://pandoc.org/) 3.x — `brew install pandoc`
-- [Tectonic](https://tectonic-typesetting.github.io/) — `brew install tectonic` (PDF engine; lighter than full MacTeX)
+- [Tectonic](https://tectonic-typesetting.github.io/) — `brew install tectonic` (Unicode LaTeX engine; lighter than full MacTeX), or `xelatex` / `lualatex` from MacTeX
 - Python 3 with PyYAML
+- Bundled fonts in [`assets/fonts/`](../../assets/fonts/) (Noto Sans + Noto Sans Mono; included in the repo)
 
 ```bash
 python3 -m venv .venv
@@ -65,6 +66,7 @@ Each PDF includes:
 - Cover page with logo and volume index
 - **Table of contents** (3 levels)
 - Numbered sections
+- **GitHub-like typography** — Noto Sans body text, Noto Sans Mono code (see [`header.tex`](templates/header.tex))
 
 ## Adding new documentation
 

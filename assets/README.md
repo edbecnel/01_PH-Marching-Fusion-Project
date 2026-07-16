@@ -18,6 +18,7 @@ This directory holds canonical project branding and shared visual assets. It is 
 | File | Use |
 |---|---|
 | [ph-marching-fusion-logo.png](ph-marching-fusion-logo.png) | Primary project logo |
+| [fonts/](fonts/) | Noto Sans + Noto Sans Mono (PDF manual typography) |
 
 ## Usage
 
